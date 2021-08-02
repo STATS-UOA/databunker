@@ -6,6 +6,13 @@
 \title{Behavioral response of the Mediterranean lizard to smoke}
 \format{
 An object of class \code{"tbl_df"} with 216 rows and 13 columns
+
+\describe{
+  \item{Code}{individual lizard ID}
+  \item{order_treatment}{order the treatments were applied}
+  \item{treatment}{either `Control` or `Smoke`}
+  \item{post_activity_s}{activity in seconds one minute after the treatment application }
+}
 }
 \source{
 \href{https://doi.org/10.1093/beheco/arab010}{Behavioral Ecology}
