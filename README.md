@@ -1,8 +1,8 @@
 ## Overview
 
-### All `.csv` data files used in BIOSCI738 can be found [here](https://github.com/STATS-UOA/databunker/tree/master/data). To explore the datasets before downloading follow [this link](https://stats-uoa.github.io/databunker/).
+All `.csv` data files used in BIOSCI738 can be found [here](https://github.com/STATS-UOA/databunker/tree/master/data). To explore the datasets before downloading follow [this link](https://stats-uoa.github.io/databunker/).
 
-### Datasets & papers 
+## Datasets & papers 
 
 #### [`lizards.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lizards.csv)
 
