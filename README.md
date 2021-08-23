@@ -1,11 +1,6 @@
 ## Overview
 
-A package that contains a number of datasets used in teaching BIOSCI 738 at the University of Auckland. To install run
-
-```
-devtools::install_github("STATS-UOA/databunker")
-library(databunker)
-```
+All `.csv` data files used in BIOSCI738 can be found [here](https://github.com/STATS-UOA/databunker/tree/master/data). To explor the datasets before downloading follow [this link](https://stats-uoa.github.io/databunker/).
 
 ## Research papers for datasets
 
