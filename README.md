@@ -1,6 +1,6 @@
 ## Overview
 
-[A collection of `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data). For a simple codebook overview the data follow [this link](https://stats-uoa.github.io/databunker/).
+[A collection of `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data). For a simple codebook overview of the data follow [this link](https://stats-uoa.github.io/databunker/).
 
 ## Reading in data directly from the URL.
 
