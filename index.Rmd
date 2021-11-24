@@ -23,52 +23,20 @@ ggplot2::theme_set(ggplot2::theme_bw())
 pander::panderOptions("table.split.table", Inf)
 ```
 
+```{r}
+files <- list.files("data", pattern = ".csv", full = TRUE)
+names <- stringr::str_remove(list.files("data", pattern = ".csv"), ".csv")
+for (i in 1:length(files)) {
+     assign(names[i], rio::import(file = files[i]))
+}
+## can't figure out eval, pasre, codebook method, so let's go with this janky solution
+## copying and pasting output to code chunk below :'-(
+## paste("codebook::codebook(", names, 
+     ## ", metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE)", sep = "", collapse = ";")
 
+```
+```{r}
+codebook::codebook(abalone, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(aciar, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(antipodes, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(autism, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(biomarker, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(cannabis, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(darwin, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(dicots_proportions, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(dna_forensic, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(howls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(lizards, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(lobster, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(medley, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(munsingen, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(mussel_metabolomics, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(pitfalls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(plant_vigour, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(pokemon, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(potato, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE)
 
-```{r read in}
-abalone_subset <- rio::import( "data/abalone_subset.csv")          
-ACIAR <- rio::import( "data/ACIAR.csv")                            
-athletes <- rio::import( "data/athletes.csv")                      
-autism <- rio::import( "data/autism.csv")                          
-biomarker <- rio::import( "data/biomarker.csv")                    
-crd_rats_data <- rio::import( "data/crd_rats_data.csv")            
-diabetes <- rio::import( "data/diabetes.csv")                      
-DNA_forensic <- rio::import( "data/DNA_forensic.csv")              
-factorial_expt <- rio::import( "data/factorial_expt.csv")          
-howls <- rio::import( "data/howls.csv")                            
-lizards <- rio::import( "data/lizards.csv")                       
-lobster <- rio::import( "data/lobster.csv")                        
-mussel_metabolomics <- rio::import( "data/mussel_metabolomics.csv")
-paua <- rio::import( "data/paua.csv")                              
-pitfalls <- rio::import( "data/pitfalls.csv")                      
-plant_vigour <- rio::import( "data/plant_vigour.csv")              
-Pokemon <- rio::import( "data/Pokemon.csv")                        
-rats_crd_AUC <- rio::import( "data/rats_crd_AUC.csv")              
-rcbd <- rio::import( "data/rcbd.csv")                              
-split_plot <- rio::import( "data/split_plot.csv")
 ```
 
-
-```{r codebook}
-library(codebook)
-codebook(abalone_subset, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )     
-codebook(ACIAR, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )              
-codebook(athletes, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )          
-codebook(autism, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )             
-codebook(biomarker, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )          
-codebook(crd_rats_data, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )      
-codebook(diabetes, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )           
-codebook(DNA_forensic, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )       
-codebook(factorial_expt, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )     
-codebook(howls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )              
-codebook(lizards, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )            
-codebook(lobster, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )            
-codebook(mussel_metabolomics, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )
-codebook(paua, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )               
-codebook(pitfalls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )           
-codebook(plant_vigour, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )       
-codebook(Pokemon, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )            
-codebook(rats_crd_AUC, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )      
-codebook(rcbd, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )               
-codebook(split_plot, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE )         
-```
