@@ -1,6 +1,6 @@
 ## Overview
 
-[A collection `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data). To explore the data before downloading follow [this link](https://stats-uoa.github.io/databunker/).
+[A collection of `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data). For a simple codebook overview the data follow [this link](https://stats-uoa.github.io/databunker/).
 
 ## Reading in data directly from the URL.
 
@@ -11,17 +11,17 @@ library(readr)
 data <- read_csv("https://raw.githubusercontent.com/STATS-UOA/databunker/master/data/howls.csv")
 ```
 
-## Datasets & papers 
+## Datasets included in [`data/`](https://github.com/STATS-UOA/databunker/tree/master/data)
 
 
 
-#### [`lizards.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lizards.csv)
+### [`lizards.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lizards.csv)
 
 [Lola Álvarez-Ruiz, Josabel Belliure, Juli G Pausas, Fire-driven behavioral response to smoke in a Mediterranean lizard, *Behavioral Ecology*, (2021)](https://doi.org/10.1093/beheco/arab010)
 
 **Summary**
 
-A study was conducted to investigate the whether Mediterranean lizard Psammodromus algirus could recognise
+A study was conducted to investigate the whether Mediterranean lizard *Psammodromus algirus* could recognise
 the threat of fire by detecting smoke and triggering a behavioral response that enhances survival in fire-prone
 ecosystems. Trials were conducted in an experimental terrarium (100 × 50 × 40 cm) with opaque walls, a thin layer of
 substrate, and one refuge in the center. The terrarium was located in a room held at constant temperature
@@ -38,7 +38,7 @@ syringe. We considered the first 3s after the treatment application as adjusting
 and, thus, they were discarded for the analyses. Each lizard was subjected to both experimental
 treatments in random order (order_treatment).
 
-#### [`howls.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/howls.csv)
+### [`howls.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/howls.csv)
 
 [Sadhukhan, S., Root-Gutteridge, H. & Habib, B. Identifying unknown Indian wolves by their distinctive howls: its potential as a non-invasive survey method. *Scientific Reports* 11, 7309 (2021)](https://www.nature.com/articles/s41598-021-86718-w)
 
@@ -55,7 +55,7 @@ kHz and 16-bit depth.
 Thirteen different variables were collected per howl; these included variables relating to the pitch and acoustic
 fundamental frequency of the howl.
 
-#### [`dicots_proportions.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dicots_proportions.csv)
+### [`dicots_proportions.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dicots_proportions.csv)
 
 [Peterson, PG, Merrett, MF, Fowler, SV, Barrett, DP, Paynter, Q. (2020) Comparing biocontrol and herbicide for managing an invasive non-native plant species: Efficacy, non-target effects and secondary invasion. *Journal of Applied Ecology*, 57, 1876– 1884.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13691)
 
@@ -84,7 +84,7 @@ the same date, the first application was allowed to dry before the second applic
 insecticide were applied to run-off. Plots not treated with herbicide or insecticide were sprayed with water to
 run-off on the same dates the chemicals were applied.
 
-#### [`lobster.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lobster.csv)
+### [`lobster.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lobster.csv)
 
 [Wilkinson, E. B., Grabowski, J. H., Sherwood, G. D., and Yund, O. Y. (2015) Influence of predator identity on the strength of predator avoidance responses in lobsters. *Journal of Experimental Marine Biology and Ecology*, 465, 107–112.](https://www.sciencedirect.com/science/article/pii/S0022098115000039)
 
@@ -94,7 +94,7 @@ The authors were interested in how a juvenile lobster’s size was related to it
 tion. In total, 159 juvenile lobsters were collected from their natural habitat in the Gulf of Maine, USA, and the length of each lobster’s carapace (upper shell) was measured to the nearest 3 mm. The lobsters were then tethered to the ocean floor for 24 hours. Any missing lobsters were assumed to have been consumed by a predator, while the surviving lobsters were released.
 
 
-#### [`autism.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/autism.csv)
+### [`autism.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/autism.csv)
 
 [Sharon G, Cruz NJ, Kang DW, Gandal MJ, Wang B, Kim YM, Zink EM, Casey CP, Taylor BC, Lane CJ, Bramer LM, Isern NG, Hoyt DW, Noecker C, Sweredoski MJ, Moradian A, Borenstein E, Jansson JK, Knight R, Metz TO, Lois C, Geschwind DH, Krajmalnik-Brown R, Mazmanian SK. (2019) Human Gut Microbiota from Autism Spectrum Disorder Promote Behavioral Symptoms in Mice. *Cell*, 177(6), 1600--1618](https://pubmed.ncbi.nlm.nih.gov/31150625/)
 
@@ -102,7 +102,7 @@ tion. In total, 159 juvenile lobsters were collected from their natural habitat 
 
 The authors transplanted gut microbiota from human donors with Autism Spectrum Disorder (ASD) or typically developing (TD) controls into germ-free mice. Faecal samples were collected from three TD and five ASD donors and were used to colonise GF male and female mice from strain C57BL/6LJ. Individuals colonized by the same donor were allowed to breed. Adult offspring mice were behavior tested; tests included marble burying (MB), open-field testing (OFT), and ultrasonic vocalization (USV).
 
-#### [`biomarker.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/biomarker.csv)
+### [`biomarker.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/biomarker.csv)
 
 [Howsmon DP, Kruger U, Melnyk S, James SJ, Hahn J (2017) Classification and adaptive behavior prediction of children with autism spectrum disorder based upon multivariate data analysis of markers of oxidative stress and DNA methylation. *PLoS Computational Biology*, 13(3)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005385)
 
@@ -110,20 +110,20 @@ The authors transplanted gut microbiota from human donors with Autism Spectrum D
 
 The paper analyses concentrations of 24 metabolites of the folate-dependent one-carbon metabolism and transulfuration pathway. Blood samples were taken from 83 participants with ASD, 47 siblings, SIB, and 76 age-matched neurotypical peers, NEU.
 
-#### [`potato.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/potato.csv)
+### [`potato.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/potato.csv)
 
 **Summary**
 
 The most serious disease affecting potatoes all over the world is potato blight caused by the fungus *Phytophthora infestans*. A field trial was carried out to compare the efficacy of four novel fungicides, labelled F1, F2, F3, and F4, compared to an
 untreated Control.
 
-#### [`aciar.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/aciar.csv)
+### [`aciar.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/aciar.csv)
 
 **Summary**
 
 A tree improvement trial was carried out at the Australian Centre for Agricultural Research, (ACIAR). The trial was planted in 1985 and was designed as a completely balanced randomized block design, laid out in two Replicates each consisting of five Plots with 10 Trees planted in each plot.
 
-#### [`darwin.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/darwin.csv)
+### [`darwin.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/darwin.csv)
 
 [DYER, W. The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom. (1877) *Nature* 15, 329–-332.](https://www.nature.com/articles/015329a0)
 
@@ -131,7 +131,7 @@ A tree improvement trial was carried out at the Australian Centre for Agricultur
 
 Charles Darwin studied the growth of pairs of Zea mays (corn) seedlings, one produced by cross-fertilization and the other produced by self-fertilization, but otherwise grown under identical conditions. The data recorded are the final height (inches, to the nearest 1/8th) of a pair of plants grown in the same pot. Darwin’s hypothesis was that of the cross-fertilized plants demonstrated greater vigour than self-fertilized plants.
 
-#### [`antipodes.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/antipodes.csv)
+### [`antipodes.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/antipodes.csv)
 
 [Russell, J.C. Spatio-temporal patterns of introduced mice and invertebrates on Antipodes Island. (2012) *Polar Biolology* 35, 1187--1195.](https://link.springer.com/article/10.1007%2Fs00300-012-1165-8)
 
@@ -144,7 +144,7 @@ Charles Darwin studied the growth of pairs of Zea mays (corn) seedlings, one pro
 House mice, *Mus musculus*, are the only terrestrial mammal of the Antipodes Islands and were first observed in the early
 twentieth century. They are believed to have been introduced from an earlier shipwreck. They have negative effects on native biodiversity. It is hoped to eradicate mice from the Antipodes Islands and [Professor Russell’s](https://unidirectory.auckland.ac.nz/profile/j-russell) studies were designed to inform the monitoring of the post-eradication restoration project.
 
-#### [`plant_vigour.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/plant_vigour.csv)
+### [`plant_vigour.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/plant_vigour.csv)
 
 
 **Summary**
@@ -156,7 +156,7 @@ Four growth cabinets, accommodating up to 16 seedlings arranged in four rows by 
 which time the total number of leaves on each was recorded. The idea is that plant species with higher leaf counts at the end of the study are considered to be more vigorous than those with lower counts. The researchers are therefore interested in
 identifying species of high vigour since these are considered more likely to expand their southward distribution.
 
-#### [`medley.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/medley.csv)
+### [`medley.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/medley.csv)
 
 [Medley, C. N., & Clements, W. H. (1998). Responses of diatom communities to heavy metals in streams: the influence of longitudinal variation. Ecological applications, 8(3), 631--644.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761(1998)008%5B0631:RODCTH%5D2.0.CO%3B2)
 
@@ -164,7 +164,7 @@ identifying species of high vigour since these are considered more likely to exp
 
 The authors studied the response of diatom communities to heavy metals, especially zinc, in streams in the Rocky Mountain region of Colorado, USA. As part of their study, they sampled a number of stations (between four and seven) on six streams known to be polluted by heavy metals. At each station, they recorded a range of physicochemical and other variables. These included zinc concentration and species diversity.
 
-#### [`munsingen.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/munsingen.csv)
+### [`munsingen.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/munsingen.csv)
 
 [Savory, H.. (2011). The La Tène Cemetery at Münsingen-Rain: Catalogue and relative Chronology. By Frank Roy Hodson. 12 × 8½. Pp. 168 + 123 pls. + 90 figs. Bern: Verlag Stämpfli, 1968. 96 F. *The Antiquaries Journal*. 50, 121--122.](https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/la-tene-cemetery-at-munsingenrain-catalogue-and-relative-chronology-byfrank-roy-hodson-168pages-28-plates-acta-bernensia-band-v-1968-price-not-stated/D55F9A1B9CD1D1D3938A812FC665AAE8)
 
@@ -173,7 +173,7 @@ The authors studied the response of diatom communities to heavy metals, especial
 
 The styles and types, particularly of the jewelry and ornaments, changed through time. The presence or absence of 70 types of artefact were recorded from 59 graves, or sites, excavated at the Münsingen-Rain cemetery.
 
-####[`mussel_metabolics.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/mussel_metabolics.csv)
+###[`mussel_metabolics.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/mussel_metabolics.csv)
 
 
 **Summary**
@@ -182,7 +182,7 @@ A study was conducted to identify metabolite biomarkers of heat stress in mussel
 mussels were acclimatised at a normal (N) sea water temperature, while the remaining half
 were pre-shocked (PS) at a higher temperature.
 
-#### [`abalone.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/abalone.csv)
+### [`abalone.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/abalone.csv)
 
 [Nash, W. J., Sellers, T. L., Talbot, S. R., Cawthorn, A. J., & Ford, W. B. (1994). The population biology of abalone (haliotis species) in tasmania. i. blacklip abalone (h. rubra) from the north coast and islands of bass strait. Sea Fisheries Division, Technical Report, 48, p411.](https://www.researchgate.net/profile/Warwick-Nash/publication/287546509_7he_Population_Biology_of_Abalone_Haliotis_species_in_Tasmania_I_Blacklip_Abalone_H_rubra_from_the_North_Coast_and_Islands_of_Bass_Strait/links/5d949460458515202b7bf592/7he-Population-Biology-of-Abalone-Haliotis-species-in-Tasmania-I-Blacklip-Abalone-H-rubra-from-the-North-Coast-and-Islands-of-Bass-Strait.pdf)
 
@@ -198,7 +198,7 @@ A subset of data from the study, contains ten columns: a categorical variable (S
 
 Data that refers to 346 Pokémon (fictional creatures that feature is certain games, each with associated measures of their ability). The data includes individual Pokémon stats including their number, name, first and second type, the stat total and basic stats: HP (hp), Attack (attack), Defense (defense), Special Attack (sp_attack), Special Defense (sp_defense), and Speed (speed), generation, and legendary status.
 
-#### [`pitfalls.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/pitfalls.csv)
+### [`pitfalls.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/pitfalls.csv)
 
 **Summary**
 
@@ -206,7 +206,7 @@ Data were collected on the distribution of ant species at 30 sites across the Au
 days. At the end of this sampling all individuals in the pitfall traps were identified and summed at each site (location x
 habitat). This sampling protocol was repeated for 3 months over summer 2011.
 
-#### [`cannabis.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/cannabis.csv)
+### [`cannabis.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/cannabis.csv)
 
 [Source](https://www.kaggle.com/kingburrito666/cannabis-strains)
 
@@ -216,7 +216,7 @@ Data include the given name and type of strain (e.g., indica, sativa, hybrid) an
 
 
 
-#### [`dna_forensic.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dna_forensic.csv)
+### [`dna_forensic.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dna_forensic.csv)
 
 [Park JL, Kim JH, Seo E, Bae DH, Kim SY, Lee HC, Woo KM, Kim YS. (2016) Identification and evaluation of age-correlated DNA methylation markers for forensic use. *Forensic Sci Int Genet.* 23, 64--70](https://pubmed.ncbi.nlm.nih.gov/27017110/)
 
