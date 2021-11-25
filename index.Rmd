@@ -23,20 +23,14 @@ ggplot2::theme_set(ggplot2::theme_bw())
 pander::panderOptions("table.split.table", Inf)
 ```
 
-```{r}
+```{r, results='asis'}
 files <- list.files("data", pattern = ".csv", full = TRUE)
-names <- stringr::str_remove(list.files("data", pattern = ".csv"), ".csv")
-for (i in 1:length(files)) {
-     assign(names[i], rio::import(file = files[i]))
+for (fn in files) {
+  name <- gsub("^.*/(.*).csv$", "\\1", fn)
+  assign(name, rio::import(file = fn))
+  res <- as.character(do.call(codebook::codebook, list(as.symbol(name), metadata_json = FALSE,
+    missingness_report = FALSE, detailed_variables = FALSE)))
+  ## fixup the menu
+  cat(gsub("# Codebook table", paste("#", name), res))
 }
-## can't figure out eval, pasre, codebook method, so let's go with this janky solution
-## copying and pasting output to code chunk below :'-(
-## paste("codebook::codebook(", names, 
-     ## ", metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE)", sep = "", collapse = ";")
-
 ```
-```{r}
-codebook::codebook(abalone, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(aciar, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(antipodes, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(autism, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(biomarker, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(cannabis, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(darwin, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(dicots_proportions, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(dna_forensic, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(howls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(lizards, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(lobster, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(medley, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(munsingen, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(mussel_metabolomics, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(pitfalls, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(plant_vigour, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(pokemon, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE);codebook::codebook(potato, metadata_json = FALSE, missingness_report = FALSE, detailed_variables = FALSE)
-
-```
-
