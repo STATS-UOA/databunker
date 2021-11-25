@@ -221,4 +221,12 @@ Data include the given name and type of strain (e.g., indica, sativa, hybrid) an
 [Park JL, Kim JH, Seo E, Bae DH, Kim SY, Lee HC, Woo KM, Kim YS. (2016) Identification and evaluation of age-correlated DNA methylation markers for forensic use. *Forensic Sci Int Genet.* 23, 64--70](https://pubmed.ncbi.nlm.nih.gov/27017110/)
 
 
+###
+[`chicago.csv`]https://github.com/STATS-UOA/databunker/blob/master/data/chicago.csv)
+
+Source: the NMMAPS air pollution research programme (no longer available)
+
+**Summary**
+
+Daily 'non-accidental' deaths in Chicago, together with temperature and air pollution data. `death` is deaths, `cvd` is cardiovascular deaths, `resp` is respiratory, `dptp` is dewpoint temperature, `rhum` is relative humidity, `pm10` is particulate air pollution (ug/m3) and o3 is ozone (ppb). There is a *massive* group of outliers: the Great Chicago Heat Wave.
 
