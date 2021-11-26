@@ -229,7 +229,7 @@ Source: the NMMAPS air pollution research programme (no longer available)
 
 Daily 'non-accidental' deaths in Chicago, together with temperature and air pollution data. `death` is deaths, `cvd` is cardiovascular deaths, `resp` is respiratory, `dptp` is dewpoint temperature, `rhum` is relative humidity, `pm10` is particulate air pollution (ug/m3) and o3 is ozone (ppb). There is a *massive* group of outliers: the Great Chicago Heat Wave.
 
-### [`bird_abundance`](https://github.com/STATS-UOA/databunker/blob/master/data/bird_abundance.csv)
+### [`bird_abundance.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/bird_abundance.csv)
 
 [García-Navas, Vicente et al. (2021), Partitioning beta diversity to untangle mechanisms underlying the assembly of bird communities in Mediterranean olive groves. *Diversity and Distributions* (online)](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13445)
 
