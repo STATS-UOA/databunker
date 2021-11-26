@@ -221,12 +221,22 @@ Data include the given name and type of strain (e.g., indica, sativa, hybrid) an
 [Park JL, Kim JH, Seo E, Bae DH, Kim SY, Lee HC, Woo KM, Kim YS. (2016) Identification and evaluation of age-correlated DNA methylation markers for forensic use. *Forensic Sci Int Genet.* 23, 64--70](https://pubmed.ncbi.nlm.nih.gov/27017110/)
 
 
-###
-[`chicago.csv`]https://github.com/STATS-UOA/databunker/blob/master/data/chicago.csv)
+### [`chicago.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/chicago.csv)
 
 Source: the NMMAPS air pollution research programme (no longer available)
 
 **Summary**
 
 Daily 'non-accidental' deaths in Chicago, together with temperature and air pollution data. `death` is deaths, `cvd` is cardiovascular deaths, `resp` is respiratory, `dptp` is dewpoint temperature, `rhum` is relative humidity, `pm10` is particulate air pollution (ug/m3) and o3 is ozone (ppb). There is a *massive* group of outliers: the Great Chicago Heat Wave.
+
+### [`bird_abundance`](https://github.com/STATS-UOA/databunker/blob/master/data/bird_abundance.csv)
+
+[García-Navas, Vicente et al. (2021), Partitioning beta diversity to untangle mechanisms underlying the assembly of bird communities in Mediterranean olive groves. *Diversity and Distributions* (online)](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13445)
+
+
+[García-Navas, Vicente et al. (2021), Partitioning beta diversity to untangle mechanisms underlying the assembly of bird communities in Mediterranean olive groves, Dryad, Dataset](https://doi.org/10.5061/dryad.7wm37pvtr)
+
+**Summary**
+
+Bird abundance data (97 species) for each olive farm (plot). Each farm is catalogued according to the level of landscape complexity (high; intermediate; low) and the type of management of the ground cover (extensive or intensive).
 
