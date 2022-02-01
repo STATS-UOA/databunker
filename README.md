@@ -260,3 +260,7 @@ Simple split plot experimental data used for BIOSCI738 course notes.
 ### [`repeated_measures_liver.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/repeated_measures_liver.csv)
 
 Simple repeated measures experimental data used for BIOSCI738 course notes.
+
+### [`paua.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/paua.csv)
+
+Simple observational data used for BIOSCI738 course notes.
