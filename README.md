@@ -240,3 +240,23 @@ Daily 'non-accidental' deaths in Chicago, together with temperature and air poll
 
 Bird abundance data (97 species) for each olive farm (plot). Each farm is catalogued according to the level of landscape complexity (high; intermediate; low) and the type of management of the ground cover (extensive or intensive).
 
+
+### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
+
+Simple CRD experimental data used for BIOSCI738 course notes.
+
+### [`rcbd.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/rcbd.csv)
+
+Simple RCBD experimental data used for BIOSCI738 course notes.
+
+### [`factorial_expt.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/factorial_expt.csv)
+
+Simple factorial experimental data used for BIOSCI738 course notes.
+
+### [`split_plot.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/split_plot.csv)
+
+Simple split plot experimental data used for BIOSCI738 course notes.
+
+### [`repeated_measures_liver.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/repeated_measures_liver.csv)
+
+Simple repeated measures experimental data used for BIOSCI738 course notes.

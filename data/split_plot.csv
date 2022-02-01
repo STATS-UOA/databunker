@@ -1,0 +1,13 @@
+Disease,Organ,Animal,Sample,logAUC
+Healthy,innerLV,1,1,9.4
+Healthy,outerLV,1,2,8.83
+Healthy,innerLV,2,1,10.33
+Healthy,outerLV,2,2,10.49
+Healthy,innerLV,3,1,9.74
+Healthy,outerLV,3,2,10.98
+Diabetic,innerLV,4,1,7.92
+Diabetic,outerLV,4,2,9.37
+Diabetic,innerLV,5,1,8.69
+Diabetic,outerLV,5,2,11.31
+Diabetic,innerLV,6,1,7.01
+Diabetic,outerLV,6,2,9.29
