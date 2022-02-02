@@ -264,3 +264,7 @@ Simple repeated measures experimental data used for BIOSCI738 course notes.
 ### [`paua.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/paua.csv)
 
 Simple observational data used for BIOSCI738 course notes.
+
+### [`north_islands_distances.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/north_islands_distances.csv)
+
+North Island inter-city distances used for BIOSCI738 course notes.
