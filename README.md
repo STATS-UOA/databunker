@@ -268,3 +268,11 @@ Simple observational data used for BIOSCI738 course notes.
 ### [`north_islands_distances.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/north_islands_distances.csv)
 
 North Island inter-city distances used for BIOSCI738 course notes.
+
+### [`ekman.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/ekman.csv)
+
+Eckmans colour perception used for BIOSCI738 course notes.
+
+### [`diabetes.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/diabetes.csv)
+
+Data used for BIOSCI738 course notes.
