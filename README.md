@@ -55,7 +55,7 @@ kHz and 16-bit depth.
 Thirteen different variables were collected per howl; these included variables relating to the pitch and acoustic
 fundamental frequency of the howl.
 
-### [`dicots_proportions.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dicots_proportions.csv)
+### [`dicots_proportions.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dicots_proportions.csv) & [`heather_all.xlsx`](https://github.com/STATS-UOA/databunker/blob/master/data/`heather_all.xlsx) 
 
 [Peterson, PG, Merrett, MF, Fowler, SV, Barrett, DP, Paynter, Q. (2020) Comparing biocontrol and herbicide for managing an invasive non-native plant species: Efficacy, non-target effects and secondary invasion. *Journal of Applied Ecology*, 57, 1876– 1884.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13691)
 
@@ -83,6 +83,8 @@ of the next 7 × 7m treatment area. On the one occasion when herbicide and insec
 the same date, the first application was allowed to dry before the second application. Both herbicide and
 insecticide were applied to run-off. Plots not treated with herbicide or insecticide were sprayed with water to
 run-off on the same dates the chemicals were applied.
+
+[`dicots_proportions.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/dicots_proportions.csv) contains only the proportions summary data; [`heather_all.xlsx`](https://github.com/STATS-UOA/databunker/blob/master/data/`heather_all.xlsx) contains all the data.
 
 ### [`lobster.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/lobster.csv)
 
