@@ -242,6 +242,13 @@ Daily 'non-accidental' deaths in Chicago, together with temperature and air poll
 
 Bird abundance data (97 species) for each olive farm (plot). Each farm is catalogued according to the level of landscape complexity (high; intermediate; low) and the type of management of the ground cover (extensive or intensive).
 
+### [`bacteria.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/bacteria.csv)
+
+[Gottenbos, B., van der Mei, H. C., & Busscher, H. J. (2000). Initial adhesion and surface growth of Staphylococcus epidermidis and Pseudomonas aeruginosa on biomedical polymers. Journal of Biomedical Materials Research: An Official Journal of The Society for Biomaterials, The Japanese Society for Biomaterials, and The Australian Society for Biomaterials and the Korean Society for Biomaterials, 50(2), 208-214.](https://doi.org/10.1002/(SICI)1097-4636(200005)50:2%3C208::AID-JBM16%3E3.0.CO;2-D)
+
+**Summary**
+
+The infection risk of biomaterials implants varies between different materials and is determined by an interplay of adhesion and surface growth of the infecting organisms. The authors compare initial adhesion and surface growth of Staphylococcus epidermidis HBH2 102 and Pseudomonas aeruginosa AK1 on poly(dimethylsiloxane), Teflon, polyethylene, polypropylene, polyurethane, poly(ethylene terephthalate), poly(methyl methacrylate), and glass.
 
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
@@ -278,3 +285,4 @@ Eckmans colour perception used for BIOSCI738 course notes.
 ### [`diabetes.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/diabetes.csv)
 
 Data used for BIOSCI738 course notes.
+
