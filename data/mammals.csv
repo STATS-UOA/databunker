@@ -1,0 +1,2045 @@
+class,order,family,genus,species,common_name,adult_body_mass_g,maximum_longevity_y,gestation_d
+Mammalia,Afrosoricida,Chrysochloridae,Chrysospalax,trevelyani,Giant Golden Mole,434.04,4,115
+Mammalia,Afrosoricida,Tenrecidae,Echinops,telfairi,Lesser Hedgehog Tenrec,166.125,19,57.8284
+Mammalia,Afrosoricida,Tenrecidae,Geogale,aurita,Large-eared Tenrec,6.7,2.083333333,60.16908
+Mammalia,Afrosoricida,Tenrecidae,Hemicentetes,nigriceps,Highland Streaked Tenrec,124.7,2.741666667,54.48044
+Mammalia,Afrosoricida,Tenrecidae,Hemicentetes,semispinosus,Lowland Streaked Tenrec,133,2.741666667,53.77522
+Mammalia,Afrosoricida,Tenrecidae,Microgale,dobsoni,Dobson's Shrew Tenrec,37.8,5.6,61.64
+Mammalia,Afrosoricida,Tenrecidae,Microgale,talazaci,Talazac's Shrew Tenrec,46.05,5.833333333,61
+Mammalia,Afrosoricida,Tenrecidae,Setifer,setosus,Greater Hedgehog Tenrec,304.11,14.1,57.52404
+Mammalia,Afrosoricida,Tenrecidae,Tenrec,ecaudatus,Tail-less Tenrec,885.795,8.7,60.24
+Mammalia,Artiodactyla,Antilocapridae,Antilocapra,americana,Pronghorn,45375,15.5,247.44468
+Mammalia,Artiodactyla,Bovidae,Addax,nasomaculatus,Addax,94288.68,28.2,276
+Mammalia,Artiodactyla,Bovidae,Aepyceros,melampus,Impala,52500,25.6,196.74
+Mammalia,Artiodactyla,Bovidae,Alcelaphus,buselaphus,Hartebeest,159000,22.5,242.66
+Mammalia,Artiodactyla,Bovidae,Alcelaphus,caama,Red Hartebeest,159968.93,22.5,242.66
+Mammalia,Artiodactyla,Bovidae,Alcelaphus,lichtensteinii,Lichtenstein's Hartebeest,160847.83,2.908333333,236.59168
+Mammalia,Artiodactyla,Bovidae,Ammodorcas,clarkei,Dibatag,28274.905,3,203.4824
+Mammalia,Artiodactyla,Bovidae,Ammotragus,lervia,Barbary Sheep,92500,21.7,151.80744
+Mammalia,Artiodactyla,Bovidae,Antidorcas,marsupialis,Springbok,33571.24,20,169.49
+Mammalia,Artiodactyla,Bovidae,Antilope,cervicapra,Blackbuck,37500,23.9,167.699
+Mammalia,Artiodactyla,Bovidae,Beatragus,hunteri,Hunter's Hartebeest,119000,23.6,238
+Mammalia,Artiodactyla,Bovidae,Bison,bison,American Bison,624577.07,33.5,274
+Mammalia,Artiodactyla,Bovidae,Bison,bonasus,European Bison,624577.07,33.5,274
+Mammalia,Artiodactyla,Bovidae,Bos,frontalis,Gaur,812571.525,26.2,274.76636
+Mammalia,Artiodactyla,Bovidae,Bos,grunniens,Yak,583500,26.3,272.01084
+Mammalia,Artiodactyla,Bovidae,Bos,javanicus,Banteng,683333.335,27.1,295.89
+Mammalia,Artiodactyla,Bovidae,Bos,sauveli,Kouprey,795660.88,20,260
+Mammalia,Artiodactyla,Bovidae,Bos,taurus,Aurochs,618642.42,20,277
+Mammalia,Artiodactyla,Bovidae,Boselaphus,tragocamelus,Nilgai,180000,21.7,255
+Mammalia,Artiodactyla,Bovidae,Bubalus,bubalis,Water Buffalo,827250.485,34.9,314.83246
+Mammalia,Artiodactyla,Bovidae,Bubalus,depressicornis,Anoa,205994.635,36.1,300
+Mammalia,Artiodactyla,Bovidae,Bubalus,mindorensis,Tamarau,243861.535,28,302.9273
+Mammalia,Artiodactyla,Bovidae,Bubalus,quarlesi,Mountain Anoa,165859.43,29.2,294.99
+Mammalia,Artiodactyla,Bovidae,Budorcas,taxicolor,Takin,294515.33,21.9,235.6
+Mammalia,Artiodactyla,Bovidae,Capra,caucasica,Tur,69546.83,22.3,164.25322
+Mammalia,Artiodactyla,Bovidae,Capra,falconeri,Markhor,41000,19.1,163.06848
+Mammalia,Artiodactyla,Bovidae,Capra,hircus,Goat,60500,20.8,155.5
+Mammalia,Artiodactyla,Bovidae,Capra,ibex,Alpine Ibex,77000,22.3,169
+Mammalia,Artiodactyla,Bovidae,Capra,nubiana,Nubian Ibex,70523.415,22.3,169
+Mammalia,Artiodactyla,Bovidae,Capra,pyrenaica,Spanish Ibex,60898.77,16,150
+Mammalia,Artiodactyla,Bovidae,Capra,sibirica,Siberian Ibex,82500,22.3,170.45
+Mammalia,Artiodactyla,Bovidae,Capra,walie,Walia,80000,22.3,167.5
+Mammalia,Artiodactyla,Bovidae,Capricornis,crispus,Japanese Serow,43030.64,24,215
+Mammalia,Artiodactyla,Bovidae,Capricornis,milneedwardsii,Chinese Serow,95000,21,228.27
+Mammalia,Artiodactyla,Bovidae,Capricornis,rubidus,Red Serow,95000,21,228.27
+Mammalia,Artiodactyla,Bovidae,Capricornis,sumatraensis,Sumatran Serow,95000,21,228.27
+Mammalia,Artiodactyla,Bovidae,Capricornis,swinhoei,Formosan Serow,43030.64,24,215
+Mammalia,Artiodactyla,Bovidae,Capricornis,thar,Himalayan Serow,95000,21,228.27
+Mammalia,Artiodactyla,Bovidae,Cephalophus,adersi,Aders' Duiker,10000,15.2,166.485
+Mammalia,Artiodactyla,Bovidae,Cephalophus,dorsalis,Bay Duier,11600,17.5,236
+Mammalia,Artiodactyla,Bovidae,Cephalophus,natalensis,Red Duiker,10000,15.2,212.97
+Mammalia,Artiodactyla,Bovidae,Cephalophus,niger,Black Duiker,18100,14.8,127.8312
+Mammalia,Artiodactyla,Bovidae,Cephalophus,rufilatus,Red-flanked Duiker,12500,15.2,233.99
+Mammalia,Artiodactyla,Bovidae,Cephalophus,silvicultor,Yellow-backed Duiker,62006.6,22.5,165.26748
+Mammalia,Artiodactyla,Bovidae,Cephalophus,weynsi,Weyns's Duiker,10000,15.25,212.97
+Mammalia,Artiodactyla,Bovidae,Cephalophus,zebra,Zebra Duiker,15654.75,12.17,225.62346
+Mammalia,Artiodactyla,Bovidae,Connochaetes,gnou,Black Wildebeest,132250,21.8,258.723
+Mammalia,Artiodactyla,Bovidae,Connochaetes,taurinus,Blue Wildebeest,180500,24.7,253
+Mammalia,Artiodactyla,Bovidae,Damaliscus,korrigum,Topi,118597.435,23.6,238
+Mammalia,Artiodactyla,Bovidae,Damaliscus,lunatus,Common Tsessebe,119000,23.6,238
+Mammalia,Artiodactyla,Bovidae,Damaliscus,pygargus,Bontebok (see comments,84500,23.875,243
+Mammalia,Artiodactyla,Bovidae,Eudorcas,rufifrons,Red-fronted Gazelle,25000,20,172.365
+Mammalia,Artiodactyla,Bovidae,Eudorcas,rufina,Red Gazelle,27000,14.5,175.0035
+Mammalia,Artiodactyla,Bovidae,Eudorcas,thomsonii,Thomson's Gazelle,23197.67,20,170.74596
+Mammalia,Artiodactyla,Bovidae,Gazella,arabica,Arabian Gazelle,24124.67,20.8,169.43796
+Mammalia,Artiodactyla,Bovidae,Gazella,bennettii,Indian Gazelle,22278.415,23.7,172
+Mammalia,Artiodactyla,Bovidae,Gazella,cuvieri,Cuvier's Gazelle,20348.835,17.9,170.87298
+Mammalia,Artiodactyla,Bovidae,Gazella,dorcas,Dorcas Gazelle,47386.47,23.7,156
+Mammalia,Artiodactyla,Bovidae,Gazella,gazella,Mountain Gazelle,35318.235,20.8,169.43796
+Mammalia,Artiodactyla,Bovidae,Gazella,leptoceros,Slender-horned Gazelle,24645.75,14.6,167.29
+Mammalia,Artiodactyla,Bovidae,Gazella,saudiya,Saudi Gazelle,32185.735,23.7,156
+Mammalia,Artiodactyla,Bovidae,Gazella,spekei,Speke's Gazelle,20000,14.80833333,187.90764
+Mammalia,Artiodactyla,Bovidae,Gazella,subgutturosa,Goitered Gazelle,37740.685,20,169.22066
+Mammalia,Artiodactyla,Bovidae,Hemitragus,hylocrius,Nilgiri Tahr,74593.205,17.3,187.79012
+Mammalia,Artiodactyla,Bovidae,Hemitragus,jayakari,Arabian Tahr,22210.18,15.55,164.31
+Mammalia,Artiodactyla,Bovidae,Hemitragus,jemlahicus,Himalayan Tahr,35200,21.8,183
+Mammalia,Artiodactyla,Bovidae,Hippotragus,equinus,Roan Antelope,233500,25.9,283.83176
+Mammalia,Artiodactyla,Bovidae,Hippotragus,leucophaeus,Blaaubok,225000,25.9,283.83176
+Mammalia,Artiodactyla,Bovidae,Hippotragus,niger,Sable Antelope,225000,22.25,271
+Mammalia,Artiodactyla,Bovidae,Kobus,ellipsiprymnus,Waterbuck,175333,30.35833333,270
+Mammalia,Artiodactyla,Bovidae,Kobus,kob,Kob,92517.605,21.92,254.76
+Mammalia,Artiodactyla,Bovidae,Kobus,leche,Lechwe,91722.52,25.4,229.4
+Mammalia,Artiodactyla,Bovidae,Kobus,megaceros,Nile Lechwe,87902.965,21.1,235
+Mammalia,Artiodactyla,Bovidae,Kobus,vardonii,Puku,75748.965,21.92,255.05368
+Mammalia,Artiodactyla,Bovidae,Litocranius,walleri,Gerenuk,41333.33,17.3,204.15
+Mammalia,Artiodactyla,Bovidae,Madoqua,guentheri,Guenther's Dikdik,4550,17.5,177.74624
+Mammalia,Artiodactyla,Bovidae,Madoqua,kirkii,Kirk's Dikdik,4833.4,17.3,172
+Mammalia,Artiodactyla,Bovidae,Naemorhedus,baileyi,Red Goral,28829.98,19.21666667,213.955
+Mammalia,Artiodactyla,Bovidae,Naemorhedus,caudatus,Long-tailed Goral,27666.67,20.3,215
+Mammalia,Artiodactyla,Bovidae,Naemorhedus,goral,Himalayan Goral,28796.51,17.6,215
+Mammalia,Artiodactyla,Bovidae,Naemorhedus,griseus,Chinese Goral,27666.67,20.3,215
+Mammalia,Artiodactyla,Bovidae,Nanger,dama,Dama Gazelle,73000,19.3,208
+Mammalia,Artiodactyla,Bovidae,Nanger,granti,Grant's Gazelle,61232.23,19.7,196
+Mammalia,Artiodactyla,Bovidae,Nanger,soemmerringii,Soemmerring's Gazelle,41582.93,15.5,192.53
+Mammalia,Artiodactyla,Bovidae,Neotragus,batesi,Bates's Dwarf Antelope,2733.725,14,181.928
+Mammalia,Artiodactyla,Bovidae,Neotragus,moschatus,Suni,6500,14,180
+Mammalia,Artiodactyla,Bovidae,Neotragus,pygmaeus,Royal Antelope,4200,15.9,188
+Mammalia,Artiodactyla,Bovidae,Oreamnos,americanus,Mountain Goat,77227.7,20.8,182.62
+Mammalia,Artiodactyla,Bovidae,Oreotragus,oreotragus,Klipspringer,13000,25.9,206.66044
+Mammalia,Artiodactyla,Bovidae,Oryx,beisa,Beisa,103750,23.9,168
+Mammalia,Artiodactyla,Bovidae,Oryx,dammah,Scimitar-horned Oryx,177500,27.5,247
+Mammalia,Artiodactyla,Bovidae,Oryx,gazella,Gemsbok,37500,23.9,168
+Mammalia,Artiodactyla,Bovidae,Oryx,leucoryx,Arabian Oryx,121350,23.9,243
+Mammalia,Artiodactyla,Bovidae,Ourebia,ourebi,Oribi,17186.09,15.9,210.5
+Mammalia,Artiodactyla,Bovidae,Ovibos,moschatus,Muskox,312500,27.4,258
+Mammalia,Artiodactyla,Bovidae,Ovis,ammon,Argali,160000,16.8,170
+Mammalia,Artiodactyla,Bovidae,Ovis,aries,Red Sheep,110000,22.8,158.89436
+Mammalia,Artiodactyla,Bovidae,Ovis,canadensis,Bighorn Sheep,69125,24,180
+Mammalia,Artiodactyla,Bovidae,Ovis,dalli,Dall's Sheep,70194.13,24,175.245
+Mammalia,Artiodactyla,Bovidae,Ovis,nivicola,Snow Sheep,69125,24,180
+Mammalia,Artiodactyla,Bovidae,Pelea,capreolus,Vaal Rhebok,23865.665,12.33333333,262.8916
+Mammalia,Artiodactyla,Bovidae,Philantomba,maxwellii,Maxwell's Duiker,6250,18.3,193
+Mammalia,Artiodactyla,Bovidae,Philantomba,monticola,Blue Duiker,4896.05,15.9,195.70348
+Mammalia,Artiodactyla,Bovidae,Procapra,gutturosa,Mongolian Gazelle,28274.27,12.05833333,189.94
+Mammalia,Artiodactyla,Bovidae,Procapra,picticaudata,Tibetan Gazelle,23197.67,5.6,175.03
+Mammalia,Artiodactyla,Bovidae,Procapra,przewalskii,Przewalski's Gazelle,25348.83,5.6,175.03
+Mammalia,Artiodactyla,Bovidae,Pseudois,nayaur,Bharal,52334.57,24,159.74
+Mammalia,Artiodactyla,Bovidae,Pseudois,schaeferi,Dwarf Bharal,49500.62,24,159.74
+Mammalia,Artiodactyla,Bovidae,Raphicerus,campestris,Steenbok,11333.33,14,198.74708
+Mammalia,Artiodactyla,Bovidae,Raphicerus,sharpei,Sharpe's Grysbok,9396.9,14,212.91
+Mammalia,Artiodactyla,Bovidae,Redunca,arundinum,Southern Reedbuck,58000,16.8,222.79152
+Mammalia,Artiodactyla,Bovidae,Redunca,fulvorufula,Mountain Reedbuck,30000,15.88333333,222.99
+Mammalia,Artiodactyla,Bovidae,Redunca,redunca,Common Reedbuck,41644.475,18,228.195
+Mammalia,Artiodactyla,Bovidae,Rupicapra,pyrenaica,Pyrenean Chamois,31633.175,22,149.72094
+Mammalia,Artiodactyla,Bovidae,Rupicapra,rupicapra,Alpine Chamois,35383.175,22,149.72094
+Mammalia,Artiodactyla,Bovidae,Saiga,borealis,Mongolian Saiga,37992.005,12,149.42192
+Mammalia,Artiodactyla,Bovidae,Saiga,tatarica,Steppe Saiga,37992.005,12,149.42192
+Mammalia,Artiodactyla,Bovidae,Sylvicapra,grimmia,Bush Duiker,18500,15.4,165
+Mammalia,Artiodactyla,Bovidae,Syncerus,caffer,African Buffalo,646332.99,29.8,333.35454
+Mammalia,Artiodactyla,Bovidae,Taurotragus,derbianus,Derby Eland,562592.69,26.1,264
+Mammalia,Artiodactyla,Bovidae,Taurotragus,oryx,Common Eland,291250,26.1,271
+Mammalia,Artiodactyla,Bovidae,Tetracerus,quadricornis,Four-horned Antelope,19000,17.4,217.70012
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,angasii,Nyala,100666.67,18.5,224
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,buxtoni,Mountain Nyala,216500.375,20,258.74
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,eurycerus,Bongo,270998.37,21.9,288
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,imberbis,Lesser Kudu,82500,19.8,235
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,scriptus,Bushbuck,43250.39,15.3,187.79012
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,spekii,Sitatunga,87500,22.6,242
+Mammalia,Artiodactyla,Bovidae,Tragelaphus,strepsiceros,Greater Kudu,206056.41,23.5,225.5363175
+Mammalia,Artiodactyla,Camelidae,Camelus,bactrianus,Bactrian Camel,475000,40,396.495
+Mammalia,Artiodactyla,Camelidae,Camelus,dromedarius,One-humped Camel,434000,40,395.755
+Mammalia,Artiodactyla,Camelidae,Lama,glama,Guanaco,112500,61.46666667,337.55018
+Mammalia,Artiodactyla,Camelidae,Vicugna,vicugna,Vicugna,50000,61.46666667,345.45
+Mammalia,Artiodactyla,Cervidae,Alces,alces,Eurasian Elk,351000,27,241.9721625
+Mammalia,Artiodactyla,Cervidae,Alces,americanus,Moose,368500,27,241.978125
+Mammalia,Artiodactyla,Cervidae,Axis,axis,Chital,45500,20.8,226.745
+Mammalia,Artiodactyla,Cervidae,Axis,calamianensis,Calamian Deer,39812.6,22.9,225.3741
+Mammalia,Artiodactyla,Cervidae,Axis,kuhlii,Bawean Deer,43000,22.9,227.1191
+Mammalia,Artiodactyla,Cervidae,Axis,porcinus,Hog Deer,37448.29,22.9,226.7482
+Mammalia,Artiodactyla,Cervidae,Blastocerus,dichotomus,Marsh Deer,102500,13.7,270.57604
+Mammalia,Artiodactyla,Cervidae,Capreolus,capreolus,European Roe,21666.685,17.5,153
+Mammalia,Artiodactyla,Cervidae,Capreolus,pygargus,Siberian Roe,21666.7,17.5,196
+Mammalia,Artiodactyla,Cervidae,Cervus,elaphus,Red Deer (see comments,160166.665,31.5,244.40108
+Mammalia,Artiodactyla,Cervidae,Cervus,nippon,Sika,52999.99,26.3,223.66
+Mammalia,Artiodactyla,Cervidae,Dama,dama,Fallow Deer,63612.305,25,233
+Mammalia,Artiodactyla,Cervidae,Elaphodus,cephalophus,Tufted Deer,33500,22.7,181.24
+Mammalia,Artiodactyla,Cervidae,Elaphurus,davidianus,Pere David's Deer,165989.17,27.5,286.4534375
+Mammalia,Artiodactyla,Cervidae,Hippocamelus,antisensis,Taruca,68599.675,10.6,239.604
+Mammalia,Artiodactyla,Cervidae,Hippocamelus,bisulcus,Guemal,69620.405,10.73333333,205.372
+Mammalia,Artiodactyla,Cervidae,Hydropotes,inermis,Chinese Water Deer,12760.04,13.91666667,190
+Mammalia,Artiodactyla,Cervidae,Mazama,americana,South American Red Brocket,23000,17.1,225
+Mammalia,Artiodactyla,Cervidae,Mazama,bricenii,Merida Brocket,16499.85,6.075,226.1505
+Mammalia,Artiodactyla,Cervidae,Mazama,gouazoubira,South American Brown Brocket,16650,14.80833333,219.86
+Mammalia,Artiodactyla,Cervidae,Mazama,pandora,Yucatan Brown Brocket,20546.86,17.1,225
+Mammalia,Artiodactyla,Cervidae,Mazama,rufina,Ecuador Red Brocket,14649.625,6.075,226.1505
+Mammalia,Artiodactyla,Cervidae,Mazama,temama,Central American Red Brocket,23000,17.1,225
+Mammalia,Artiodactyla,Cervidae,Muntiacus,crinifrons,Black Muntjac,18590.01,11.975,195.57
+Mammalia,Artiodactyla,Cervidae,Muntiacus,feae,Fea's Muntjac,21999.99,11.64166667,195.57
+Mammalia,Artiodactyla,Cervidae,Muntiacus,muntjak,Red Muntjac,17611.59,18.8,210
+Mammalia,Artiodactyla,Cervidae,Muntiacus,reevesi,Reeves' Muntjac,13499.94,23.2,208.79096
+Mammalia,Artiodactyla,Cervidae,Muntiacus,rooseveltorum,Roosevelt Muntjac,13499.94,23.2,208.79096
+Mammalia,Artiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,57000,22,207
+Mammalia,Artiodactyla,Cervidae,Odocoileus,virginianus,White-tailed Deer,65320,23,201.39
+Mammalia,Artiodactyla,Cervidae,Ozotoceros,bezoarticus,Pampas Deer,34620.4,21.9,220.38
+Mammalia,Artiodactyla,Cervidae,Przewalskium,albirostris,White-lipped Deer,135000,21.3,253
+Mammalia,Artiodactyla,Cervidae,Pudu,puda,Southern Pudu,9642.62,21,205.74736
+Mammalia,Artiodactyla,Cervidae,Rangifer,tarandus,Reindeer,101250,21.7,222.5
+Mammalia,Artiodactyla,Cervidae,Rucervus,duvaucelii,Barasingha,171223.86,24.5,249.93978
+Mammalia,Artiodactyla,Cervidae,Rucervus,eldii,Eld's Deer,95471.61,20.5,240.19
+Mammalia,Artiodactyla,Cervidae,Rusa,alfredi,Visayan Spotted Deer,63000,26.41666667,249.5875
+Mammalia,Artiodactyla,Cervidae,Rusa,timorensis,Javan Rusa,63000,21.1,254.70082
+Mammalia,Artiodactyla,Cervidae,Rusa,unicolor,Sambar,177522.9,26.42,247.7876
+Mammalia,Artiodactyla,Giraffidae,Giraffa,camelopardalis,Giraffe,800000,39.5,456.125
+Mammalia,Artiodactyla,Giraffidae,Okapia,johnstoni,Okapi,230001.14,33.5,452.58332
+Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,liberiensis,Pygmy Hippopotamus,215000,43.83333333,200
+Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,amphibius,Common Hippopotamus,2.64E+06,61.2,234.685
+Mammalia,Artiodactyla,Moschidae,Moschus,anhuiensis,Anhui Musk Deer,12488.705,13.89166667,175.92
+Mammalia,Artiodactyla,Moschidae,Moschus,cupreus,Kashmir Musk Deer,12907.785,13.89166667,175.92
+Mammalia,Artiodactyla,Moschidae,Moschus,leucogaster,Himalayan Musk Deer,12907.785,13.89166667,175.92
+Mammalia,Artiodactyla,Moschidae,Moschus,moschiferus,Siberian Musk Deer,12907.785,13.89166667,169.07194
+Mammalia,Artiodactyla,Suidae,Babyrousa,babyrussa,Buru Babirusa,92950.09,24,156.5
+Mammalia,Artiodactyla,Suidae,Babyrousa,bolabatuensis,Bola Batu Babirusa,92950.09,24,156.5
+Mammalia,Artiodactyla,Suidae,Babyrousa,celebensis,North Sulawesi Babirusa,92950.09,24,156.5
+Mammalia,Artiodactyla,Suidae,Babyrousa,togeanensis,Malenge Babirusa,92950.09,24,156.5
+Mammalia,Artiodactyla,Suidae,Hylochoerus,meinertzhageni,Giant Forest Hog,200315.235,18,142.30702
+Mammalia,Artiodactyla,Suidae,Phacochoerus,aethiopicus,Desert Warthog,73303.76,18.8,166.85554
+Mammalia,Artiodactyla,Suidae,Phacochoerus,africanus,Common Wart-hog,91249.995,20.9,168.245
+Mammalia,Artiodactyla,Suidae,Potamochoerus,larvatus,Bush-pig,70500.155,22.54166667,120.865
+Mammalia,Artiodactyla,Suidae,Potamochoerus,porcus,Red River Hog,71000,22.54166667,120
+Mammalia,Artiodactyla,Suidae,Sus,ahoenobarbus,Palawan Pig,102750,16.2,121.744
+Mammalia,Artiodactyla,Suidae,Sus,barbatus,Bearded Pig,102750,16.2,121.744
+Mammalia,Artiodactyla,Suidae,Sus,cebifrons,Visayan Warty Pig,102750,17,121.702
+Mammalia,Artiodactyla,Suidae,Sus,celebensis,Celebes Warty Pig,76000,17,121.66
+Mammalia,Artiodactyla,Suidae,Sus,oliveri,Oliver's Warty Pig,102750,17,121.744
+Mammalia,Artiodactyla,Suidae,Sus,philippensis,Philippine Warty Pig,102750,17,121.744
+Mammalia,Artiodactyla,Suidae,Sus,salvanius,Pygmy Hog,8000,14,110.5
+Mammalia,Artiodactyla,Suidae,Sus,scrofa,Wild Boar,135000,27,115.2
+Mammalia,Artiodactyla,Suidae,Sus,verrucosus,Java Warty Pig,82703.115,17,120.83
+Mammalia,Artiodactyla,Tayassuidae,Catagonus,wagneri,Chacoan Peccary,35433.2,14.64166667,152.08
+Mammalia,Artiodactyla,Tayassuidae,Pecari,tajacu,Collared Peccary,20500,31.5,143.359375
+Mammalia,Artiodactyla,Tayassuidae,Tayassu,pecari,White-lipped Peccary,31798.71,28.5,158
+Mammalia,Artiodactyla,Tragulidae,Hyemoschus,aquaticus,Water Chevrotain,11550,14,175.93748
+Mammalia,Artiodactyla,Tragulidae,Moschiola,meminna,Indian Spotted Chevrotain,2450,14.5,150.35384
+Mammalia,Artiodactyla,Tragulidae,Tragulus,javanicus,Java Mouse-deer,1753.965,14,144
+Mammalia,Artiodactyla,Tragulidae,Tragulus,kanchil,Lesser Mouse-deer,3850,16.7,153.62
+Mammalia,Artiodactyla,Tragulidae,Tragulus,napu,Greater Mouse-deer,3850,16.7,153.62
+Mammalia,Artiodactyla,Tragulidae,Tragulus,nigricans,Philippine Mouse-deer,3850,16.7,153.62
+Mammalia,Artiodactyla,Tragulidae,Tragulus,williamsoni,Williamson's Mouse-deer,3850,16.7,153.62
+Mammalia,Carnivora,Ailuridae,Ailurus,fulgens,Red Panda,4747.54,19,123.4374
+Mammalia,Carnivora,Canidae,Canis,adustus,Side-striped Jackal,10321.245,18.8,63.5
+Mammalia,Carnivora,Canidae,Canis,aureus,Golden Jackal,11000,18.8,62.3938
+Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,11050,21.83333333,62.3938
+Mammalia,Carnivora,Canidae,Canis,lupus,Wolf,29190.755,29.5,62.1969
+Mammalia,Carnivora,Canidae,Canis,mesomelas,Black-backed Jackal,8247.3,16.7,62.5
+Mammalia,Carnivora,Canidae,Cerdocyon,thous,Crab-eating Fox,5741.66,12.7,56.3066
+Mammalia,Carnivora,Canidae,Chrysocyon,brachyurus,Maned Wolf,22250,16.8,64
+Mammalia,Carnivora,Canidae,Cuon,alpinus,Dhole,15750,16.1,61.5
+Mammalia,Carnivora,Canidae,Lycalopex,culpaeus,Culpeo,13000,13.1,60.56764
+Mammalia,Carnivora,Canidae,Lycalopex,fulvipes,Darwin's Fox,3990,10.9,56.3066
+Mammalia,Carnivora,Canidae,Lycalopex,griseus,South American Gray Fox,3990,10.9,56.1533
+Mammalia,Carnivora,Canidae,Lycalopex,gymnocercus,Pampas Fox,4690,13.7,59.23
+Mammalia,Carnivora,Canidae,Lycalopex,vetulus,Hoary Fox,5444,12.7,55.6533
+Mammalia,Carnivora,Canidae,Lycaon,pictus,African wild dog,24249.995,17,72
+Mammalia,Carnivora,Canidae,Nyctereutes,procyonoides,Raccoon dog,4232,16.6,61.84
+Mammalia,Carnivora,Canidae,Otocyon,megalotis,Bat-eared Fox,4150,17.88333333,68
+Mammalia,Carnivora,Canidae,Speothos,venaticus,Bush Dog,6000,14.1,67.89
+Mammalia,Carnivora,Canidae,Urocyon,cinereoargenteus,Gray Fox,4220,16.2,61.48
+Mammalia,Carnivora,Canidae,Urocyon,littoralis,Island Fox,1906.835,10.48333333,52.7206
+Mammalia,Carnivora,Canidae,Vulpes,bengalensis,Bengal Fox,2157.2,10,51.88342
+Mammalia,Carnivora,Canidae,Vulpes,cana,Blanford's Fox,994.25,10,56.67612
+Mammalia,Carnivora,Canidae,Vulpes,chama,Cape Fox,3459.9,10.65,52.46996
+Mammalia,Carnivora,Canidae,Vulpes,corsac,Corsac Fox,2700,13.89166667,53.87172
+Mammalia,Carnivora,Canidae,Vulpes,ferrilata,Tibetan Sand Fox,2700,13.89166667,54.05086
+Mammalia,Carnivora,Canidae,Vulpes,lagopus,Arctic Fox,3600,16.3,52.495
+Mammalia,Carnivora,Canidae,Vulpes,macrotis,Kit Fox,2088,20,53.7
+Mammalia,Carnivora,Canidae,Vulpes,pallida,Pale Fox,10148.9,21.83333333,62.0669
+Mammalia,Carnivora,Canidae,Vulpes,rueppellii,Rueppell's Fox,3200,14.3,53
+Mammalia,Carnivora,Canidae,Vulpes,velox,Swift Fox,2088,20,53.7
+Mammalia,Carnivora,Canidae,Vulpes,vulpes,Red Fox,4580.3,21.3,52.3525
+Mammalia,Carnivora,Canidae,Vulpes,zerda,Fennec Fox,1207.5,16.3,51
+Mammalia,Carnivora,Eupleridae,Cryptoprocta,ferox,Fossa,9500,23.1,91.308
+Mammalia,Carnivora,Eupleridae,Eupleres,goudotii,Falanouc,2881.67,0.25,93.86
+Mammalia,Carnivora,Eupleridae,Fossa,fossana,Malagasy Civet,1853.98,21.4,88.2644
+Mammalia,Carnivora,Eupleridae,Galidia,elegans,Ring-tailed Mongoose,800,26,76.11
+Mammalia,Carnivora,Eupleridae,Mungotictis,decemlineata,Narrow-striped Mongoose,678.515,11.39166667,100.17786
+Mammalia,Carnivora,Felidae,Acinonyx,jubatus,Cheetah,50577.92,20.5,90.12
+Mammalia,Carnivora,Felidae,Caracal,caracal,Caracal,14000,20.3,73.95948
+Mammalia,Carnivora,Felidae,Catopuma,temminckii,Asian Golden Cat,11500,23.875,95
+Mammalia,Carnivora,Felidae,Felis,bieti,Chinese Mountain Cat,5486.95,28,64.7187
+Mammalia,Carnivora,Felidae,Felis,catus,Domestic Cat,4573.08,34,64
+Mammalia,Carnivora,Felidae,Felis,chaus,Jungle Cat,10000,20,62.3938
+Mammalia,Carnivora,Felidae,Felis,manul,Pallas' Cat,3500,15.9,72.13332
+Mammalia,Carnivora,Felidae,Felis,margarita,Sand Cat,2750,13.9,66.9592
+Mammalia,Carnivora,Felidae,Felis,nigripes,Black-footed Cat,2125,15.6,66.9592
+Mammalia,Carnivora,Felidae,Felis,silvestris,Wildcat,5036.54,28,64.7187
+Mammalia,Carnivora,Felidae,Leopardus,geoffroyi,Geoffroy's Cat,4000,23.20833333,74.7841
+Mammalia,Carnivora,Felidae,Leopardus,pardalis,Ocelot,10500,28.2,80.35104
+Mammalia,Carnivora,Felidae,Leopardus,tigrinus,Oncilla,2250,21.9,75.69718
+Mammalia,Carnivora,Felidae,Leopardus,wiedii,Margay,3600,24.04166667,81.26412
+Mammalia,Carnivora,Felidae,Leptailurus,serval,Serval,11999.96,23,71.82896
+Mammalia,Carnivora,Felidae,Lynx,canadensis,Canadian Lynx,9682.82,26.8,63
+Mammalia,Carnivora,Felidae,Lynx,lynx,Eurasian Lynx,21150,26.8,66.495
+Mammalia,Carnivora,Felidae,Lynx,pardinus,Iberian Lynx,10225,13,67.89524
+Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,9400,32.33333333,66
+Mammalia,Carnivora,Felidae,Neofelis,nebulosa,Clouded Leopard,19500,19.8,93.13416
+Mammalia,Carnivora,Felidae,Panthera,leo,Lion,149061.965,30,109
+Mammalia,Carnivora,Felidae,Panthera,onca,Jaguar,81150,28.36666667,100.745
+Mammalia,Carnivora,Felidae,Panthera,pardus,Leopard,53074.995,27.3,97
+Mammalia,Carnivora,Felidae,Panthera,tigris,Tiger,128800,26.3,105.19
+Mammalia,Carnivora,Felidae,Pardofelis,marmorata,Marbled Cat,47362.495,27.3,97
+Mammalia,Carnivora,Felidae,Prionailurus,bengalensis,Leopard Cat,4150,17.3,66.04612
+Mammalia,Carnivora,Felidae,Prionailurus,iriomotensis,Iriomote Cat,4150,17.3,66.04612
+Mammalia,Carnivora,Felidae,Prionailurus,planiceps,Flat-headed Cat,5141.88,14.30833333,56
+Mammalia,Carnivora,Felidae,Prionailurus,rubiginosus,Rusty-Spotted Cat,1350,17.9,67.93614
+Mammalia,Carnivora,Felidae,Prionailurus,viverrinus,Fishing Cat,10650,17.2,71.43
+Mammalia,Carnivora,Felidae,Profelis,aurata,African Golden Cat,10650,21,81.34
+Mammalia,Carnivora,Felidae,Puma,concolor,Cougar,48000,23.8,92.3
+Mammalia,Carnivora,Felidae,Puma,yagouaroundi,Jaguarundi,7000,18.6,73
+Mammalia,Carnivora,Felidae,Uncia,uncia,Snow leopard,47812.5,21.2,97.91504
+Mammalia,Carnivora,Herpestidae,Atilax,paludinosus,Marsh Mongoose,3300,20.8,76
+Mammalia,Carnivora,Herpestidae,Crossarchus,obscurus,Common Kusimanse,790,13.3,68.481
+Mammalia,Carnivora,Herpestidae,Crossarchus,platycephalus,Flat-headed Kusimanse,790,13.3,68.481
+Mammalia,Carnivora,Herpestidae,Cynictis,penicillata,Yellow Mongoose,598.5,15.2,56.00224
+Mammalia,Carnivora,Herpestidae,Galerella,pulverulenta,Cape Gray Mongoose,683,11.7,60.936
+Mammalia,Carnivora,Herpestidae,Galerella,sanguinea,Slender Mongoose,509.8,12.6,61.27
+Mammalia,Carnivora,Herpestidae,Helogale,parvula,Common Dwarf Mongoose,274.8,18,54.7848
+Mammalia,Carnivora,Herpestidae,Herpestes,edwardsi,Indian Gray Mongoose,1008,12.30833333,60.26328
+Mammalia,Carnivora,Herpestidae,Herpestes,fuscus,Indian Brown Mongoose,519.6,12.6,61.27
+Mammalia,Carnivora,Herpestidae,Herpestes,ichneumon,Egyptian Mongoose,2950.01,20,74.30602
+Mammalia,Carnivora,Herpestidae,Herpestes,javanicus,Small Asian Mongoose,775,16.6,49
+Mammalia,Carnivora,Herpestidae,Herpestes,urva,Crab-eating Mongoose,2123.695,13.33333333,65.7
+Mammalia,Carnivora,Herpestidae,Mungos,mungo,Banded Mongoose,1331.5,17.4,60.91
+Mammalia,Carnivora,Herpestidae,Suricata,suricatta,Meerkat,776,20.6,77
+Mammalia,Carnivora,Hyaenidae,Crocuta,crocuta,Spotted Hyena,63000,41.1,110
+Mammalia,Carnivora,Hyaenidae,Hyaena,brunnea,Brown Hyena,42977.93,31.9,93.74288
+Mammalia,Carnivora,Hyaenidae,Hyaena,hyaena,Striped Hyena,35070.51,25,90.5
+Mammalia,Carnivora,Hyaenidae,Proteles,cristata,Aardwolf,8119.695,25,88.2644
+Mammalia,Carnivora,Mephitidae,Conepatus,leuconotus,American Hog-nosed Skunk,2645.29,10.2,60
+Mammalia,Carnivora,Mephitidae,Mephitis,macroura,Hooded Skunk,1031.38,8.733333333,59.536
+Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2949.995,13.9,63
+Mammalia,Carnivora,Mephitidae,Spilogale,angustifrons,Southern Spotted Skunk,612,14,37.24
+Mammalia,Carnivora,Mephitidae,Spilogale,gracilis,Western Spotted Skunk,612,14,37.24
+Mammalia,Carnivora,Mephitidae,Spilogale,putorius,Eastern Spotted Skunk,583.245,10.5,32.99
+Mammalia,Carnivora,Mustelidae,Aonyx,capensis,African Clawless Otter,21411.11,14.2,63
+Mammalia,Carnivora,Mustelidae,Aonyx,cinerea,Oriental Small-clawed Otter,3000,23.625,63.00126
+Mammalia,Carnivora,Mustelidae,Arctonyx,collaris,Hog Badger,10500,15.8,42.89
+Mammalia,Carnivora,Mustelidae,Eira,barbara,Tayra,4134.99,22.3,66.65484
+Mammalia,Carnivora,Mustelidae,Enhydra,lutris,Sea Otter,943.25,30,216.0956
+Mammalia,Carnivora,Mustelidae,Galictis,vittata,Greater Grison,2325,12.5,39.5668
+Mammalia,Carnivora,Mustelidae,Gulo,gulo,Wolverine,12792.49,19.5,51.4381075
+Mammalia,Carnivora,Mustelidae,Hydrictis,maculicollis,Spotted-necked Otter,4000,22.9,60.876
+Mammalia,Carnivora,Mustelidae,Ictonyx,libyca,Saharan Striped Polecat,362.59,5.741666667,44.45624
+Mammalia,Carnivora,Mustelidae,Ictonyx,striatus,Striped Polecat,811.02,14.39166667,36.5232
+Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,8087.42,27,61.17636
+Mammalia,Carnivora,Mustelidae,Lontra,felina,Marine Otter,11195.36,3.408333333,75.2691
+Mammalia,Carnivora,Mustelidae,Lontra,longicaudis,Neotropical Otter,7027.485,14.89166667,56.91532
+Mammalia,Carnivora,Mustelidae,Lutra,lutra,European Otter,7809.345,22,62.635
+Mammalia,Carnivora,Mustelidae,Lutra,nippon,Japanese Otter,7809.345,22,62.635
+Mammalia,Carnivora,Mustelidae,Lutrogale,perspicillata,Smooth-coated Otter,8956.245,20,63.00126
+Mammalia,Carnivora,Mustelidae,Martes,americana,American Marten,892,19,28
+Mammalia,Carnivora,Mustelidae,Martes,flavigula,Yellow-throated Marten,2500,16.55,149.65
+Mammalia,Carnivora,Mustelidae,Martes,foina,Beech Marten,1700,18.2,30
+Mammalia,Carnivora,Mustelidae,Martes,martes,European Pine Marten,1299.995,18.2,30.63
+Mammalia,Carnivora,Mustelidae,Martes,pennanti,Fisher,3175,14.3,40.47988
+Mammalia,Carnivora,Mustelidae,Martes,zibellina,Sable,1066.7,22,30.4
+Mammalia,Carnivora,Mustelidae,Meles,anakuma,Japanese Badger,11884.03,18.6,49
+Mammalia,Carnivora,Mustelidae,Meles,leucurus,Asian Badger,11884.03,18.6,49
+Mammalia,Carnivora,Mustelidae,Meles,meles,European Badger,11884.03,18.6,49
+Mammalia,Carnivora,Mustelidae,Mellivora,capensis,Honey Badger,10000,31.3,180
+Mammalia,Carnivora,Mustelidae,Mustela,erminea,Ermine,110.33,12.5,43.26174
+Mammalia,Carnivora,Mustelidae,Mustela,eversmanii,Steppe Polecat,975.55,14,38.3316
+Mammalia,Carnivora,Mustelidae,Mustela,frenata,Long-tailed Weasel,170.315,8.8,24.95752
+Mammalia,Carnivora,Mustelidae,Mustela,itatsi,Japanese Weasel,530.85,8.833333333,30.12
+Mammalia,Carnivora,Mustelidae,Mustela,lutreola,European Mink,566.44,10,43.74
+Mammalia,Carnivora,Mustelidae,Mustela,lutreolina,Indonesian Mountain Weasel,498.55,8.833333333,30.12
+Mammalia,Carnivora,Mustelidae,Mustela,nigripes,Black-footed Ferret,907.1,12,43
+Mammalia,Carnivora,Mustelidae,Mustela,nivalis,Least Weasel,49.75,10,36.49
+Mammalia,Carnivora,Mustelidae,Mustela,putorius,European Polecat,809,14,41.49
+Mammalia,Carnivora,Mustelidae,Mustela,sibirica,Siberian Weasel,530.85,8.833333333,30.12
+Mammalia,Carnivora,Mustelidae,Mustela,subpalmata,Egyptian Weasel,49.75,10,36.49
+Mammalia,Carnivora,Mustelidae,Neovison,vison,American Mink,899.75,11.4,36.220625
+Mammalia,Carnivora,Mustelidae,Poecilogale,albinucha,African Striped Weasel,282.83,6.241666667,32.2539
+Mammalia,Carnivora,Mustelidae,Pteronura,brasiliensis,Giant Otter,24000,17.3,68.78536
+Mammalia,Carnivora,Mustelidae,Taxidea,taxus,American Badger,8000,26,43.8
+Mammalia,Carnivora,Mustelidae,Vormela,peregusna,Marbled Polecat,542.5,8.916666667,60.872
+Mammalia,Carnivora,Nandiniidae,Nandinia,binotata,African Palm Civet,2167.2,21.20833333,64.82868
+Mammalia,Carnivora,Odobenidae,Odobenus,rosmarus,Walrus,846498.125,40,353.702
+Mammalia,Carnivora,Otariidae,Arctocephalus,australis,South American Fur Seal,67979.43,30.6,241.19
+Mammalia,Carnivora,Otariidae,Arctocephalus,forsteri,Australasian Fur Seal,67979.43,30.6,239.235
+Mammalia,Carnivora,Otariidae,Arctocephalus,galapagoensis,Galapagos Fur Seal,45000,30.6,235.9395
+Mammalia,Carnivora,Otariidae,Arctocephalus,gazella,Antarctic Fur Seal,67979.43,30.6,260.152
+Mammalia,Carnivora,Otariidae,Arctocephalus,philippii,Juan Fernandez Fur Seal,94999.99,23,365.28
+Mammalia,Carnivora,Otariidae,Arctocephalus,pusillus,Brown Fur Seal,127551,32.1,357.83
+Mammalia,Carnivora,Otariidae,Arctocephalus,townsendi,Guadalupe Fur Seal,101063.71,30.6,246.38
+Mammalia,Carnivora,Otariidae,Arctocephalus,tropicalis,Subantarctic Fur Seal,71111.275,23,357.623
+Mammalia,Carnivora,Otariidae,Callorhinus,ursinus,Northern Fur Seal,55464.82,35,254.74932
+Mammalia,Carnivora,Otariidae,Eumetopias,jubatus,Steller Sea Lion,382466.74,32.8,308.05
+Mammalia,Carnivora,Otariidae,Neophoca,cinerea,Australian Sealion,189274.99,24.1,311.7815
+Mammalia,Carnivora,Otariidae,Otaria,flavescens,South American Sealion,193670.53,29,357.335
+Mammalia,Carnivora,Otariidae,Phocarctos,hookeri,New Zealand Sealion,273499.99,23,365
+Mammalia,Carnivora,Otariidae,Zalophus,californianus,California Sealion,158597.43,35.7,334.84
+Mammalia,Carnivora,Otariidae,Zalophus,japonicus,Japanese Sealion,158597.43,35.7,334.84
+Mammalia,Carnivora,Otariidae,Zalophus,wollebaeki,Galapagos Sea Lion,158597.43,35.7,334.84
+Mammalia,Carnivora,Phocidae,Cystophora,cristata,Hooded Seal,245448.405,35,334.58
+Mammalia,Carnivora,Phocidae,Erignathus,barbatus,Bearded Seal,283333.33,31.4525,275.16878
+Mammalia,Carnivora,Phocidae,Halichoerus,grypus,Gray Seal,197570.01,46.6725,291.225
+Mammalia,Carnivora,Phocidae,Histriophoca,fasciata,Ribbon Seal,68250,31,299.18
+Mammalia,Carnivora,Phocidae,Hydrurga,leptonyx,Leopard seal,375671.075,26,289.142
+Mammalia,Carnivora,Phocidae,Leptonychotes,weddellii,Weddell Seal,410833.335,25,312.01
+Mammalia,Carnivora,Phocidae,Lobodon,carcinophaga,Crabeater Seal,238333.33,39,269.81
+Mammalia,Carnivora,Phocidae,Mirounga,angustirostris,Northern Elephant Seal,914528.74,20.29166667,290.63
+Mammalia,Carnivora,Phocidae,Mirounga,leonina,Southern Elephant Seal,1.40E+06,23,237.77834
+Mammalia,Carnivora,Phocidae,Monachus,monachus,Mediterranean Monk Seal,284940.665,23.7,319.47
+Mammalia,Carnivora,Phocidae,Monachus,schauinslandi,Hawaiian Monk Seal,197758.36,30,344.15
+Mammalia,Carnivora,Phocidae,Monachus,tropicalis,Caribbean Monk Seal,197758.36,20,365
+Mammalia,Carnivora,Phocidae,Ommatophoca,rossii,Ross Seal,197959.395,21,334.84
+Mammalia,Carnivora,Phocidae,Pagophilus,groenlandicus,Harp Seal,141125,42,242.9
+Mammalia,Carnivora,Phocidae,Phoca,largha,Spotted Seal,93097.92,47.6,270.7703
+Mammalia,Carnivora,Phocidae,Phoca,vitulina,Harbor Seal,94283.33,47.6,253.5703
+Mammalia,Carnivora,Phocidae,Pusa,caspica,Caspian Seal,86658.33,50,288.95
+Mammalia,Carnivora,Phocidae,Pusa,hispida,Ringed Seal,88070,46,251
+Mammalia,Carnivora,Phocidae,Pusa,sibirica,Baikal Seal,89499.99,56,275.777
+Mammalia,Carnivora,Procyonidae,Bassaricyon,alleni,Allen's Olingo,1238.75,25.25,75.3341
+Mammalia,Carnivora,Procyonidae,Bassaricyon,gabbii,Olingo,1242.5,25.25,75.3341
+Mammalia,Carnivora,Procyonidae,Bassariscus,astutus,Ringtail,1010.37,19,54.23
+Mammalia,Carnivora,Procyonidae,Bassariscus,sumichrasti,Cacomistle,906,24,64.7187
+Mammalia,Carnivora,Procyonidae,Nasua,narica,White-nosed Coati,3750,26.4,77.91616
+Mammalia,Carnivora,Procyonidae,Nasua,nasua,South American Coati,4000,23.7,74.03
+Mammalia,Carnivora,Procyonidae,Potos,flavus,Kinkajou,2420.905,38.4,115.9
+Mammalia,Carnivora,Procyonidae,Procyon,cancrivorus,Crab-eating Raccoon,6270,19,66.175
+Mammalia,Carnivora,Procyonidae,Procyon,lotor,Raccoon,5075,21,63.91434
+Mammalia,Carnivora,Ursidae,Ailuropoda,melanoleuca,Giant Panda,117500,36.8,131.17916
+Mammalia,Carnivora,Ursidae,Helarctos,malayanus,Sun bear,46000,35.9,98.34
+Mammalia,Carnivora,Ursidae,Melursus,ursinus,Sloth Bear,99999.99,40,198
+Mammalia,Carnivora,Ursidae,Tremarctos,ornatus,Spectacled Bear,109250,39.25833333,225.54794
+Mammalia,Carnivora,Ursidae,Ursus,americanus,American Black Bear,132405,34,91.008125
+Mammalia,Carnivora,Ursidae,Ursus,arctos,Brown Bear,240500,50,103
+Mammalia,Carnivora,Ursidae,Ursus,maritimus,Polar Bear,371703.81,45,147.4159375
+Mammalia,Carnivora,Ursidae,Ursus,thibetanus,Asian Black Bear,99714.19,39.2,213.052
+Mammalia,Carnivora,Viverridae,Arctictis,binturong,Binturong,12999.99,27.2,92
+Mammalia,Carnivora,Viverridae,Arctogalidia,trivirgata,Small-toothed Palm Civet,2250,16.1,45.654
+Mammalia,Carnivora,Viverridae,Chrotogale,owstoni,Owston's Palm Civet,3258.855,12.64166667,60.872
+Mammalia,Carnivora,Viverridae,Civettictis,civetta,African Civet,13666.67,28,68.4
+Mammalia,Carnivora,Viverridae,Genetta,genetta,Common Genet,1866.67,34,76.09
+Mammalia,Carnivora,Viverridae,Genetta,pardina,Pardine Genet,1820,21.3,70.61152
+Mammalia,Carnivora,Viverridae,Genetta,poensis,King Genet,1820,21.3,70.61152
+Mammalia,Carnivora,Viverridae,Genetta,tigrina,Cape Genet,1760,21.3,70.61152
+Mammalia,Carnivora,Viverridae,Paradoxurus,hermaphroditus,Asian Palm Civet,3180,25,60
+Mammalia,Carnivora,Viverridae,Viverra,civettina,Malabar Large-spotted Civet,12871.125,28,68.4
+Mammalia,Carnivora,Viverridae,Viverra,zibetha,Large Indian Civet,10000,21.7,80.3
+Mammalia,Cetacea,Balaenidae,Balaena,mysticetus,Bowhead,8.00E+07,211,379.9
+Mammalia,Cetacea,Balaenidae,Eubalaena,australis,Southern Right Whale,2.30E+07,70,363.49
+Mammalia,Cetacea,Balaenidae,Eubalaena,glacialis,North Atlantic Right Whale,2.30E+07,67,347.98
+Mammalia,Cetacea,Balaenidae,Eubalaena,japonica,North Pacific Right Whale,2.30E+07,67,350.007
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,acutorostrata,Common Minke Whale,7.50E+06,50,306.6127
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,bonaerensis,Antarctic Minke Whale,7.50E+06,73,304.4
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,borealis,Sei Whale,2.00E+07,74,345.9852
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,edeni,Bryde's Whale,2.00E+07,72,376
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,musculus,Blue Whale,1.49E+08,110,326.97
+Mammalia,Cetacea,Balaenopteridae,Balaenoptera,physalus,Fin Whale,3.88E+07,116,342
+Mammalia,Cetacea,Balaenopteridae,Megaptera,novaeangliae,Humpback Whale,3.00E+07,95,348.83674
+Mammalia,Cetacea,Delphinidae,Cephalorhynchus,commersonii,Commerson's Dolphin,68700,25.8,365.232
+Mammalia,Cetacea,Delphinidae,Cephalorhynchus,hectori,Hector's Dolphin,49999.99,20,334.84
+Mammalia,Cetacea,Delphinidae,Delphinus,capensis,Long-beaked Common Dolphin,77818.345,29.025,315.81
+Mammalia,Cetacea,Delphinidae,Delphinus,delphis,Short-beaked Common Dolphin,77818.345,29.025,296.89
+Mammalia,Cetacea,Delphinidae,Globicephala,macrorhynchus,Short-finned Pilot Whale,726000,63,452
+Mammalia,Cetacea,Delphinidae,Globicephala,melas,Long-finned Pilot Whale,1.06E+06,60,453.4514
+Mammalia,Cetacea,Delphinidae,Grampus,griseus,Risso's Dolphin,425000,42.5,365.116
+Mammalia,Cetacea,Delphinidae,Lagenodelphis,hosei,Fraser's Dolphin,164000,16,334.796
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,acutus,Atlantic White-sided Dolphin,186517.55,27,319.37
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,albirostris,White-beaked Dolphin,183317.43,13,334.7
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,australis,Peale's Dolphin,180000,13,334.7
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,cruciger,Hourglass Dolphin,72400,46,365.256
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,obliquidens,Pacific White-sided Dolphin,103000,46,319.01
+Mammalia,Cetacea,Delphinidae,Lagenorhynchus,obscurus,Dusky Dolphin,80000,36,350.49334
+Mammalia,Cetacea,Delphinidae,Lissodelphis,borealis,Northern Right Whale Dolphin,113000,42,365.28
+Mammalia,Cetacea,Delphinidae,Orcaella,brevirostris,Irrawady Dolphin,189999.995,30,426
+Mammalia,Cetacea,Delphinidae,Orcinus,orca,Killer Whale,4.30E+06,100,454.72102
+Mammalia,Cetacea,Delphinidae,Peponocephala,electra,Melon-headed Whale,206000,47,365.116
+Mammalia,Cetacea,Delphinidae,Pseudorca,crassidens,False Killer Whale,1.36E+06,62.5,454.10512
+Mammalia,Cetacea,Delphinidae,Sotalia,fluviatilis,Tucuxi,46666.685,35,330.2526
+Mammalia,Cetacea,Delphinidae,Sousa,chinensis,Indo-Pacific Humpbacked Dolphin,279999.99,24.95,365.28
+Mammalia,Cetacea,Delphinidae,Sousa,teuszii,Atlantic Humpbacked Dolphin,100000,20,365.28
+Mammalia,Cetacea,Delphinidae,Stenella,attenuata,Pantropical Spotted Dolphin,112500,46,345.095
+Mammalia,Cetacea,Delphinidae,Stenella,clymene,Clymene Dolphin,75000,29.025,319.4722
+Mammalia,Cetacea,Delphinidae,Stenella,coeruleoalba,Striped Dolphin,122950,57.5,368.2756
+Mammalia,Cetacea,Delphinidae,Stenella,longirostris,Spinner Dolphin,72666.665,29.025,316.5344
+Mammalia,Cetacea,Delphinidae,Tursiops,aduncus,Indo-Pacific Bottlenose Dolphin,141150,53,365
+Mammalia,Cetacea,Delphinidae,Tursiops,truncatus,Bottlenose Dolphin,230000,53,365
+Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,robustus,Gray Whale,2.73E+07,77,379.9
+Mammalia,Cetacea,Iniidae,Inia,geoffrensis,Amazon River Dolphin,98500,31.3,299.18588
+Mammalia,Cetacea,Iniidae,Lipotes,vexillifer,Baiji,97819.16,24,319.474
+Mammalia,Cetacea,Iniidae,Pontoporia,blainvillei,Franciscana,40416.66,16,329.62556
+Mammalia,Cetacea,Monodontidae,Delphinapterus,leucas,Beluga,1.38E+06,40,409.05984
+Mammalia,Cetacea,Monodontidae,Monodon,monoceros,Narwhal,938126.44,50,450
+Mammalia,Cetacea,Phocoenidae,Neophocaena,phocaenoides,Finless Porpoise,32500,33,319.578
+Mammalia,Cetacea,Phocoenidae,Phocoena,phocoena,Harbor Porpoise,52730.93,20.4,307.013125
+Mammalia,Cetacea,Phocoenidae,Phocoenoides,dalli,Dall's Porpoise,106042.53,22,346.74
+Mammalia,Cetacea,Physeteridae,Kogia,breviceps,Pygmy Sperm Whale,424600,17,334.796
+Mammalia,Cetacea,Physeteridae,Physeter,catodon,Sperm Whale,1.01E+07,100,464.62
+Mammalia,Cetacea,Platanistidae,Platanista,gangetica,Ganges River Dolphin,86500,28,319.6
+Mammalia,Cetacea,Platanistidae,Platanista,minor,Indus River Dolphin,84000,28,308.1645
+Mammalia,Cetacea,Ziphiidae,Berardius,arnuxii,Arnoux's Beaked Whale,7.00E+06,84,304.38
+Mammalia,Cetacea,Ziphiidae,Berardius,bairdii,Baird's Beaked Whale,1.14E+07,84,446.49612
+Mammalia,Cetacea,Ziphiidae,Hyperoodon,ampullatus,Northern Bottlenose Whale,5.35E+06,37,365
+Mammalia,Cetacea,Ziphiidae,Hyperoodon,planifrons,Southern Bottlenose Whale,5.44E+06,37,197.855
+Mammalia,Cetacea,Ziphiidae,Ziphius,cavirostris,Cuvier's Beaked Whale,2.95E+06,62,365
+Mammalia,Chiroptera,Emballonuridae,Peropteryx,macrotis,Lesser Dog-like Bat,230.99,19.4,129.27
+Mammalia,Chiroptera,Emballonuridae,Peropteryx,trinitatis,Trinidad Dog-like Bat,5.68,19.4,129.27
+Mammalia,Chiroptera,Emballonuridae,Taphozous,achates,Indonesian Tomb Bat,25.99,20,121.76
+Mammalia,Chiroptera,Emballonuridae,Taphozous,georgianus,Sharp-nosed Tomb Bat,24.43,5,99.055
+Mammalia,Chiroptera,Emballonuridae,Taphozous,melanopogon,Black-bearded Tomb Bat,25.99,20,121.76
+Mammalia,Chiroptera,Emballonuridae,Taphozous,troughtoni,Troughton's Tomb Bat,27.475,5,99.055
+Mammalia,Chiroptera,Hipposideridae,Hipposideros,commersoni,Commerson's Leaf-nosed Bat,109.995,12,136.05
+Mammalia,Chiroptera,Hipposideridae,Hipposideros,fulvus,Fulvus Leaf-nosed Bat,8.39,13,101.875
+Mammalia,Chiroptera,Hipposideridae,Hipposideros,gigas,Giant Leaf-nosed Bat,115.42,12,136.05
+Mammalia,Chiroptera,Hipposideridae,Hipposideros,thomensis,Sao Tome leaf-nosed Bat,109.995,12,136.05
+Mammalia,Chiroptera,Megadermatidae,Macroderma,gigas,Australian False Vampire Bat,139,22.6,91.32
+Mammalia,Chiroptera,Megadermatidae,Megaderma,lyra,Greater False Vampire Bat,38.935,14,151.04
+Mammalia,Chiroptera,Megadermatidae,Megaderma,spasma,Lesser False Vampire Bat,38.6,14,150
+Mammalia,Chiroptera,Molossidae,Chaerephon,pumilus,Little Free-tailed Bat,10.98,5,62.57
+Mammalia,Chiroptera,Molossidae,Mops,midas,Midas' Free-tailed Bat,35,13,45.5
+Mammalia,Chiroptera,Molossidae,Mormopterus,loriae,Loria's Mastiff Bat,8.12,6.491666667,106.86
+Mammalia,Chiroptera,Molossidae,Mormopterus,planiceps,Southern Free-tailed Bat,9.24,6.491666667,106.86
+Mammalia,Chiroptera,Molossidae,Tadarida,aegyptiaca,Egyptian Free-tailed Bat,20.5,10,120
+Mammalia,Chiroptera,Molossidae,Tadarida,brasiliensis,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America,12.5,15,83.995
+Mammalia,Chiroptera,Molossidae,Tadarida,insignis,East Asian Free-tailed Bat,35,13,45.5
+Mammalia,Chiroptera,Molossidae,Tadarida,latouchei,La Touche's Free-tailed Bat,35,13,45.5
+Mammalia,Chiroptera,Molossidae,Tadarida,teniotis,European Free-tailed Bat,35,13,45.5
+Mammalia,Chiroptera,Natalidae,Natalus,jamaicensis,Jamaican Greater Funnel-eared Bat,4.7,20,244.85
+Mammalia,Chiroptera,Natalidae,Natalus,major,Hispaniolan Greater Funnel-eared Bat,4.7,20,244.85
+Mammalia,Chiroptera,Natalidae,Natalus,primus,Cuban Greater Funnel-eared Bat,4.7,20,244.85
+Mammalia,Chiroptera,Natalidae,Natalus,stramineus,Mexican Greater Funnel-eared Bat,4.7,20,244.85
+Mammalia,Chiroptera,Noctilionidae,Noctilio,albiventris,Lesser Bulldog Bat,44,13.80833333,35
+Mammalia,Chiroptera,Noctilionidae,Noctilio,leporinus,Greater Bulldog Bat,44,13.80833333,35
+Mammalia,Chiroptera,Phyllostomidae,Anoura,geoffroyi,Geoffroy's Tailless Bat,15.2,10,121.76
+Mammalia,Chiroptera,Phyllostomidae,Artibeus,fraterculus,Fraternal Fruit-eating Bat,45.65,19.21666667,106.54
+Mammalia,Chiroptera,Phyllostomidae,Artibeus,jamaicensis,Jamaican Fruit-eating Bat,46.1,19.21666667,106.54
+Mammalia,Chiroptera,Phyllostomidae,Artibeus,lituratus,Great Fruit-eating Bat,46.1,19.21666667,106.54
+Mammalia,Chiroptera,Phyllostomidae,Artibeus,obscurus,Dark Fruit-eating Bat,45.65,19.21666667,106.54
+Mammalia,Chiroptera,Phyllostomidae,Carollia,perspicillata,Seba's Short-tailed Bat,16.4,17,95
+Mammalia,Chiroptera,Phyllostomidae,Desmodus,rotundus,Common Vampire Bat,33.18,29.2,189
+Mammalia,Chiroptera,Phyllostomidae,Diaemus,youngi,White-winged Vampire Bat,36.6,20,258.74
+Mammalia,Chiroptera,Phyllostomidae,Diphylla,ecaudata,Hairy-legged Vampire Bat,28.11,8.15,213.08
+Mammalia,Chiroptera,Phyllostomidae,Glossophaga,leachii,Gray's Long-tongued Bat,10.7,11,107.255
+Mammalia,Chiroptera,Phyllostomidae,Glossophaga,longirostris,Miller's Long-tongued Bat,10.9,11,107.255
+Mammalia,Chiroptera,Phyllostomidae,Glossophaga,soricina,Pallas's Long-tongued Bat,10.25,11,107.255
+Mammalia,Chiroptera,Phyllostomidae,Leptonycteris,curasoae,Curacaoan Long-nosed Bat,25,10.1,121.83
+Mammalia,Chiroptera,Phyllostomidae,Leptonycteris,nivalis,Mexican Long-nosed Bat,22.63,10,121.66
+Mammalia,Chiroptera,Phyllostomidae,Leptonycteris,yerbabuenae,Lesser Long-nosed Bat,24.26,10.1,121.83
+Mammalia,Chiroptera,Phyllostomidae,Macrotus,californicus,Californian Leaf-nosed Bat,12,17.46666667,260.145
+Mammalia,Chiroptera,Phyllostomidae,Macrotus,waterhousii,Waterhouse's Leaf-nosed Bat,16.135,10.41666667,243.52
+Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,discolor,Pale Spear-nosed Bat,40.05,9,105
+Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,hastatus,Greater Spear-nosed Bat,82.6,18,120
+Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,lineatus,White-lined Broad-nosed Bat,22,13,106
+Mammalia,Chiroptera,Phyllostomidae,Sturnira,lilium,Little Yellow-shouldered Bat,20,20,114.865
+Mammalia,Chiroptera,Pteropodidae,Balionycteris,maculata,Spotted-winged Fruit Bat,14.43,4,135
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,brachyotis,Lesser Short-nosed Fruit Bat,37.4,10.1,120
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,horsfieldii,Horsfield's Fruit Bat,56.955,2.583333333,152.2
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,luzoniensis,Peters's Fruit Bat,37.2,10.1,120
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,minutus,Minute Fruit Bat,37.3,10.1,120
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,sphinx,Greater Short-nosed Fruit Bat,37.4,10.1,120
+Mammalia,Chiroptera,Pteropodidae,Cynopterus,titthaecheilus,Indonesian Short-nosed Fruit Bat,41.055,10.1,120
+Mammalia,Chiroptera,Pteropodidae,Dobsonia,anderseni,Andersen's Naked-backed Fruit Bat,312.4,12.30833333,156.43
+Mammalia,Chiroptera,Pteropodidae,Dobsonia,magna,New Guinea Naked-backed Fruit Bat,417.15,12.30833333,156.43
+Mammalia,Chiroptera,Pteropodidae,Dobsonia,moluccensis,Moluccan Naked-backed Fruit Bat,404.3,12.30833333,156.43
+Mammalia,Chiroptera,Pteropodidae,Dobsonia,pannietensis,Panniet Naked-backed Fruit Bat,358.35,12.30833333,156.43
+Mammalia,Chiroptera,Pteropodidae,Eidolon,dupreanum,Malagasy Straw-colored Fruit Bat,297.58,21.8325,164.36
+Mammalia,Chiroptera,Pteropodidae,Eidolon,helvum,African Straw-colored Fruit Bat,280.43,21.8325,219.68
+Mammalia,Chiroptera,Pteropodidae,Eonycteris,spelaea,Lesser Dawn Bat,55.15,5,152.18
+Mammalia,Chiroptera,Pteropodidae,Epomophorus,crypturus,Peters's Epauletted Fruit Bat,87.52,28,150
+Mammalia,Chiroptera,Pteropodidae,Epomophorus,gambianus,Gambian Epauletted Fruit Bat,80,28,150
+Mammalia,Chiroptera,Pteropodidae,Epomophorus,wahlbergi,Wahlberg's Epauletted Fruit Bat,86.795,10.1,156.43
+Mammalia,Chiroptera,Pteropodidae,Epomops,buettikoferi,Buettikofer's Epauletted Fruit Bat,135.67,2.166666667,139.92
+Mammalia,Chiroptera,Pteropodidae,Epomops,franqueti,Franquet's Epauletted Fruit<b> </b>Bat,118.99,3.158333333,161.77
+Mammalia,Chiroptera,Pteropodidae,Haplonycteris,fischeri,Philippine Pygmy Fruit Bat,18.125,10,132.365
+Mammalia,Chiroptera,Pteropodidae,Hypsignathus,monstrosus,Hammer-headed Fruit Bat,336.97,12.225,125.14
+Mammalia,Chiroptera,Pteropodidae,Lissonycteris,angolensis,Angolan Soft-furred Fruit Bat,68.31,8.65,121.66
+Mammalia,Chiroptera,Pteropodidae,Macroglossus,minimus,Dagger-toothed Long-nosed Fruit Bat,16.1,7.316666667,125.14
+Mammalia,Chiroptera,Pteropodidae,Micropteropus,pusillus,Peters's Lesser Epauletted Fruit Bat,25.38,4.575,161.77
+Mammalia,Chiroptera,Pteropodidae,Myonycteris,torquata,Little Collared Fruit Bat,37,30,152.2
+Mammalia,Chiroptera,Pteropodidae,Ptenochirus,jagori,Greater Musky Fruit Bat,79.18,8,125.14
+Mammalia,Chiroptera,Pteropodidae,Pteropus,aldabrensis,Aldabra Flying Fox,401.245,9.9,156.43
+Mammalia,Chiroptera,Pteropodidae,Pteropus,giganteus,Indian Flying Fox,824.85,40.84166667,155.795
+Mammalia,Chiroptera,Pteropodidae,Pteropus,hypomelanus,Variable Flying Fox,442.805,20.3,156.43
+Mammalia,Chiroptera,Pteropodidae,Pteropus,livingstonii,Comoro Flying Fox,715.385,15,152.08
+Mammalia,Chiroptera,Pteropodidae,Pteropus,ornatus,Ornate Flying Fox,336.25,10.31666667,187.72
+Mammalia,Chiroptera,Pteropodidae,Pteropus,poliocephalus,Gray-headed Flying Fox,675,23.6,187.72
+Mammalia,Chiroptera,Pteropodidae,Pteropus,rodricensis,Rodrigues Flying Fox,303.085,30,198
+Mammalia,Chiroptera,Pteropodidae,Pteropus,seychellensis,Seychelles Flying Fox,492.2,9.9,156.43
+Mammalia,Chiroptera,Pteropodidae,Pteropus,tonganus,Pacific Flying Fox,510.045,7.066666667,167.29
+Mammalia,Chiroptera,Pteropodidae,Pteropus,voeltzkowi,Pemba Flying Fox,542.4,10.23333333,152.08
+Mammalia,Chiroptera,Pteropodidae,Rousettus,aegyptiacus,Egyptian Rousette,134,22.9,116
+Mammalia,Chiroptera,Pteropodidae,Rousettus,amplexicaudatus,Geoffroy's Rousette,82.935,7.983333333,101.38
+Mammalia,Chiroptera,Pteropodidae,Rousettus,leschenaultii,Leschenault's Rousette,96.565,14,118.33
+Mammalia,Chiroptera,Pteropodidae,Syconycteris,australis,Southern Blossom Bat,17.55,6,109.584
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,blasii,Blasius's Horseshoe Bat,11.145,7,70.12
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,capensis,Cape Horseshoe Bat,16.5,7,107.97
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,euryale,Mediterranean Horseshoe Bat,8.725,13,90
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,Greater Horseshoe Bat,22.875,30.5,85.62
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,hipposideros,Lesser Horseshoe Bat,4.585,21.2,71.255
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,megaphyllus,Smaller Horseshoe Bat,8.65,7.5,125.14
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,rouxii,Rufous Horseshoe Bat,12.25,5,123.54
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,sinicus,Chinese Rufous Horseshoe Bat,10.255,5,123.54
+Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,swinnyi,Swinny's Horseshoe Bat,6.3,20,91.24
+Mammalia,Chiroptera,Vespertilionidae,Antrozous,pallidus,Pallid Bat,22,14.8,60.505
+Mammalia,Chiroptera,Vespertilionidae,Chalinolobus,gouldii,Gould's Wattled Bat,15.87,7.566666667,91.93
+Mammalia,Chiroptera,Vespertilionidae,Chalinolobus,neocaledonicus,New Caledonia Wattled Bat,15.87,7.566666667,91.93
+Mammalia,Chiroptera,Vespertilionidae,Corynorhinus,mexicanus,Mexican Big-eared Bat,11.7,20.5,66.635
+Mammalia,Chiroptera,Vespertilionidae,Corynorhinus,rafinesquii,Rafinesque's Big-eared Bat,9.15,10.1,55.27
+Mammalia,Chiroptera,Vespertilionidae,Corynorhinus,townsendii,Townsend's Big-eared Bat,10.3,21.16666667,67.49
+Mammalia,Chiroptera,Vespertilionidae,Eptesicus,fuscus,Big Brown Bat,17.195,20,43.57
+Mammalia,Chiroptera,Vespertilionidae,Eptesicus,platyops,Lagos Serotine,18.2,21,66.72
+Mammalia,Chiroptera,Vespertilionidae,Eptesicus,serotinus,Common Serotine,18.2,21,66.72
+Mammalia,Chiroptera,Vespertilionidae,Lasionycteris,noctivagans,Silver-haired Bat,10.51,12,54.275
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,blossevillii,Red Bat (known as the Western Red Bat in North America,12.33,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,borealis,Eastern Red Bat,13,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,cinereus,Hoary Bat,26.03,14,56
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,degelidus,Jamaican Red Bat,12.33,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,minor,Minor Red Bat,12.33,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,pfeifferi,Pfeiffer's Red Bat,12.33,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,salinae,Saline Red Bat,12.33,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,seminolus,Seminole Bat,13,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Lasiurus,varius,Cinnamon Red Bat,11.815,2.575,80
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,australis,Little Long-fingered Bat,7.4,5.5,180
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,fuscus,Southeast Asian Long-fingered Bat,10.905,22,100
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,macrocneme,Small Melanesian Long-fingered Bat,7.565,5.5,180
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,magnater,Western Long-fingered Bat,13,22,100
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,majori,Major's Long-fingered Bat,11.46,22,113.44
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,medius,Intermediate Long-fingered Bat,10.91,22,100
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,natalensis,Natal Long-fingered Bat,11.185,22,113.44
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,paululus,Philippine Long-fingered Bat,7.53,5.5,180
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,pusillus,Small Long-fingered Bat,7.6,5.5,180
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,schreibersii,Schreibers's Long-fingered Bat,11.185,22,113.44
+Mammalia,Chiroptera,Vespertilionidae,Miniopterus,shortridgei,Shortridge's Long-fingered Bat,7.4,5.5,180
+Mammalia,Chiroptera,Vespertilionidae,Myotis,abei,Sakhalin Myotis,7.305,28,54
+Mammalia,Chiroptera,Vespertilionidae,Myotis,blythii,Lesser Mouse-eared Myotis,24.705,33,69
+Mammalia,Chiroptera,Vespertilionidae,Myotis,capaccinii,Long-fingered Myotis,23.82,33,65
+Mammalia,Chiroptera,Vespertilionidae,Myotis,chinensis,Large Myotis,28.55,22,69
+Mammalia,Chiroptera,Vespertilionidae,Myotis,daubentonii,Daubenton's Myotis,8.5,28,54.57
+Mammalia,Chiroptera,Vespertilionidae,Myotis,dominicensis,Dominican Myotis,4.2,7,75.66
+Mammalia,Chiroptera,Vespertilionidae,Myotis,evotis,Long-eared Myotis,7.4,22,50
+Mammalia,Chiroptera,Vespertilionidae,Myotis,fimbriatus,Fringed Long-footed Myotis,23.41,33,65
+Mammalia,Chiroptera,Vespertilionidae,Myotis,fortidens,Cinnamon Myotis,6.5,34,57.395
+Mammalia,Chiroptera,Vespertilionidae,Myotis,keenii,Keen's Myotis,6.255,19,50
+Mammalia,Chiroptera,Vespertilionidae,Myotis,laniger,Chinese Water Myotis,8.5,28,54
+Mammalia,Chiroptera,Vespertilionidae,Myotis,longipes,Kashmir Cave Myotis,23.41,33,65
+Mammalia,Chiroptera,Vespertilionidae,Myotis,lucifugus,Little Brown Myotis,7.15,34,57.395
+Mammalia,Chiroptera,Vespertilionidae,Myotis,macrodactylus,Big-footed Myotis,23.41,33,65
+Mammalia,Chiroptera,Vespertilionidae,Myotis,myotis,Mouse-eared Myotis,27.07,22,69
+Mammalia,Chiroptera,Vespertilionidae,Myotis,nigricans,Black Myotis,4.1,7,75.66
+Mammalia,Chiroptera,Vespertilionidae,Myotis,occultus,Arizona Myotis,7.8,34,57.395
+Mammalia,Chiroptera,Vespertilionidae,Myotis,oxygnathus,Monticelli's Myotis,23.82,33,69
+Mammalia,Chiroptera,Vespertilionidae,Myotis,punicus,Maghrebian Myotis,24.705,33,69
+Mammalia,Chiroptera,Vespertilionidae,Myotis,septentrionalis,Northern Myotis,6,19,50
+Mammalia,Chiroptera,Vespertilionidae,Myotis,thysanodes,Fringed Myotis,6.5,18.3,55
+Mammalia,Chiroptera,Vespertilionidae,Myotis,velifer,Cave Myotis,10.995,11.33,64.385
+Mammalia,Chiroptera,Vespertilionidae,Nyctalus,furvus,Japanese Noctule,19.375,22.7,66.12
+Mammalia,Chiroptera,Vespertilionidae,Nyctalus,noctula,Noctule,19.375,22.7,66.12
+Mammalia,Chiroptera,Vespertilionidae,Nyctalus,plancyi,Chinese Noctule,19.375,22.7,66.12
+Mammalia,Chiroptera,Vespertilionidae,Nyctophilus,bifax,Bifax Long-eared Bat,10.605,1,22.94
+Mammalia,Chiroptera,Vespertilionidae,Nyctophilus,gouldi,Gould's Long-eared Bat,11.32,1,22.94
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,abramus,Japanese Pipistrelle,5.395,2.908333333,71.48
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,javanicus,Javan Pipistrelle,4.92,2.908333333,71.48
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,paterculus,Mount Popa Pipistrelle,4.92,2.908333333,71.48
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pipistrellus,Common Pipistrelle,5,16.7,42
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pygmaeus,Soprano Pipistrelle,5,16.7,42
+Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,subflavus,Eastern Pipistrelle,6.62,15,44.855
+Mammalia,Chiroptera,Vespertilionidae,Plecotus,auritus,Brown Long-eared Bat,9.195,30,65.06
+Mammalia,Chiroptera,Vespertilionidae,Plecotus,austriacus,Gray Long-eared Bat,8.19,30,65.06
+Mammalia,Chiroptera,Vespertilionidae,Plecotus,kolombatovici,Kolombatovic's Long-eared Bat,8.19,30,65.06
+Mammalia,Chiroptera,Vespertilionidae,Plecotus,teneriffae,Canary Long-eared Bat,9.195,30,65.06
+Mammalia,Chiroptera,Vespertilionidae,Scotorepens,balstoni,Western Broad-nosed Bat,11.7,9.7,211.455
+Mammalia,Chiroptera,Vespertilionidae,Scotorepens,orion,Orion Broad-nosed Bat,11.765,9.7,210
+Mammalia,Chiroptera,Vespertilionidae,Scotorepens,sanborni,Northern Broad-nosed Bat,9.915,9.7,210
+Mammalia,Chiroptera,Vespertilionidae,Vespertilio,murinus,Particolored Bat,15.71,12,52.14
+Mammalia,Chiroptera,Vespertilionidae,Vespertilio,sinensis,Asian Particolored Bat,24.3,2.408333333,52.14
+Mammalia,Cingulata,Dasypodidae,Chaetophractus,villosus,Big Hairy Armadillo,4372.8,25.2,67
+Mammalia,Cingulata,Dasypodidae,Dasypus,novemcinctus,Nine-banded Armadillo,3949.01,22.33333333,133
+Mammalia,Cingulata,Dasypodidae,Dasypus,septemcinctus,Seven-banded Armadillo,1500.82,16.71666667,126.04612
+Mammalia,Cingulata,Dasypodidae,Euphractus,sexcinctus,Six-banded Armadillo,4850,22.1,64.66
+Mammalia,Cingulata,Dasypodidae,Priodontes,maximus,Giant Armadillo,45190,15,122
+Mammalia,Cingulata,Dasypodidae,Tolypeutes,matacus,Southern Three-banded Armadillo,1225,36.8,125.14
+Mammalia,Cingulata,Dasypodidae,Zaedyus,pichiy,Pichi,1500,12.5,60.872
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinomys,laniger,Kultarr,25.8,3.5,12
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,agilis,Agile Antechinus,26.25,5.408333333,27.575
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,bellus,Fawn Antechinus,36.365,3.408333333,30
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,flavipes,Yellow-footed Antechinus,44.665,3.9,30
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,godmani,Atherton Antechinus,75.74,2,30
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,leo,Cinnamon Antechinus,70.09,2,30.99
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,minimus,Swamp Antechinus,52.56,2,29.27
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,stuartii,Brown Antechinus,27.85,5.408333333,28.15
+Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,swainsonii,Dusky Antechinus,58.69,3.325,28.845
+Mammalia,Dasyuromorphia,Dasyuridae,Dasycercus,cristicauda,Mulgara,90,7.4,38.495
+Mammalia,Dasyuromorphia,Dasyuridae,Dasykaluta,rosamondae,Little Red Kaluta,32.17,3,49.69
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyuroides,byrnei,Kowari,105,8,32.745
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,albopunctatus,New Guinean Quoll,603.48,4.575,19.29
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,geoffroii,Western Quoll,1300,6.241666667,16.83
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,maculatus,Tiger Quoll,1782,6.8,21
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,spartacus,Bronze Quoll,885.67,3,19.12
+Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,Eastern Quoll,982,6.816666667,20.5
+Mammalia,Dasyuromorphia,Dasyuridae,Murexechinus,melanurus,Black-tailed Dasyure,38.02,0.166666667,22
+Mammalia,Dasyuromorphia,Dasyuridae,Ningaui,ridei,Wongai Ningaui,9.21,2.241666667,14
+Mammalia,Dasyuromorphia,Dasyuridae,Ningaui,timealeyi,Pilbara Ningaui,7.885,2,14
+Mammalia,Dasyuromorphia,Dasyuridae,Parantechinus,apicalis,Southern Dibbler,70.655,5.5,48.25
+Mammalia,Dasyuromorphia,Dasyuridae,Phascogale,calura,Red-tailed Phascogale,43.015,4.7,29.245
+Mammalia,Dasyuromorphia,Dasyuridae,Phascogale,tapoatafa,Brush-tailed Phascogale,157,5.908333333,28.575
+Mammalia,Dasyuromorphia,Dasyuridae,Planigale,gilesi,Paucident Planigale,9.1,5,15.62
+Mammalia,Dasyuromorphia,Dasyuridae,Planigale,maculata,Pygmy Planigale,11.3,5.8,20
+Mammalia,Dasyuromorphia,Dasyuridae,Planigale,tenuirostris,Narrow-nosed Planigale,6.85,5.2,19
+Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,bilarni,Sandstone Dibbler,23.05,3,38.98
+Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,macdonnellensis,Fat-tailed False Antechinus,39.99,7.9,44.36
+Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,mimulus,Alexandria False Antechinus,39.99,7.9,44.36
+Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,ningbing,Ningbing False Antechinus,20.74,2,46.71
+Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus,harrisii,Tasmanian Devil,6500,13.05833333,26
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,crassicaudata,Fat-tailed Dunnart,15.98,5.075,15
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,fuliginosus,Sooty Dunnart,16.35,2,12.5
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,leucopus,White-footed Dunnart,23.36,2.5,16.16
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,longicaudata,Long-tailed Dunnart,18,5,15
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,macroura,Stripe-faced Dunnart,21.3,4.908333333,12
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,murina,Slender-tailed Dunnart,16.35,2,12.5
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,ooldea,Ooldea Dunnart,11.595,3,20.87
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,psammophila,Sandhill Dunnart,33.5,5,18
+Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,virginiae,Red-cheeked Dunnart,34,5.325,15.655
+Mammalia,Dasyuromorphia,Myrmecobiidae,Myrmecobius,fasciatus,Numbat,471.5,11.05833333,14
+Mammalia,Dermoptera,Cynocephalidae,Cynocephalus,volans,Philippine Flying Lemur,1250,17.5,105
+Mammalia,Dermoptera,Cynocephalidae,Galeopterus,variegates,Sunda Flying Lemur,1056.1,17.5,60
+Mammalia,Didelphimorphia,Didelphidae,Caluromys,derbianus,Derby's Woolly Opossum,330,8.7,21
+Mammalia,Didelphimorphia,Didelphidae,Caluromys,philander,Bare-tailed Woolly Opossum,298.235,8.9,23.995
+Mammalia,Didelphimorphia,Didelphidae,Caluromysiops,irrupta,Black-shouldered Opossum,257.48,7.833333333,13
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,albiventris,White-eared Opossum,1030.47,1.7,12
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,aurita,Big-eared Opossum,1149.875,7,14
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,imperfecta,Guianan White-eared Opossum,1030.47,1.7,12
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,marsupialis,Common Opossum,1149.875,7,14
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,pernigra,Andean White-eared Opossum,1030.47,1.7,12
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,virginiana,Virginia Opossum,1414.5,7,12.345
+Mammalia,Didelphimorphia,Didelphidae,Gracilinanus,agilis,Agile Gracile Opossum,21.5,6.1,20
+Mammalia,Didelphimorphia,Didelphidae,Lutreolina,crassicaudata,Lutrine Opossum,450,3,14
+Mammalia,Didelphimorphia,Didelphidae,Marmosa,mexicana,Mexican Mouse Opossum,60,15.05833333,22
+Mammalia,Didelphimorphia,Didelphidae,Marmosa,murina,Linnaeus's Mouse Opossum,518,15.05833333,30
+Mammalia,Didelphimorphia,Didelphidae,Marmosa,quichua,Quechuan Mouse Opossum,518,15.05833333,30
+Mammalia,Didelphimorphia,Didelphidae,Marmosa,robinsoni,Robinson's Mouse Opossum,98.5,5,13.915
+Mammalia,Didelphimorphia,Didelphidae,Marmosa,xerophila,Guajira Mouse Opossum,30,1.166666667,14
+Mammalia,Didelphimorphia,Didelphidae,Micoureus,paraguayanus,Tate's Woolly Mouse Opossum,363.3,3,14
+Mammalia,Didelphimorphia,Didelphidae,Monodelphis,domestica,Gray Short-tailed Opossum,100,6,14.775
+Mammalia,Didelphimorphia,Didelphidae,Monodelphis,maraxina,Marajo Short-tailed Opossum,99,6,14.775
+Mammalia,Didelphimorphia,Didelphidae,Philander,frenatus,Southeastern Four-eyed Opossum,510,4.408333333,13.5
+Mammalia,Didelphimorphia,Didelphidae,Tlacuatzin,canescens,Gray Mouse Opossum,47.73,3,14
+Mammalia,Diprotodontia,Burramyidae,Burramys,parvus,Mountain Pygmy Possum,44.3,12,14.87
+Mammalia,Diprotodontia,Burramyidae,Cercartetus,concinnus,Southwestern Pygmy Possum,40,10.31666667,52.14
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,bennettianus,Bennett's Tree-kangaroo,9581,20,32
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,dorianus,Doria's Tree-kangaroo,9581,19.71666667,32
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,goodfellowi,Goodfellow's Tree-kangaroo,7400,26.9,37.94
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,inustus,Grizzled Tree-kangaroo,8293.4,26.9,32.975
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,matschiei,Huon Tree-kangaroo,7080,26.9,32.975
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,pulcherrimus,Golden-mantled Tree-kangaroo,7400,26.9,37.94
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,scottae,Tenkile,9979.29,20,32
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,spadix,Lowlands Tree-kangaroo,7400,26.9,37.94
+Mammalia,Diprotodontia,Macropodidae,Dendrolagus,stellarum,Seri's Tree-kangaroo,7674.39,26.9,35.945
+Mammalia,Diprotodontia,Macropodidae,Dorcopsulus,macleayi,Macleay's Dorcopsis,2988,7.9,21
+Mammalia,Diprotodontia,Macropodidae,Lagorchestes,conspicillatus,Spectacled Hare-wallaby,2740.505,8.816666667,30.545
+Mammalia,Diprotodontia,Macropodidae,Macropus,agilis,Agile Wallaby,13907.875,16.9,29.755
+Mammalia,Diprotodontia,Macropodidae,Macropus,antilopinus,Antilopine Kangaroo,29647.9,24,34
+Mammalia,Diprotodontia,Macropodidae,Macropus,bernardus,Woodward's Wallaroo,17500,11.8,33.5
+Mammalia,Diprotodontia,Macropodidae,Macropus,dorsalis,Black-striped Wallaby,11249.96,15,34.98
+Mammalia,Diprotodontia,Macropodidae,Macropus,eugenii,Tammar Wallaby,5037.24,15.1,28.945
+Mammalia,Diprotodontia,Macropodidae,Macropus,fuliginosus,Western Grey Kangaroo,26907.35,23.20833333,30.4
+Mammalia,Diprotodontia,Macropodidae,Macropus,giganteus,Eastern Grey Kangaroo,41454.945,25,36.28
+Mammalia,Diprotodontia,Macropodidae,Macropus,parma,Parma Wallaby,4203.31,15.9,34.33
+Mammalia,Diprotodontia,Macropodidae,Macropus,parryi,Pretty-faced Wallaby,12629.83,14,37.14
+Mammalia,Diprotodontia,Macropodidae,Macropus,robustus,Wallaroo,29647.9,24,33.295
+Mammalia,Diprotodontia,Macropodidae,Macropus,rufogriseus,Red-necked Wallaby,16525,19,29.5
+Mammalia,Diprotodontia,Macropodidae,Macropus,rufus,Red Kangaroo,35729.195,30,33
+Mammalia,Diprotodontia,Macropodidae,Onychogalea,fraenata,Bridled Nail-tail Wallaby,5226.025,7.4,23
+Mammalia,Diprotodontia,Macropodidae,Petrogale,assimilis,Allied Rock-wallaby,4618.88,13,30.99
+Mammalia,Diprotodontia,Macropodidae,Petrogale,brachyotis,Short-eared Rock-wallaby,4000,10.1,30
+Mammalia,Diprotodontia,Macropodidae,Petrogale,concinna,Nabarlek,1324.1,17,30.73
+Mammalia,Diprotodontia,Macropodidae,Petrogale,herberti,Herbert's Rock-wallaby,6465.8,14.4,30.495
+Mammalia,Diprotodontia,Macropodidae,Petrogale,inornata,Unadorned Rock-wallaby,4555.52,6.983333333,30.99
+Mammalia,Diprotodontia,Macropodidae,Petrogale,lateralis,Black-flanked Rock-wallaby,5283.94,14.4,30
+Mammalia,Diprotodontia,Macropodidae,Petrogale,penicillata,Brush-tailed Rock-wallaby,6465.8,14.4,30.495
+Mammalia,Diprotodontia,Macropodidae,Petrogale,persephone,Proserpine Rock-wallaby,5585.63,10,32
+Mammalia,Diprotodontia,Macropodidae,Petrogale,purpureicollis,Purple-necked Rock-wallaby,5283.94,14.4,30
+Mammalia,Diprotodontia,Macropodidae,Petrogale,xanthopus,Yellow-footed Rock-wallaby,7249.995,14.4,32.08
+Mammalia,Diprotodontia,Macropodidae,Setonix,brachyurus,Quokka,2821.15,13.80833333,26.945
+Mammalia,Diprotodontia,Macropodidae,Thylogale,billardierii,Tasmanian Pademelon,5432.93,10,29.865
+Mammalia,Diprotodontia,Macropodidae,Thylogale,brunii,Dusky Pademelon,4796,15.1,29.89
+Mammalia,Diprotodontia,Macropodidae,Thylogale,stigmatica,Red-legged Pademelon,4305.735,9.7,29
+Mammalia,Diprotodontia,Macropodidae,Wallabia,bicolor,Swamp Wallaby,14812.475,16.8,35.94
+Mammalia,Diprotodontia,Petauridae,Gymnobelideus,leadbeateri,Leadebeater's Possum,133.66,14.1,17.215
+Mammalia,Diprotodontia,Petauridae,Petaurus,biacensis,Biak Glider,127,17.8,16.34
+Mammalia,Diprotodontia,Petauridae,Petaurus,breviceps,Sugar Glider,127.55,17.8,16.34
+Mammalia,Diprotodontia,Petauridae,Petaurus,gracilis,Ebony Glider,310,14.80833333,20
+Mammalia,Diprotodontia,Petauridae,Petaurus,norfolcensis,Squirrel Glider,272.5,14.80833333,20
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,gymnotis,Ground Cuscus,2400,18.9,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,intercastellanus,Eastern Common Cuscus,2100,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,lullulae,Woodlark Cuscus,1918.75,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,matabiru,Blue-eyed Cuscus,2293.75,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,mimicus,Southern Common Cuscus,2293.75,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,orientalis,Northern Common Cuscus,2293.75,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Phalanger,ornatus,Ornate Cuscus,2293.75,4.1,13
+Mammalia,Diprotodontia,Phalangeridae,Spilocuscus,kraemeri,Admiralty Island Cuscus,4155.23,17,12.995
+Mammalia,Diprotodontia,Phalangeridae,Spilocuscus,maculatus,Common Spotted Cuscus,4155.23,17,12.995
+Mammalia,Diprotodontia,Phalangeridae,Spilocuscus,papuensis,Waigeou Cuscus,4155.23,17,12.995
+Mammalia,Diprotodontia,Phalangeridae,Trichosurus,arnhemensis,Northern Brushtail,1993.5,15.9,17.25
+Mammalia,Diprotodontia,Phalangeridae,Trichosurus,caninus,Short-eared Possum,3115.06,17,16.2
+Mammalia,Diprotodontia,Phalangeridae,Trichosurus,johnstonii,Coppery Brushtail,2005,15.9,17.25
+Mammalia,Diprotodontia,Phalangeridae,Trichosurus,vulpecula,Common Brushtail,2005,15.9,17.25
+Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,Koala,5646.87,22.1,31
+Mammalia,Diprotodontia,Potoroidae,Aepyprymnus,rufescens,Rufous Rat-kangaroo,2820,12.80833333,22.9
+Mammalia,Diprotodontia,Potoroidae,Bettongia,gaimardi,Eastern Bettong,1385,11.8,21.14
+Mammalia,Diprotodontia,Potoroidae,Bettongia,lesueur,Boodie,1447.27,10,21.28
+Mammalia,Diprotodontia,Potoroidae,Bettongia,penicillata,Woylie,1101.175,18.8,19.175
+Mammalia,Diprotodontia,Potoroidae,Bettongia,tropica,Northern Bettong,1184.35,18.8,19.44
+Mammalia,Diprotodontia,Potoroidae,Caloprymnus,campestris,Desert Rat-kangaroo,908.285,13,45.66
+Mammalia,Diprotodontia,Potoroidae,Potorous,gilbertii,Gilbert's Potoroo,1087.335,15.05833333,33.55
+Mammalia,Diprotodontia,Potoroidae,Potorous,longipes,Long-footed Potoroo,1742.53,15.30833333,38
+Mammalia,Diprotodontia,Potoroidae,Potorous,tridactylus,Long-nosed Potoroo,1054.67,15.05833333,31.775
+Mammalia,Diprotodontia,Pseudocheiridae,Petropseudes,dahli,Rock-haunting ringtail,1877.03,3.075,23
+Mammalia,Diprotodontia,Pseudocheiridae,Pseudochirulus,herbertensis,Herbert River Ringtail,1098.34,6,13
+Mammalia,Diprotodontia,Pseudocheiridae,Pseudochirulus,mayeri,Pygmy Ringtail,153.125,5,11
+Mammalia,Diprotodontia,Tarsipedidae,Tarsipes,rostratus,Honey possum,10,2,61.27
+Mammalia,Diprotodontia,Vombatidae,Lasiorhinus,krefftii,Northern Hairy-nosed Wombat,28632.6,30.44166667,20.87
+Mammalia,Diprotodontia,Vombatidae,Lasiorhinus,latifrons,Southern Hairy-nosed Wombat,26163.8,29.9,20.87
+Mammalia,Diprotodontia,Vombatidae,Vombatus,ursinus,Common Wombat,25750,30.025,28.5
+Mammalia,Erinaceomorpha,Erinaceidae,Atelerix,albiventris,Four-toed Hedgehog,450,11.4,35.495
+Mammalia,Erinaceomorpha,Erinaceidae,Atelerix,algirus,North African Hedgehog,824.49,7,39.4084
+Mammalia,Erinaceomorpha,Erinaceidae,Atelerix,frontalis,Southern African Hedgehog,319.06,6.9,37.13096
+Mammalia,Erinaceomorpha,Erinaceidae,Atelerix,sclateri,Somali Hedgehog,392,11.4,35.495
+Mammalia,Erinaceomorpha,Erinaceidae,Echinosorex,gymnura,Moonrat,756.53,7,37.8925
+Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,amurensis,Amur Hedgehog,774.475,14,36.0675375
+Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,concolor,Southern White-Breasted Hedgehog,771,14,35.611875
+Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,West European Hedgehog,777.95,14,36.0675375
+Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,roumanicus,Northern White-Breasted Hedgehog,771,14,35.611875
+Mammalia,Erinaceomorpha,Erinaceidae,Hemiechinus,auritus,Long-eared Hedgehog,369.5,7.6,38.34936
+Mammalia,Erinaceomorpha,Erinaceidae,Hemiechinus,collaris,Indian Long-eared Hedgehog,342,7.6,38.41968
+Mammalia,Erinaceomorpha,Erinaceidae,Hylomys,parvus,Dwarf Gymnure,57.8,0.333333333,32.79044
+Mammalia,Erinaceomorpha,Erinaceidae,Hylomys,suillus,Short-tailed Gymnure,57.8,0.333333333,32.79044
+Mammalia,Erinaceomorpha,Erinaceidae,Paraechinus,aethiopicus,Desert Hedgehog,404,6.3,36.7
+Mammalia,Erinaceomorpha,Erinaceidae,Paraechinus,micropus,Indian Hedgehog,171,3.741666667,37.37032
+Mammalia,Hyracoidea,Procaviidae,Dendrohyrax,arboreus,Southern Tree Hyrax,2981.11,13.6,229
+Mammalia,Hyracoidea,Procaviidae,Dendrohyrax,dorsalis,Western Tree Hyrax,2663.335,10,224.811
+Mammalia,Hyracoidea,Procaviidae,Heterohyrax,brucei,Yellow-spotted Rock Hyrax,2000,14,228.21
+Mammalia,Hyracoidea,Procaviidae,Procavia,capensis,Rock Hyrax,2750,14.80833333,226.44942
+Mammalia,Lagomorpha,Leporidae,Brachylagus,idahoensis,Pygmy Rabbit,431.19,4.325,33.03902
+Mammalia,Lagomorpha,Leporidae,Lepus,americanus,Snowshoe Hare,1565.61,8,36.85096
+Mammalia,Lagomorpha,Leporidae,Lepus,arcticus,Arctic Hare,3030.43,18,50.2194
+Mammalia,Lagomorpha,Leporidae,Lepus,brachyurus,Japanese Hare,2519.45,13,38.49
+Mammalia,Lagomorpha,Leporidae,Lepus,californicus,Black-tailed Jackrabbit,2317,11.80833333,43.52348
+Mammalia,Lagomorpha,Leporidae,Lepus,capensis,Cape Hare,2202.555,8.9,42.60456
+Mammalia,Lagomorpha,Leporidae,Lepus,corsicanus,Corsican Hare,3673.33,12,42
+Mammalia,Lagomorpha,Leporidae,Lepus,europaeus,European Hare,3673.33,12,42
+Mammalia,Lagomorpha,Leporidae,Lepus,granatensis,Granada Hare,2323.94,8.9,42.60456
+Mammalia,Lagomorpha,Leporidae,Lepus,habessinicus,Abyssinian Hare,2047.11,8.9,42.60456
+Mammalia,Lagomorpha,Leporidae,Lepus,mandshuricus,Manchurian Hare,2176.75,13,38.49
+Mammalia,Lagomorpha,Leporidae,Lepus,nigricollis,Indian Hare,2196.875,0.083333333,37.8634
+Mammalia,Lagomorpha,Leporidae,Lepus,othus,Alaskan Hare,3067.925,18,50
+Mammalia,Lagomorpha,Leporidae,Lepus,saxatilis,Scrub Hare,2686,12,42
+Mammalia,Lagomorpha,Leporidae,Lepus,starcki,Ethiopian Highland Hare,2358,8.9,42.60456
+Mammalia,Lagomorpha,Leporidae,Lepus,tibetanus,Desert Hare,2078.555,8.9,43.21912
+Mammalia,Lagomorpha,Leporidae,Lepus,timidus,Mountain Hare,3027.715,18,50.1
+Mammalia,Lagomorpha,Leporidae,Lepus,tolai,Tolai Hare,2078.555,8.9,43.21912
+Mammalia,Lagomorpha,Leporidae,Lepus,townsendii,White-tailed Jackrabbit,2620,8,39.99622
+Mammalia,Lagomorpha,Leporidae,Oryctolagus,cuniculus,European Rabbit,1900,18,30.5959375
+Mammalia,Lagomorpha,Leporidae,Romerolagus,diazi,Volcano Rabbit,480.04,9.15,38.95686
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,audubonii,Desert Cottontail,791.29,7.816666667,28.60984
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,brasiliensis,Tapeti,968.37,2,39.35942
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,cognatus,Manzano Mountain Cottontail,1207.19,9.8,28.6962
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,dicei,Dice's Cottontail,986.74,9,36.21884
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,floridanus,Eastern Cottontail,1178.595,9.8,28.6962
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,nuttallii,Mountain Cottontail,760,7.4,29.52292
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,palustris,Marsh Rabbit,1233,7.6,33.78396
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,robustus,Robust Cottontail,1207.19,9.8,28.6962
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,transitionalis,New England Cottontail,1150,9.8,28
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,alpina,Alpine Pika,150,3,29.708
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,argentata,Silver Pika,150,4,27.12094
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,cansus,Gansu Pika,68.75,5,24.49
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,collaris,Collared Pika,129,6,30.218
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,curzoniae,Plateau Pika,129.505,3.825,22.827
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,dauurica,Daurian Pika,128,1.166666667,30
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,forresti,Forrest's Pika,142.5,4,22.25632
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,hoffmanni,Hoffmann's Pika,150,3,29.708
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,hyperborea,Northern Pika,135,9.4,28.98
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,nubrica,Nubra Pika,121.275,4,22.25632
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,princeps,American Pika,140.2,7.316666667,30.436
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,pusilla,Steppe Pika,142.5,4,22.25632
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,rufescens,Afghan Pika,250,3.325,25.96248
+Mammalia,Lagomorpha,Ochotonidae,Ochotona,turuchanensis,Turuchan Pika,135,9.4,28.98
+Mammalia,Macroscelidea,Macroscelididae,Elephantulus,intufi,Bushveld Elephant Shrew,48.9,9.3,51.7412
+Mammalia,Macroscelidea,Macroscelididae,Elephantulus,myurus,Eastern Rock Elephant Shrew,61.985,4.158333333,55.3924
+Mammalia,Macroscelidea,Macroscelididae,Elephantulus,rozeti,North African Elephant Shrew,48,7.2,76
+Mammalia,Macroscelidea,Macroscelididae,Elephantulus,rufescens,Rufous Elephant Shrew,55.5,7.9,58.74148
+Mammalia,Macroscelidea,Macroscelididae,Elephantulus,rupestris,Western Rock Elephant Shrew,62.78,4.158333333,56.45766
+Mammalia,Macroscelidea,Macroscelididae,Macroscelides,proboscideus,Short-eared Elephant Shrew,39.5,8.7,65
+Mammalia,Macroscelidea,Macroscelididae,Rhynchocyon,chrysopygus,Golden-rumped Elephant Shrew,537.6,11,42.135
+Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus,anatinus,Platypus,1225,22.6,14.74
+Mammalia,Monotremata,Tachyglossidae,Tachyglossus,aculeatus,Short-beaked Echidna,3169.5,50,19.86
+Mammalia,Monotremata,Tachyglossidae,Zaglossus,bartoni,Eastern Long-beaked Echidna,8951.71,41.2,10
+Mammalia,Monotremata,Tachyglossidae,Zaglossus,bruijni,Western Long-beaked Echidna,10000,41.2,10
+Mammalia,Peramelemorphia,Peramelidae,Echymipera,kalubu,Common Echymipera,737.58,2.7,13.015
+Mammalia,Peramelemorphia,Peramelidae,Isoodon,auratus,Golden Bandicoot,467.5,6.7,12.5
+Mammalia,Peramelemorphia,Peramelidae,Isoodon,macrourus,Northern Brown Bandicoot,1551,6.8,12.255
+Mammalia,Peramelemorphia,Peramelidae,Isoodon,obesulus,Southern Brown Bandicoot,717,6.5,15
+Mammalia,Peramelemorphia,Peramelidae,Perameles,bougainville,Western Barred Bandicoot,226,5.8,12
+Mammalia,Peramelemorphia,Peramelidae,Perameles,gunnii,Eastern Barred Bandicoot,801.5,6.1,12.25
+Mammalia,Peramelemorphia,Peramelidae,Perameles,nasuta,Long-nosed Bandicoot,720.26,5.6,12.12
+Mammalia,Peramelemorphia,Peramelidae,Peroryctes,raffrayana,Raffray's Bandicoot,790.315,3.3,15
+Mammalia,Peramelemorphia,Thylacomyidae,Macrotis,lagotis,Greater Bilby,1269.75,10,15.8
+Mammalia,Perissodactyla,Equidae,Equus,asinus,Ass,171249.245,50,361.65946
+Mammalia,Perissodactyla,Equidae,Equus,burchellii,Burchell's Zebra,280000,40,367.69088
+Mammalia,Perissodactyla,Equidae,Equus,caballus,Horse,250000,62,337.985
+Mammalia,Perissodactyla,Equidae,Equus,grevyi,Grevy's Zebra,384000,31.19166667,405.71375
+Mammalia,Perissodactyla,Equidae,Equus,hemionus,Onager,230000,38.8,346
+Mammalia,Perissodactyla,Equidae,Equus,kiang,Kiang,262500,38.8,304.4
+Mammalia,Perissodactyla,Equidae,Equus,quagga,Quagga,300000,40,365.28
+Mammalia,Perissodactyla,Equidae,Equus,zebra,Mountain Zebra,296000,33.2,363.49
+Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,White Rhinoceros,2.23E+06,50,515
+Mammalia,Perissodactyla,Rhinocerotidae,Dicerorhinus,sumatrensis,Sumatran Rhinoceros,1.26E+06,35,236
+Mammalia,Perissodactyla,Rhinocerotidae,Diceros,bicornis,Black Rhinoceros,995940.54,49.24166667,474
+Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,sondaicus,Javan Rhinoceros,1.75E+06,40,494.427
+Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,unicornis,Indian Rhinoceros,1.60E+06,49,479
+Mammalia,Perissodactyla,Tapiridae,Tapirus,bairdii,Baird's Tapir,300000,29.6,400.84212
+Mammalia,Perissodactyla,Tapiridae,Tapirus,indicus,Malayan Tapir,296250,36.5,392
+Mammalia,Perissodactyla,Tapiridae,Tapirus,pinchaque,Mountain Tapir,148950,28.5,393.99
+Mammalia,Perissodactyla,Tapiridae,Tapirus,terrestris,South American Tapir,225000,39.6,396.86
+Mammalia,Pholidota,Manidae,Manis,crassicaudata,Indian Pangolin,11963.78,20,67.9905
+Mammalia,Pholidota,Manidae,Manis,temminckii,Ground Pangolin,9586.87,3.158333333,139.95934
+Mammalia,Pilosa,Bradypodidae,Bradypus,torquatus,Maned Sloth,4184.21,12,150
+Mammalia,Pilosa,Bradypodidae,Bradypus,tridactylus,Pale-throated Sloth,4072.9,40,126.96
+Mammalia,Pilosa,Bradypodidae,Bradypus,variegatus,Brown-throated Sloth,3963.18,3.241666667,170.84
+Mammalia,Pilosa,Cyclopedidae,Cyclopes,didactylus,Silky Anteater,251.975,2.3,215.74456
+Mammalia,Pilosa,Megalonychidae,Choloepus,didactylus,Linnaeus's Two-toed Sloth,6250,36.8,274.315
+Mammalia,Pilosa,Megalonychidae,Choloepus,hoffmanni,Hoffmann's Two-toed Sloth,4250,37,344.8852
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,tridactyla,Giant Anteater,29531.83,31.525,184
+Mammalia,Pilosa,Myrmecophagidae,Tamandua,mexicana,Northern Tamandua,4194.255,19.55,159.43796
+Mammalia,Pilosa,Myrmecophagidae,Tamandua,tetradactyla,Southern Tamandua,4500,19.55,160
+Mammalia,Primates,Aotidae,Aotus,lemurinus,Gray-bellied Night Monkey,874,33.8,134.83148
+Mammalia,Primates,Aotidae,Aotus,trivirgatus,Three-striped Night Monkey,872.98,30.1,142
+Mammalia,Primates,Atelidae,Alouatta,caraya,Black Howler,5462.5,32.4,187
+Mammalia,Primates,Atelidae,Alouatta,coibensis,Coiba Island Howler,5659.14,25,186
+Mammalia,Primates,Atelidae,Alouatta,macconnelli,Guyanan Red Howler,6398.31,25,190
+Mammalia,Primates,Atelidae,Alouatta,palliata,Mantled Howler,5659.14,25,186
+Mammalia,Primates,Atelidae,Alouatta,pigra,Guatemalan Black Howler,9386.03,20,187.76814
+Mammalia,Primates,Atelidae,Alouatta,sara,Bolivian Red Howler,6470.755,25,190
+Mammalia,Primates,Atelidae,Alouatta,seniculus,Venezuelan Red Howler,6398.31,25,190
+Mammalia,Primates,Atelidae,Ateles,belzebuth,White-fronted Spider Monkey,6692.42,37,140.91868
+Mammalia,Primates,Atelidae,Ateles,chamek,Peruvian Spider Monkey,7294.46,46,204.46102
+Mammalia,Primates,Atelidae,Ateles,fusciceps,Black-headed Spider Monkey,7267.5,48,227
+Mammalia,Primates,Atelidae,Ateles,geoffroyi,Geoffroy's Spider Monkey,7267.5,48,229.185
+Mammalia,Primates,Atelidae,Ateles,hybridus,Brown Spider Monkey,6692.42,37,140.91868
+Mammalia,Primates,Atelidae,Ateles,marginatus,White-cheeked Spider Monkey,6229.28,44,140.91868
+Mammalia,Primates,Atelidae,Ateles,paniscus,Red-faced Spider Monkey,7887.5,46,228.18
+Mammalia,Primates,Atelidae,Brachyteles,arachnoides,Southern Muriqui,10839.905,14.475,228.96668
+Mammalia,Primates,Atelidae,Brachyteles,hypoxanthus,Northern Muriqui,10839.905,14.475,228.96668
+Mammalia,Primates,Atelidae,Lagothrix,cana,Gray Woolly Monkey,6263.69,32,223.99
+Mammalia,Primates,Atelidae,Lagothrix,lagotricha,Brown Woolly Monkey,6263.69,32,223.99
+Mammalia,Primates,Atelidae,Lagothrix,lugens,Colombian Woolly Monkey,6263.69,32.775,223.99
+Mammalia,Primates,Atelidae,Lagothrix,poeppigii,Silvery Woolly Monkey,6263.69,32,223.99
+Mammalia,Primates,Atelidae,Oreonax,flavicauda,Yellow-tailed Woolly Monkey,8229.12,6.983333333,225
+Mammalia,Primates,Cebidae,Callimico,goeldii,Goeldi's Marmoset,556.5,22.2,153.495
+Mammalia,Primates,Cebidae,Callithrix,argentata,Silvery Marmoset,357.25,16.8,144
+Mammalia,Primates,Cebidae,Callithrix,aurita,Buffy-tufted Marmoset,272.705,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,emiliae,Emilia's Marmoset,350.225,16.8,144
+Mammalia,Primates,Cebidae,Callithrix,flaviceps,Buffy-headed Marmoset,290.21,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,geoffroyi,White-headed Marmoset,299.605,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,humeralifera,Santarem Marmoset,299.605,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,intermedia,Hershkovitz's Marmoset,343.2,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,jacchus,Common Marmoset,255.2,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,kuhlii,Wied's Marmoset,307,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,leucippe,White Marmoset,357.25,16.8,144
+Mammalia,Primates,Cebidae,Callithrix,marcai,Marca's Marmoset,357.25,16.8,144
+Mammalia,Primates,Cebidae,Callithrix,melanura,Black-tailed Marmoset,357.25,16.8,144
+Mammalia,Primates,Cebidae,Callithrix,penicillata,Black-tufted Marmoset,307,22.79166667,144
+Mammalia,Primates,Cebidae,Callithrix,pygmaea,Pygmy Marmoset,116.83,18.6,133.72
+Mammalia,Primates,Cebidae,Cebus,albifrons,White-fronted Capuchin,2488.59,44,158
+Mammalia,Primates,Cebidae,Cebus,apella,Tufted Capuchin,2642.5,46,158
+Mammalia,Primates,Cebidae,Cebus,capucinus,White-headed Capuchin,2655,55,162
+Mammalia,Primates,Cebidae,Cebus,kaapori,Kaapori Capuchin,2670.07,47,162
+Mammalia,Primates,Cebidae,Cebus,libidinosus,Black-striped Capuchin,2642.5,46,158
+Mammalia,Primates,Cebidae,Cebus,nigritus,Black Capuchin,2642.5,46,158
+Mammalia,Primates,Cebidae,Cebus,olivaceus,Weeper Capuchin,2552.5,47,162
+Mammalia,Primates,Cebidae,Cebus,xanthosternos,Golden-bellied Capuchin,2642.5,46,158
+Mammalia,Primates,Cebidae,Leontopithecus,caissara,Superagui Lion Tamarin,629.255,31.6,132.3966
+Mammalia,Primates,Cebidae,Leontopithecus,chrysomelas,Golden-headed Lion Tamarin,582.66,31.6,132.3966
+Mammalia,Primates,Cebidae,Leontopithecus,chrysopygus,Black Lion Tamarin,654.5,31.6,132.3966
+Mammalia,Primates,Cebidae,Leontopithecus,rosalia,Golden Lion Tamarin,623.51,31.6,132.3966
+Mammalia,Primates,Cebidae,Saguinus,bicolor,Pied Tamarin,465,19,160
+Mammalia,Primates,Cebidae,Saguinus,fuscicollis,Brown-mantled Tamarin,393.99,24.9,148
+Mammalia,Primates,Cebidae,Saguinus,geoffroyi,Geoffroy's Tamarin,453.77,26.2,172.11812
+Mammalia,Primates,Cebidae,Saguinus,graellsi,Graells's Tamarin,450,20.2,140
+Mammalia,Primates,Cebidae,Saguinus,imperator,Emperor Tamarin,482.15,23.7,145
+Mammalia,Primates,Cebidae,Saguinus,labiatus,White-lipped Tamarin,501.33,20.5,147
+Mammalia,Primates,Cebidae,Saguinus,leucopus,White-footed Tamarin,490,15.225,142.5
+Mammalia,Primates,Cebidae,Saguinus,martinsi,Martins' Tamarin,465,19,160
+Mammalia,Primates,Cebidae,Saguinus,melanoleucus,White-mantled Tamarin,393.99,24.9,148
+Mammalia,Primates,Cebidae,Saguinus,midas,Red-handed Tamarin,547.18,21,132.62
+Mammalia,Primates,Cebidae,Saguinus,mystax,Moustached Tamarin,543.5,20,148.28
+Mammalia,Primates,Cebidae,Saguinus,niger,Black Tamarin,547.18,21,132.62
+Mammalia,Primates,Cebidae,Saguinus,nigricollis,Black-mantled Tamarin,450,20.2,140
+Mammalia,Primates,Cebidae,Saguinus,oedipus,Cottontop Tamarin,445.5,26.2,177.87312
+Mammalia,Primates,Cebidae,Saguinus,pileatus,Red-capped Tamarin,543.5,20,148.28
+Mammalia,Primates,Cebidae,Saguinus,tripartitus,Golden-mantled Tamarin,389.52,24.9,148
+Mammalia,Primates,Cebidae,Saimiri,boliviensis,Black-capped Squirrel Monkey,799.725,30.3,162.545
+Mammalia,Primates,Cebidae,Saimiri,oerstedii,Central American Squirrel Monkey,647.09,17.21666667,161
+Mammalia,Primates,Cebidae,Saimiri,sciureus,Common Squirrel Monkey,836.7,30.2,164.09
+Mammalia,Primates,Cebidae,Saimiri,vanzolinii,Black Squirrel Monkey,799.45,30.3,162.545
+Mammalia,Primates,Cercopithecidae,Cercocebus,agilis,Agile Mangabey,7775,46,169.86298
+Mammalia,Primates,Cercopithecidae,Cercocebus,atys,Sooty Mangabey,8778,46,167
+Mammalia,Primates,Cercopithecidae,Cercocebus,chrysogaster,Golden-bellied Mangabey,7775,46,169.86298
+Mammalia,Primates,Cercopithecidae,Cercocebus,galeritus,Tana River Mangabey,7066.5,21,176.2403
+Mammalia,Primates,Cercopithecidae,Cercocebus,sanjei,Sanje Mangabey,7066.5,21,176.2403
+Mammalia,Primates,Cercopithecidae,Cercocebus,torquatus,Collared Mangabey,8789,46,167.99
+Mammalia,Primates,Cercopithecidae,Cercopithecus,albogularis,Sykes' Monkey,6116.5,37.8,136.962
+Mammalia,Primates,Cercopithecidae,Cercopithecus,ascanius,Red-tailed Monkey,3705,31.2,160.845
+Mammalia,Primates,Cercopithecidae,Cercopithecus,campbelli,Campbell's Mona Monkey,3800,33,180.8
+Mammalia,Primates,Cercopithecidae,Cercopithecus,cephus,Moustached Guenon,3399.94,36,172
+Mammalia,Primates,Cercopithecidae,Cercopithecus,denti,Dent's Mona Monkey,3550,30.69166667,169.51
+Mammalia,Primates,Cercopithecidae,Cercopithecus,doggetti,Silver Monkey,6116.5,37.8,136.962
+Mammalia,Primates,Cercopithecidae,Cercopithecus,erythrogaster,White-throated Guenon,5256.91,31,172
+Mammalia,Primates,Cercopithecidae,Cercopithecus,erythrotis,Red-eared Guenon,3355,36,172
+Mammalia,Primates,Cercopithecidae,Cercopithecus,kandti,Golden Monkey,6116.5,37.8,136.962
+Mammalia,Primates,Cercopithecidae,Cercopithecus,lowei,Lowe's Mona Monkey,3800,33,180.8
+Mammalia,Primates,Cercopithecidae,Cercopithecus,mitis,Blue Monkey,6116.5,37.8,136.962
+Mammalia,Primates,Cercopithecidae,Cercopithecus,neglectus,De Brazza's Monkey,5701,30.8,176.0035
+Mammalia,Primates,Cercopithecidae,Cercopithecus,nictitans,Greater spot-nosed Monkey,5465,31,172
+Mammalia,Primates,Cercopithecidae,Cercopithecus,pogonias,Crested Mona Monkey,3137,27,169.51
+Mammalia,Primates,Cercopithecidae,Cercopithecus,sclateri,Sclater's Guenon,3304.99,36,172
+Mammalia,Primates,Cercopithecidae,Cercopithecus,wolfi,Wolf's Mona Monkey,3464.135,30.69166667,169.51
+Mammalia,Primates,Cercopithecidae,Chlorocebus,aethiops,Grivet,5104.25,46,167.99
+Mammalia,Primates,Cercopithecidae,Chlorocebus,cynosuros,Malbrouck,5104.25,46,167.99
+Mammalia,Primates,Cercopithecidae,Chlorocebus,djamdjamensis,Bale Mountains Vervet,5104.25,46,167.99
+Mammalia,Primates,Cercopithecidae,Chlorocebus,pygerythrus,Vervet Monkey,5104.25,46,167.99
+Mammalia,Primates,Cercopithecidae,Chlorocebus,sabaeus,Green Monkey,5104.25,46,167.99
+Mammalia,Primates,Cercopithecidae,Chlorocebus,tantalus,Tantalus Monkey,4961.5,46,167.99
+Mammalia,Primates,Cercopithecidae,Colobus,angolensis,Angola Colobus,8937.5,35.3,190.52936
+Mammalia,Primates,Cercopithecidae,Colobus,guereza,Mantled Guereza,9058.41,35,180
+Mammalia,Primates,Cercopithecidae,Colobus,polykomos,King Colobus,8653.145,33.9,190.52936
+Mammalia,Primates,Cercopithecidae,Colobus,satanas,Black Colobus,8653.145,33.9,190.52936
+Mammalia,Primates,Cercopithecidae,Colobus,vellerosus,Ursine Colobus,8509,33.9,190.52936
+Mammalia,Primates,Cercopithecidae,Erythrocebus,patas,Patas Monkey,7660.5,28.3,167.2
+Mammalia,Primates,Cercopithecidae,Lophocebus,albigena,Gray-cheeked Mangabey,7000,36,181.70292
+Mammalia,Primates,Cercopithecidae,Lophocebus,aterrimus,Black Crested Mangabey,6768.75,36.68333333,181.70292
+Mammalia,Primates,Cercopithecidae,Lophocebus,opdenboschi,Opdenbosch's Mangabey,6768.75,36.68333333,181.70292
+Mammalia,Primates,Cercopithecidae,Macaca,arctoides,Stump-tailed Macaque,9353,30,177
+Mammalia,Primates,Cercopithecidae,Macaca,cyclopis,Formosan Rock Macaque,6032.805,21.45833333,162.7072
+Mammalia,Primates,Cercopithecidae,Macaca,fascicularis,Crab-eating Macaque,4569.32,39,165
+Mammalia,Primates,Cercopithecidae,Macaca,fuscata,Japanese Macaque,8882.5,38.5,174
+Mammalia,Primates,Cercopithecidae,Macaca,hecki,Heck's Macaque,7386,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,leonina,Northern Pig-tailed Macaque,7603.39,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,maura,Moor Macaque,7359.39,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,mulatta,Rhesus Monkey,6614,40,165
+Mammalia,Primates,Cercopithecidae,Macaca,nemestrina,Southern Pig-tailed Macaque,7603.39,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,nigra,Celebes Crested Macaque,7662.195,34,175.96004
+Mammalia,Primates,Cercopithecidae,Macaca,nigrescens,Gorontalo Macaque,7662.195,34,175.96004
+Mammalia,Primates,Cercopithecidae,Macaca,ochreata,Booted Macaque,7290.3,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,pagensis,Pagai Island Macaque,7151.5,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,radiata,Bonnet Macaque,5132.245,30.025,161.56
+Mammalia,Primates,Cercopithecidae,Macaca,siberu,Siberut Macaque,7151.5,37.6,172
+Mammalia,Primates,Cercopithecidae,Macaca,silenus,Lion-tailed Macaque,6570,40.175,176
+Mammalia,Primates,Cercopithecidae,Macaca,sinica,Toque Macaque,4295.5,35,166.45
+Mammalia,Primates,Cercopithecidae,Macaca,sylvanus,Barbary Macaque,10875,29.1,164.42
+Mammalia,Primates,Cercopithecidae,Macaca,thibetana,Milne-Edwards' Macaque,10036.67,30,174.58606
+Mammalia,Primates,Cercopithecidae,Macaca,tonkeana,Tonkean Macaque,10992.765,28.4,173
+Mammalia,Primates,Cercopithecidae,Mandrillus,leucophaeus,Drill,16251.65,39.175,179.22
+Mammalia,Primates,Cercopithecidae,Mandrillus,sphinx,Mandrill,23000,46.33,173.99
+Mammalia,Primates,Cercopithecidae,Miopithecus,talapoin,Angolan Talapoin,1362.5,30.9,164.38
+Mammalia,Primates,Cercopithecidae,Nasalis,larvatus,Proboscis Monkey,13441.575,25.1,167.15554
+Mammalia,Primates,Cercopithecidae,Papio,anubis,Olive Baboon,17728.56,45,178.96
+Mammalia,Primates,Cercopithecidae,Papio,cynocephalus,Yellow Baboon,17851.25,45,176.1334375
+Mammalia,Primates,Cercopithecidae,Papio,hamadryas,Hamadryas Baboon,18000,45,179.276875
+Mammalia,Primates,Cercopithecidae,Papio,papio,Guinea Baboon,18000,45,179.276875
+Mammalia,Primates,Cercopithecidae,Papio,ursinus,Chacma Baboon,17729.44,45,179.276875
+Mammalia,Primates,Cercopithecidae,Piliocolobus,badius,Western Red Colobus,8070.5,3.158333333,161.38234
+Mammalia,Primates,Cercopithecidae,Piliocolobus,foai,Central African Red Colobus,7259,3.158333333,161.38234
+Mammalia,Primates,Cercopithecidae,Piliocolobus,kirkii,Zanzibar Red Colobus,7158.29,2.166666667,168.17734
+Mammalia,Primates,Cercopithecidae,Piliocolobus,pennantii,Pennant's Red Colobus,8092.75,3.158333333,161.38234
+Mammalia,Primates,Cercopithecidae,Pygathrix,cinerea,Gray-shanked Douc Langur,9875,26.78333333,182.88
+Mammalia,Primates,Cercopithecidae,Pygathrix,nemaeus,Red-shanked Douc Langur,9875,26.78333333,182.88
+Mammalia,Primates,Cercopithecidae,Pygathrix,nigripes,Black-shanked Douc Langur,10104.16,26.78333333,182.88
+Mammalia,Primates,Cercopithecidae,Rhinopithecus,bieti,Black Snub-nosed Monkey,14750,29.5,170
+Mammalia,Primates,Cercopithecidae,Rhinopithecus,brelichi,Gray Snub-nosed Monkey,14500,29.5,199.67
+Mammalia,Primates,Cercopithecidae,Rhinopithecus,roxellana,Golden Snub-nosed Monkey,14750,29.5,199.34
+Mammalia,Primates,Cercopithecidae,Semnopithecus,ajax,Kashmir Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,dussumieri,Southern Plains Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,entellus,Northern Plains Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,hector,Tarai Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,hypoleucos,Black-footed Gray Langur,12236.395,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,priam,Tufted Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Semnopithecus,schistaceus,Nepal Gray Langur,12679.29,29.275,192
+Mammalia,Primates,Cercopithecidae,Theropithecus,gelada,Gelada,15964.11,36,172.41658
+Mammalia,Primates,Cercopithecidae,Trachypithecus,barbei,Tenasserim Lutung,7071.5,33.9,149.74512
+Mammalia,Primates,Cercopithecidae,Trachypithecus,cristatus,Silvery Lutung,7071.5,33.9,149.74512
+Mammalia,Primates,Cercopithecidae,Trachypithecus,germaini,Indochinese Lutung,7071.5,33.9,149.74512
+Mammalia,Primates,Cercopithecidae,Trachypithecus,obscurus,Dusky Leaf-monkey,7163.94,33.9,146.63
+Mammalia,Primates,Cercopithecidae,Trachypithecus,phayrei,Phayre's Leaf-monkey,7247.88,33.9,158.37256
+Mammalia,Primates,Cercopithecidae,Trachypithecus,vetulus,Purple-faced Langur,7081.8,26.1,211
+Mammalia,Primates,Cheirogaleidae,Cheirogaleus,adipicaudatus,Spiny Desert Dwarf Lemur,340,23.20833333,65.74176
+Mammalia,Primates,Cheirogaleidae,Cheirogaleus,crossleyi,Crossley's Dwarf Lemur,420.11,15,70.7623
+Mammalia,Primates,Cheirogaleidae,Cheirogaleus,major,Greater Dwarf Lemur,420.11,15,70.7623
+Mammalia,Primates,Cheirogaleidae,Cheirogaleus,medius,Lesser Dwarf Lemur,248.38,23.20833333,61.79
+Mammalia,Primates,Cheirogaleidae,Cheirogaleus,sibreei,Sibree's Dwarf Lemur,420.11,15,70.7623
+Mammalia,Primates,Cheirogaleidae,Microcebus,griseorufus,Red-and-gray Mouse Lemur,69,18.2,60.34
+Mammalia,Primates,Cheirogaleidae,Microcebus,murinus,Gray Mouse Lemur,66.9,18.2,60.34
+Mammalia,Primates,Cheirogaleidae,Microcebus,myoxinus,Peters' Mouse Lemur,64.8,18.2,60.165
+Mammalia,Primates,Cheirogaleidae,Microcebus,rufus,Eastern Rufous Mouse Lemur,66.9,18.2,60.34
+Mammalia,Primates,Cheirogaleidae,Mirza,coquereli,Giant Mouse Lemur,311.2,17.4,89
+Mammalia,Primates,Cheirogaleidae,Phaner,electromontis,Mt. d'Ambre Fork-crowned Lemur,400,25.45,174.46
+Mammalia,Primates,Cheirogaleidae,Phaner,furcifer,Masoala Fork-crowned Lemur,400,25.45,174.46
+Mammalia,Primates,Cheirogaleidae,Phaner,pallescens,Pale Fork-crowned Lemur,400,25.45,174.46
+Mammalia,Primates,Cheirogaleidae,Phaner,parienti,Pariente's Fork-crowned Lemur,400,25.45,174.46
+Mammalia,Primates,Daubentoniidae,Daubentonia,madagascariensis,Aye-aye,2610.33,24.3,167
+Mammalia,Primates,Galagidae,Euoticus,elegantulus,Southern Needle-clawed Bushbaby,280,15,135.206
+Mammalia,Primates,Galagidae,Galago,alleni,Bioko Allen's Bushbaby,277.615,12,134.52446
+Mammalia,Primates,Galagidae,Galago,cameronensis,Cross River Bushbaby,277.615,12,134.52446
+Mammalia,Primates,Galagidae,Galago,demidoff,Prince Demidoff's Bushbaby,63.1,14,111
+Mammalia,Primates,Galagidae,Galago,gabonensis,Gabon Bushbaby,277.615,12,134.52446
+Mammalia,Primates,Galagidae,Galago,gallarum,Somali Bushbaby,192.2,18.83333333,126.49
+Mammalia,Primates,Galagidae,Galago,granti,Grant's Bushbaby,181.85,18.83333333,126
+Mammalia,Primates,Galagidae,Galago,matschiei,Dusky Bushbaby,192.2,18.83333333,126.49
+Mammalia,Primates,Galagidae,Galago,moholi,Moholi Bushbaby,180,18.83333333,126
+Mammalia,Primates,Galagidae,Galago,nyasae,Malawi Bushbaby,180,18.83333333,126
+Mammalia,Primates,Galagidae,Galago,senegalensis,Senegal Bushbaby,192.2,18.83333333,126.49
+Mammalia,Primates,Galagidae,Galago,thomasi,Thomas's Bushbaby,63.8,14,111
+Mammalia,Primates,Galagidae,Galago,zanzibaricus,Zanzibar Bushbaby,171.5,18.83333333,126
+Mammalia,Primates,Galagidae,Otolemur,crassicaudatus,Brown Greater Galago,1066.75,22.7,131.04
+Mammalia,Primates,Galagidae,Otolemur,garnettii,Northern Greater Galago,473.265,18.83333333,128.74428
+Mammalia,Primates,Galagidae,Otolemur,monteiri,Silvery Greater Galago,1094.5,22.7,131.04
+Mammalia,Primates,Hominidae,Gorilla,beringei,Eastern Gorilla,139842,55.4,257
+Mammalia,Primates,Hominidae,Gorilla,gorilla,Western Gorilla,126215.495,55.4,257
+Mammalia,Primates,Hominidae,Homo,sapiens,Human,62035,122.5,280
+Mammalia,Primates,Hominidae,Pan,paniscus,Bonobo,35119.95,55,235.3204327
+Mammalia,Primates,Hominidae,Pan,troglodytes,Common Chimpanzee,44983.5,74,229
+Mammalia,Primates,Hominidae,Pongo,abelii,Sumatran Orangutan,53408.29,60,259.42
+Mammalia,Primates,Hominidae,Pongo,pygmaeus,Bornean Orangutan,58941.645,60,259.42
+Mammalia,Primates,Hylobatidae,Bunopithecus,hoolock,Hoolock Gibbon,6699,41,232.5
+Mammalia,Primates,Hylobatidae,Hylobates,agilis,Agile Gibbon,5829.08,57,216.24344
+Mammalia,Primates,Hylobatidae,Hylobates,albibarbis,Bornean White-bearded Gibbon,5829.08,57,216.24344
+Mammalia,Primates,Hylobatidae,Hylobates,klossii,Kloss's Gibbon,5900,37,213
+Mammalia,Primates,Hylobatidae,Hylobates,lar,Lar Gibbon,6194.305,57,216.24344
+Mammalia,Primates,Hylobatidae,Hylobates,moloch,Silvery Javan Gibbon,6048.4,57,217
+Mammalia,Primates,Hylobatidae,Hylobates,muelleri,Mueller's Bornean Gibbon,5909.81,57.55833333,217
+Mammalia,Primates,Hylobatidae,Hylobates,pileatus,Pileated Gibbon,5656.805,57,216.24344
+Mammalia,Primates,Hylobatidae,Nomascus,concolor,Black Crested Gibbon,6410.47,46.1,207
+Mammalia,Primates,Hylobatidae,Nomascus,gabriellae,Red-cheeked Gibbon,6621.085,46.1,207.59112
+Mammalia,Primates,Hylobatidae,Nomascus,leucogenys,Northern White-cheeked Gibbon,6621.085,46.1,207.59112
+Mammalia,Primates,Hylobatidae,Nomascus,siki,Southern White-cheeked Gibbon,6621.085,46.1,207.59112
+Mammalia,Primates,Hylobatidae,Symphalangus,syndactylus,Siamang,10869.5,43,231
+Mammalia,Primates,Indridae,Propithecus,coquereli,Coquerel's Sifaka,3622.695,30.5,145.5246
+Mammalia,Primates,Indridae,Propithecus,deckenii,Van der Decken's Sifaka,3588.26,30.5,148
+Mammalia,Primates,Indridae,Propithecus,diadema,Diademed Sifaka,6414.495,11.05833333,166.28274
+Mammalia,Primates,Indridae,Propithecus,edwardsi,Milne-Edwards's Sifaka,6568.99,11.05833333,166.28274
+Mammalia,Primates,Indridae,Propithecus,perrieri,Perrier's Sifaka,6414.495,11.05833333,166.28274
+Mammalia,Primates,Indridae,Propithecus,verreauxi,Verreaux's Sifaka,3588.26,30.5,148
+Mammalia,Primates,Lemuridae,Eulemur,albifrons,White-headed Lemur,2426.29,39,124.67636
+Mammalia,Primates,Lemuridae,Eulemur,albocollaris,White-collared Lemur,2408.185,37,119.415
+Mammalia,Primates,Lemuridae,Eulemur,cinereiceps,Gray-headed Lemur,2419,37,119.415
+Mammalia,Primates,Lemuridae,Eulemur,collaris,Red-collared Lemur,2419,37,119.415
+Mammalia,Primates,Lemuridae,Eulemur,coronatus,Crowned Lemur,1699.85,30,125.39632
+Mammalia,Primates,Lemuridae,Eulemur,fulvus,Brown Lemur,2419,37,119.415
+Mammalia,Primates,Lemuridae,Eulemur,macaco,Black Lemur,2485.215,39,127.245
+Mammalia,Primates,Lemuridae,Eulemur,mongoz,Mongoose Lemur,1915.565,36.2,128.5
+Mammalia,Primates,Lemuridae,Eulemur,rubriventer,Red-bellied Lemur,1765.33,20.54166667,130
+Mammalia,Primates,Lemuridae,Eulemur,rufus,Red-fronted Lemur,2406.81,37,119.415
+Mammalia,Primates,Lemuridae,Eulemur,sanfordi,Sanford's Lemur,2406.515,37,119.415
+Mammalia,Primates,Lemuridae,Hapalemur,alaotrensis,Bandro,1275.105,23.3,141.24
+Mammalia,Primates,Lemuridae,Hapalemur,aureus,Golden Bamboo Lemur,1476.205,11.39166667,142.5
+Mammalia,Primates,Lemuridae,Hapalemur,griseus,Gray Bamboo Lemur,1202.71,23.3,141.24
+Mammalia,Primates,Lemuridae,Hapalemur,occidentalis,Sambirano Bamboo Lemur,1202.71,23.3,141.24
+Mammalia,Primates,Lemuridae,Lemur,catta,Ring-tailed Lemur,2555,37.3,134.838125
+Mammalia,Primates,Lemuridae,Prolemur,simus,Greater Bamboo Lemur,1883.955,17.6,141
+Mammalia,Primates,Lemuridae,Varecia,rubra,Red Ruffed Lemur,3670,36.18333333,100.32812
+Mammalia,Primates,Lemuridae,Varecia,variegata,Black-and-white Ruffed Lemur,3670,36.1,100.32812
+Mammalia,Primates,Lepilemuridae,Lepilemur,ankaranensis,Ankarana Sportive Lemur,713,12,133.45
+Mammalia,Primates,Lepilemuridae,Lepilemur,dorsalis,Black-striped Sportive Lemur,669.03,12,133.37984
+Mammalia,Primates,Lepilemuridae,Lepilemur,edwardsi,Milne-Edwards's Sportive Lemur,713,12,133.37984
+Mammalia,Primates,Lepilemuridae,Lepilemur,leucopus,White-footed Sportive Lemur,684.515,12,133.45
+Mammalia,Primates,Lepilemuridae,Lepilemur,microdon,Small-toothed Sportive Lemur,713,12,133.37984
+Mammalia,Primates,Lepilemuridae,Lepilemur,mustelinus,Weasel Lemur,691.015,12,133.37984
+Mammalia,Primates,Lepilemuridae,Lepilemur,ruficaudatus,Red-tailed Sportive Lemur,738.18,12,133.45
+Mammalia,Primates,Lepilemuridae,Lepilemur,septentrionalis,Northern Sportive Lemur,713,12,133.45
+Mammalia,Primates,Lorisidae,Arctocebus,aureus,Calabar Angwantibo,257.5,13,133.74
+Mammalia,Primates,Lorisidae,Arctocebus,calabarensis,Golden Angwantibo,257.755,13,133.74
+Mammalia,Primates,Lorisidae,Loris,lydekkerianus,Gray Slender Loris,249.22,19.3,167.61208
+Mammalia,Primates,Lorisidae,Loris,tardigradus,Red Slender Loris,243.71,19.3,167.61208
+Mammalia,Primates,Lorisidae,Nycticebus,bengalensis,Bengal Slow Loris,959.75,26.5,189.545
+Mammalia,Primates,Lorisidae,Nycticebus,coucang,Bengal Slow Loris,953.3,26.5,189.545
+Mammalia,Primates,Lorisidae,Nycticebus,pygmaeus,Pygmy Slow Loris,907.525,26.5,188
+Mammalia,Primates,Lorisidae,Perodicticus,potto,Potto,1011,26.8,193
+Mammalia,Primates,Pitheciidae,Cacajao,calvus,Bald Uacari,3421.04,37.75833333,182
+Mammalia,Primates,Pitheciidae,Callicebus,baptista,Baptista Lake Titi,904.065,26.2,164
+Mammalia,Primates,Pitheciidae,Callicebus,brunneus,Brown Titi,958.13,26.4,147.5
+Mammalia,Primates,Pitheciidae,Callicebus,cupreus,Coppery Titi,1037.575,26.4,147.5
+Mammalia,Primates,Pitheciidae,Callicebus,discolor,White-tailed titi,1037.575,26.4,147.5
+Mammalia,Primates,Pitheciidae,Callicebus,hoffmannsi,Hoffmanns's Titi,904.065,26.2,164
+Mammalia,Primates,Pitheciidae,Callicebus,moloch,Red-bellied Titi,850,26.2,164
+Mammalia,Primates,Pitheciidae,Callicebus,ornatus,Ornate Titi,1037.575,26.4,147.5
+Mammalia,Primates,Pitheciidae,Chiropotes,albinasus,White-nosed Saki,2900,20.79166667,157.67
+Mammalia,Primates,Pitheciidae,Chiropotes,chiropotes,Red-backed Bearded Saki,2942.5,19.6,157.67
+Mammalia,Primates,Pitheciidae,Chiropotes,israelita,Brown-backed Bearded Saki,2942.5,19.6,157.67
+Mammalia,Primates,Pitheciidae,Chiropotes,satanas,Black Bearded Saki,2942.5,19.6,157.67
+Mammalia,Primates,Pitheciidae,Chiropotes,utahickae,Uta Hick's Bearded Saki,2942.5,19.6,157.67
+Mammalia,Primates,Pitheciidae,Pithecia,pithecia,White-faced Saki,1480,36.18333333,159.565
+Mammalia,Primates,Tarsiidae,Tarsius,bancanus,Horsfield's Tarsier,118.445,16.3,178
+Mammalia,Primates,Tarsiidae,Tarsius,dentatus,Dian's Tarsier,141.71,12,171.05032
+Mammalia,Primates,Tarsiidae,Tarsius,pelengensis,Peleng Tarsier,173,12,171.05032
+Mammalia,Primates,Tarsiidae,Tarsius,pumilus,Pygmy Tarsier,173,12,171.05032
+Mammalia,Primates,Tarsiidae,Tarsius,sangirensis,Sangihe Tarsier,173,12,171.05032
+Mammalia,Primates,Tarsiidae,Tarsius,syrichta,Philippine Tarsier,114.455,16.13333333,179
+Mammalia,Primates,Tarsiidae,Tarsius,tarsier,Spectral Tarsier,173,12,176.37016
+Mammalia,Proboscidea,Elephantidae,Elephas,maximus,Asian Elephant,3.22E+06,80,642.84
+Mammalia,Proboscidea,Elephantidae,Loxodonta,africana,African Bush Elephant,4.50E+06,80,669.68
+Mammalia,Proboscidea,Elephantidae,Loxodonta,cyclotis,African Forest Elephant,4.63E+06,80,669.68
+Mammalia,Rodentia,Abrocomidae,Abrocoma,budini,Budin's Chinchilla Rat,221.82,1.083333333,112.26904
+Mammalia,Rodentia,Abrocomidae,Abrocoma,cinerea,Ashy Chinchilla Rat,221.82,1.083333333,112.26904
+Mammalia,Rodentia,Abrocomidae,Abrocoma,famatina,Famatina Chinchilla Rat,221.82,1.083333333,112.26904
+Mammalia,Rodentia,Abrocomidae,Abrocoma,shistacea,Sierra del Tontal Chinchilla Rat,221.82,1.083333333,112.26904
+Mammalia,Rodentia,Abrocomidae,Abrocoma,vaccarum,Mendozan Chinchilla Rat,221.82,1.083333333,112.26904
+Mammalia,Rodentia,Aplodontiidae,Aplodontia,rufa,Sewellel,706.8,10,29.91364
+Mammalia,Rodentia,Bathyergidae,Bathyergus,janetta,Namaqua Dune Mole-rat,627.5,1.5,68.41
+Mammalia,Rodentia,Bathyergidae,Bathyergus,suillus,Cape Dune Mole-rat,664.4,1.5,68.41
+Mammalia,Rodentia,Bathyergidae,Cryptomys,amatus,Zambian Mole-rat,77.95,11,83.12706
+Mammalia,Rodentia,Bathyergidae,Cryptomys,bocagei,Bocage's Mole-rat,79.5,11,81.26412
+Mammalia,Rodentia,Bathyergidae,Cryptomys,damarensis,Damara Mole-rat,134.65,15.5,92.8298
+Mammalia,Rodentia,Bathyergidae,Cryptomys,darlingi,Darling's Mole-rat,77.95,11,81.13206
+Mammalia,Rodentia,Bathyergidae,Cryptomys,hottentotus,Southern African Mole-rat,78.9,11,81.26412
+Mammalia,Rodentia,Bathyergidae,Georychus,capensis,Cape Mole-rat,189.68,11.2,44
+Mammalia,Rodentia,Bathyergidae,Heliophobius,argenteocinereus,Silvery Mole-rat,89,3.1,87.6322
+Mammalia,Rodentia,Bathyergidae,Heterocephalus,glaber,Naked Mole-rat,35,28.3,70
+Mammalia,Rodentia,Capromyidae,Capromys,pilorides,Desmarest's Hutia,4683.3,13.80833333,125
+Mammalia,Rodentia,Capromyidae,Geocapromys,brownii,Jamaician Hutia,1500,13.5,120
+Mammalia,Rodentia,Capromyidae,Geocapromys,ingrahami,Bahamian Hutia,733.52,9.316666667,113.1943
+Mammalia,Rodentia,Capromyidae,Geocapromys,thoracatus,Swan Island Hutia,1500,13.5,120
+Mammalia,Rodentia,Capromyidae,Plagiodontia,aedium,Hispaniolan Hutia,1267,15.9,136.5
+Mammalia,Rodentia,Castoridae,Castor,canadensis,American Beaver,19928.335,23.4,114.43936
+Mammalia,Rodentia,Castoridae,Castor,fiber,Eurasian Beaver,19000,35,106.62518
+Mammalia,Rodentia,Caviidae,Cavia,aperea,Brazilian Guinea Pig,341,10,63
+Mammalia,Rodentia,Caviidae,Cavia,porcellus,Domesticated Guinea Pig,639.1,14.8,67.495
+Mammalia,Rodentia,Caviidae,Cavia,tschudii,Montane Guinea Pig,580.94,10,63.00126
+Mammalia,Rodentia,Caviidae,Dolichotis,patagonum,Patagonian Mara,12500,14.4,91
+Mammalia,Rodentia,Caviidae,Dolichotis,salinicola,Chacoan Mara,1610.3,4.491666667,77.86026
+Mammalia,Rodentia,Caviidae,Galea,musteloides,Common Yellow-toothed Cavy,337.875,3.5,54
+Mammalia,Rodentia,Caviidae,Galea,spixii,Spix's Yellow-toothed Cavy,360.61,4.6,53
+Mammalia,Rodentia,Caviidae,Hydrochoeris,hydrochaeris,Capybara,51572.455,15.1,150.73
+Mammalia,Rodentia,Caviidae,Kerodon,rupestris,Rock Cavy,875.5,12.9,75.89
+Mammalia,Rodentia,Chinchillidae,Chinchilla,chinchilla,Short-tailed Chinchilla,492.495,20,111.735
+Mammalia,Rodentia,Chinchillidae,Chinchilla,lanigera,Long-tailed Chinchilla,485,20,112.47
+Mammalia,Rodentia,Chinchillidae,Lagidium,peruanum,Northern Mountain Viscacha,1245,19.5,131.48072
+Mammalia,Rodentia,Chinchillidae,Lagidium,viscacia,Southern Moutain Viscacha,1539.99,19.5,133.61404
+Mammalia,Rodentia,Chinchillidae,Lagidium,wolffsohni,Wolffsohn's Mountain Viscacha,1539.995,19.5,133.61404
+Mammalia,Rodentia,Chinchillidae,Lagostomus,maximus,Argentine Plains Viscacha,6392,10.8,155.73
+Mammalia,Rodentia,Cricetidae,Akodon,azarae,Azara's Akodont,24,0.833333333,23.52222
+Mammalia,Rodentia,Cricetidae,Allocricetulus,curtatus,Mongolian Hamster,30.7,2.408333333,13.45682
+Mammalia,Rodentia,Cricetidae,Alticola,strelzowi,Strelzow's Mountain Vole,49.995,2.741666667,20.62106
+Mammalia,Rodentia,Cricetidae,Arborimus,longicaudus,Red Tree Vole,22.39,0.166666667,31.5557
+Mammalia,Rodentia,Cricetidae,Arvicola,amphibius,Eurasian Water Vole,108.75,5,21.24
+Mammalia,Rodentia,Cricetidae,Arvicola,sapidus,Southwestern Water Vole,120,5,21.60956
+Mammalia,Rodentia,Cricetidae,Arvicola,scherman,Montane Water Vole,97.5,5,21.30478
+Mammalia,Rodentia,Cricetidae,Baiomys,taylori,Northern Pygmy Mouse,7.43,3.583333333,21.99
+Mammalia,Rodentia,Cricetidae,Calomys,boliviae,Bolivian Laucha,48,0.416666667,22.00914
+Mammalia,Rodentia,Cricetidae,Calomys,hummelincki,Hummelinck's Laucha,27,1.583333333,25.26188
+Mammalia,Rodentia,Cricetidae,Calomys,laucha,Little Laucha,24,1.583333333,25.13094
+Mammalia,Rodentia,Cricetidae,Calomys,musculinus,Drylands Laucha,17.6,1.583333333,23.76132
+Mammalia,Rodentia,Cricetidae,Calomys,tener,Delicate Laucha,14,1.583333333,25.13094
+Mammalia,Rodentia,Cricetidae,Chionomys,nivalis,European Snow Vole,42.01,2.325,20.96042
+Mammalia,Rodentia,Cricetidae,Cricetulus,migratorius,Gray Dwarf Hamster,30.7,2.408333333,13.45682
+Mammalia,Rodentia,Cricetidae,Cricetus,cricetus,Common Hamster,400,4,20
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,groenlandicus,Nearctic Collared Lemming,58.44,3.3,20.84
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,hudsonius,Ungava Collared Lemming,57,0.666666667,20.19606
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,nelsoni,Nelson's Collared Lemming,58.44,3.3,20.84
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,nunatakensis,Ogilvie Mountains Collared Lemming,58.44,3.3,20.84
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,richardsoni,Richardson's Collared Lemming,57.62,3.3,20.76824
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,torquatus,Palearctic Collared Lemming,67.885,3.8,19.1308
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,unalascensis,Unalaska Collared Lemming,58.44,3.3,21
+Mammalia,Rodentia,Cricetidae,Dicrostonyx,vinogradovi,Wrangel Island Collared Lemming,67.885,3.8,19.1308
+Mammalia,Rodentia,Cricetidae,Eligmodontia,puerulus,Altiplano Laucha,19.45,0.8,18.38
+Mammalia,Rodentia,Cricetidae,Eligmodontia,typus,Eastern Patagonian Laucha,17.5,0.8,18.38
+Mammalia,Rodentia,Cricetidae,Ellobius,talpinus,Northern Mole Vole,39,0.583333333,26.23966
+Mammalia,Rodentia,Cricetidae,Ellobius,tancrei,Eastern Mole Vole,39,0.583333333,26.23966
+Mammalia,Rodentia,Cricetidae,Lagurus,lagurus,Steppe Vole,20.3,3.825,20.08776
+Mammalia,Rodentia,Cricetidae,Lemmus,amurensis,Amur Brown Lemming,60,1.666666667,21.0226
+Mammalia,Rodentia,Cricetidae,Lemmus,lemmus,Norway Lemming,68.81,3.325,20.11
+Mammalia,Rodentia,Cricetidae,Lemmus,portenkoi,Wrangel Island Lemming,60,1.666666667,21.0226
+Mammalia,Rodentia,Cricetidae,Lemmus,sibiricus,Siberian Brown Lemming,60,1.666666667,21.0226
+Mammalia,Rodentia,Cricetidae,Lemmus,trimucronatus,Nearctic Brown Lemming,60.8,1.666666667,20.77
+Mammalia,Rodentia,Cricetidae,Mesocricetus,auratus,Golden Hamster,105,10,16
+Mammalia,Rodentia,Cricetidae,Mesocricetus,brandti,Brandt's Hamster,108.2,10,15.354
+Mammalia,Rodentia,Cricetidae,Mesocricetus,newtoni,Romanian Hamster,105,10,16
+Mammalia,Rodentia,Cricetidae,Mesocricetus,raddei,Ciscaucasian Hamster,105,10,16
+Mammalia,Rodentia,Cricetidae,Microtus,agrestis,Field Vole,31.935,4.825,20.72
+Mammalia,Rodentia,Cricetidae,Microtus,arvalis,Common Vole,25.4,4.8,21
+Mammalia,Rodentia,Cricetidae,Microtus,californicus,California Vole,53.5,2.083333333,21.18
+Mammalia,Rodentia,Cricetidae,Microtus,guentheri,Guenther's Vole,48.995,3.916666667,21
+Mammalia,Rodentia,Cricetidae,Microtus,ilaeus,Kazakhstan Vole,25.4,4.8,21
+Mammalia,Rodentia,Cricetidae,Microtus,irani,Iranian Vole,48,1,19.6417
+Mammalia,Rodentia,Cricetidae,Microtus,levis,East European Vole,26.9,4.8,21
+Mammalia,Rodentia,Cricetidae,Microtus,limnophilus,Lacustrine Vole,33.1,2.166666667,21.55978
+Mammalia,Rodentia,Cricetidae,Microtus,middendorffii,Middendorf's Vole,40.25,2.141666667,21
+Mammalia,Rodentia,Cricetidae,Microtus,miurus,Singing Vole,40.25,2.141666667,21
+Mammalia,Rodentia,Cricetidae,Microtus,mongolicus,Mongolian Vole,25.4,4.8,21
+Mammalia,Rodentia,Cricetidae,Microtus,montebelli,Japanese Grass Vole,33.1,2.166666667,21.92478
+Mammalia,Rodentia,Cricetidae,Microtus,ochrogaster,Prairie Vole,46.7,5.325,22.52264
+Mammalia,Rodentia,Cricetidae,Microtus,oeconomus,Root Vole,33.1,2.166666667,21.55978
+Mammalia,Rodentia,Cricetidae,Microtus,oregoni,Creeping Vole,20.425,1.25,23.78504
+Mammalia,Rodentia,Cricetidae,Microtus,paradoxus,Paradox Vole,48,1,19.6417
+Mammalia,Rodentia,Cricetidae,Microtus,pennsylvanicus,Meadow Vole,38.55,2.908333333,21.2726
+Mammalia,Rodentia,Cricetidae,Microtus,pinetorum,Woodland Vole,25.5,3.825,22.827
+Mammalia,Rodentia,Cricetidae,Microtus,richardsoni,North American Water Vole,72.825,1.5,24.8412
+Mammalia,Rodentia,Cricetidae,Microtus,schidlovskii,Schidlovsky's Vole,48,1,19.6417
+Mammalia,Rodentia,Cricetidae,Microtus,socialis,Social Vole,48,1,19.6417
+Mammalia,Rodentia,Cricetidae,Microtus,subterraneus,Common Pine Vole,17.8,2.833333333,21.30478
+Mammalia,Rodentia,Cricetidae,Myodes,californicus,Western Red-backed Vole,22.8,2.408333333,18
+Mammalia,Rodentia,Cricetidae,Myodes,centralis,Tien Shan Red-backed Vole,21.15,4.916666667,21.00084
+Mammalia,Rodentia,Cricetidae,Myodes,gapperi,Southern Red-backed Vole,22.8,2.408333333,17.97862
+Mammalia,Rodentia,Cricetidae,Myodes,glareolus,Bank Vole,20.8,4.916666667,20
+Mammalia,Rodentia,Cricetidae,Myodes,smithii,Smith's Red-backed Vole,27.5,3.5,19
+Mammalia,Rodentia,Cricetidae,Myopus,schisticolor,Wood Lemming,26.4,2.083333333,22.67478
+Mammalia,Rodentia,Cricetidae,Neotoma,albigula,White-throated Woodrat,190.5,9.5,36.21884
+Mammalia,Rodentia,Cricetidae,Neotoma,angustapalata,Tamaulipan Woodrat,203,0.666666667,33.19262
+Mammalia,Rodentia,Cricetidae,Neotoma,anthonyi,Anthony's Woodrat,119.365,10.5,33
+Mammalia,Rodentia,Cricetidae,Neotoma,bryanti,Bryant's Woodrat,119.365,10.5,33
+Mammalia,Rodentia,Cricetidae,Neotoma,bunkeri,Coronados Island Woodrat,119.365,10.5,33
+Mammalia,Rodentia,Cricetidae,Neotoma,chrysomelas,Nicaraguan Woodrat,203,0.666666667,33.19262
+Mammalia,Rodentia,Cricetidae,Neotoma,cinerea,Bushy-tailed Woodrat,285.89,5.825,29.75864
+Mammalia,Rodentia,Cricetidae,Neotoma,devia,Arizona Woodrat,113.4,10.5,33.2398
+Mammalia,Rodentia,Cricetidae,Neotoma,floridana,Eastern Woodrat,208.18,9.5,35.52942
+Mammalia,Rodentia,Cricetidae,Neotoma,fuscipes,Dusky-footed Woodrat,213.26,0.833333333,32.12736
+Mammalia,Rodentia,Cricetidae,Neotoma,goldmani,Goldman's Woodrat,198,9.5,36.21884
+Mammalia,Rodentia,Cricetidae,Neotoma,lepida,Desert Woodrat,113.4,10.5,33
+Mammalia,Rodentia,Cricetidae,Neotoma,leucodon,White-toothed Woodrat,190.5,9.5,36.21884
+Mammalia,Rodentia,Cricetidae,Neotoma,macrotis,Big-eared Woodrat,219.5,0.833333333,32.12736
+Mammalia,Rodentia,Cricetidae,Neotoma,magister,Allegheny Woodrat,208.59,9.5,34.84
+Mammalia,Rodentia,Cricetidae,Neotoma,martinensis,San Martin Woodrat,119.365,10.5,33
+Mammalia,Rodentia,Cricetidae,Neotoma,mexicana,Mexican Woodrat,203,0.666666667,33.19262
+Mammalia,Rodentia,Cricetidae,Neotoma,micropus,Southern Plains Woodrat,203.09,9.5,34.69704
+Mammalia,Rodentia,Cricetidae,Neotoma,nelsoni,Nelson's Woodrat,198,9.5,36.21884
+Mammalia,Rodentia,Cricetidae,Neotoma,palatina,Bolanos Woodrat,198,9.5,36.21884
+Mammalia,Rodentia,Cricetidae,Neotoma,stephensi,Stephen's Woodrat,125.33,10.5,32.99
+Mammalia,Rodentia,Cricetidae,Nyctomys,sumichrasti,Sumichrast's Vesper Rat,53.33,5.7,33.17524
+Mammalia,Rodentia,Cricetidae,Ochrotomys,nuttalli,Golden Mouse,22,8.416666667,29.0071
+Mammalia,Rodentia,Cricetidae,Ondatra,zibethicus,Common Muskrat,997.955,10,27.77838
+Mammalia,Rodentia,Cricetidae,Onychomys,arenicola,Chihuahuan Grasshopper Mouse,24.96,5.6,30.5
+Mammalia,Rodentia,Cricetidae,Onychomys,leucogaster,Northern Grasshopper Mouse,32.5,5.6,31.63
+Mammalia,Rodentia,Cricetidae,Onychomys,torridus,Southern Grasshopper Mouse,22,5.6,30.5
+Mammalia,Rodentia,Cricetidae,Oryzomys,couesi,Coues' Oryzomys,53.26,2.375,24.5444
+Mammalia,Rodentia,Cricetidae,Oryzomys,emmonsae,Emmons' Oryzomys,22.65,8,25.26188
+Mammalia,Rodentia,Cricetidae,Oryzomys,laticeps,Atlantic Forest Oryzomys,50.825,3.991666667,30.245
+Mammalia,Rodentia,Cricetidae,Oryzomys,megacephalus,Azara's Broad-headed Oryzomys,50.825,3.991666667,30.245
+Mammalia,Rodentia,Cricetidae,Oryzomys,nitidus,Elegant Oryzomys,51.63,3.991666667,30.245
+Mammalia,Rodentia,Cricetidae,Oryzomys,palustris,Marsh Oryzomys,50.465,2.375,24.5444
+Mammalia,Rodentia,Cricetidae,Oryzomys,perenensis,Western Amazonian Oryzomys,50.825,3.991666667,30.245
+Mammalia,Rodentia,Cricetidae,Ototylomys,phyllotis,Big-eared Climbing Rat,93.97,1.833333333,52.74
+Mammalia,Rodentia,Cricetidae,Peromyscus,attwateri,Texas Deermouse,28.3,5.4,27.5
+Mammalia,Rodentia,Cricetidae,Peromyscus,aztecus,Aztec Deermouse,26.3,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,beatae,Orizaba Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,boylii,Brush Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,bullatus,Perote Deermouse,33.05,5.4,30.13164
+Mammalia,Rodentia,Cricetidae,Peromyscus,californicus,California Deermouse,45.5,5.5,30
+Mammalia,Rodentia,Cricetidae,Peromyscus,caniceps,Monserrat Island Deermouse,22,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,crinitus,Canyon Deermouse,16.33,7.7,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,dickeyi,Dickey's Deermouse,22.365,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,difficilis,Southern Rock Deermouse,28,5.4,30.13164
+Mammalia,Rodentia,Cricetidae,Peromyscus,eremicus,Cactus Deermouse,21.75,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,eva,Southern Baja Deermouse,21.99,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,fraterculus,Northern Baja Deermouse,21.75,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,gossypinus,Cotton Deermouse,22.65,8,25.26188
+Mammalia,Rodentia,Cricetidae,Peromyscus,gratus,Saxicoline Deermouse,27.35,5.4,28.30548
+Mammalia,Rodentia,Cricetidae,Peromyscus,guardia,La Guarda Deermouse,21.75,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,guatemalensis,Guatemalan Deermouse,41.29,5.7,31.095
+Mammalia,Rodentia,Cricetidae,Peromyscus,hylocetes,Transvolcanic Deermouse,26.3,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,interparietalis,San Lorenzo Deermouse,21.75,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,keeni,Northwestern Deermouse,22.05,8.333333333,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,leucopus,White-footed Deermouse,22.3,8,25.26188
+Mammalia,Rodentia,Cricetidae,Peromyscus,levipes,Nimble-footed Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,madrensis,Tres Marias Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,maniculatus,North American Deermouse,20.5,8.333333333,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,melanotis,Black-eared Deermouse,21.4,8.333333333,25.56624
+Mammalia,Rodentia,Cricetidae,Peromyscus,merriami,Merriam's Deermouse,22,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,nasutus,Northern Rock Deermouse,28,5.4,30.13164
+Mammalia,Rodentia,Cricetidae,Peromyscus,pectoralis,White-ankled Deermouse,33,5.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,pembertoni,Pemberton's Deermouse,21.75,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,polionotus,Oldfield Deermouse,14,5.5,24
+Mammalia,Rodentia,Cricetidae,Peromyscus,polius,Chihuahuan Deermouse,26.3,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,pseudocrinitus,Coronados Deermouse,21.5,7.4,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,sagax,Michoacan Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,sejugis,Santa Cruz Deermouse,20.95,8.333333333,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,simulus,Sinaloan Deermouse,26.3,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,slevini,Catalina Deermouse,20.5,8.333333333,26
+Mammalia,Rodentia,Cricetidae,Peromyscus,spicilegus,Gleaning Deermouse,28.7,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,stephani,San Esteban Deermouse,23.9,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Peromyscus,truei,Pinon Deermouse,33,5.4,30.13164
+Mammalia,Rodentia,Cricetidae,Peromyscus,winkelmanni,Coalcoman Deermouse,28.7,1.5,24.95752
+Mammalia,Rodentia,Cricetidae,Phenacomys,intermedius,Western Heather Vole,25.2,4,22.01478
+Mammalia,Rodentia,Cricetidae,Phenacomys,ungava,Eastern Heather Vole,27,4,22.355
+Mammalia,Rodentia,Cricetidae,Phodopus,campbelli,Campbell's Desert Hamster,28.745,3.908333333,20
+Mammalia,Rodentia,Cricetidae,Phodopus,roborovskii,Roborovski's Desert Hamster,12.02,4.8,21.3052
+Mammalia,Rodentia,Cricetidae,Phodopus,sungorus,Striped Desert Hamster,30.865,3.908333333,19.8921875
+Mammalia,Rodentia,Cricetidae,Phyllotis,bonariensis,Bonaerense Pericote,49,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,caprinus,Capricorn Pericote,50.8,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,darwini,Darwin's Pericote,49.91,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,definitus,Ancash Pericote,50.82,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,limatus,Lima Pericote,50.825,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,magister,Majestic Pericote,50.825,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,osgoodi,Osgood's Pericote,49,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,wolffsohni,Wolffsohn's Pericote,49,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Phyllotis,xanthopygus,Yellow-rumped Pericote,50.825,3.991666667,33.64916
+Mammalia,Rodentia,Cricetidae,Podomys,floridanus,Florida Deermouse,31.025,7.416666667,23.21786
+Mammalia,Rodentia,Cricetidae,Reithrodontomys,humulis,Eastern Harvest Mouse,9.275,2.25,22.0435
+Mammalia,Rodentia,Cricetidae,Reithrodontomys,megalotis,Western Harvest Mouse,10.72,3.575,23.31568
+Mammalia,Rodentia,Cricetidae,Reithrodontomys,raviventris,Salt-marsh Harvest Mouse,11,2.583333333,22.5
+Mammalia,Rodentia,Cricetidae,Reithrodontomys,zacatecae,Zacatecan Harvest Mouse,10.72,3.575,23.31568
+Mammalia,Rodentia,Cricetidae,Scotinomys,teguina,Short-tailed Singing Mouse,12,3.658333333,30.97018
+Mammalia,Rodentia,Cricetidae,Sigmodon,alleni,Allen's Cotton Rat,159.6,5.2,27.04402
+Mammalia,Rodentia,Cricetidae,Sigmodon,arizonae,Arizona Cotton Rat,172.3,5.2,27
+Mammalia,Rodentia,Cricetidae,Sigmodon,hirsutus,Southern Cotton Rat,159.6,5.2,27
+Mammalia,Rodentia,Cricetidae,Sigmodon,hispidus,Hispid Cotton Rat,159.6,5.2,27
+Mammalia,Rodentia,Cricetidae,Sigmodon,mascotensis,West Mexican Cotton Rat,156,5.2,27
+Mammalia,Rodentia,Cricetidae,Sigmodon,ochrognathus,Yellow-nosed Cotton Rat,145.85,5.2,27.08804
+Mammalia,Rodentia,Cricetidae,Sigmodon,peruanus,Peruvian Cotton Rat,172.3,5.2,27.08804
+Mammalia,Rodentia,Cricetidae,Sigmodon,planifrons,Miahuatlan Cotton Rat,159.6,5.2,27.04402
+Mammalia,Rodentia,Cricetidae,Sigmodon,toltecus,Toltec Cotton Rat,159.6,5.2,27
+Mammalia,Rodentia,Cricetidae,Synaptomys,cooperi,Southern Bog Lemming,32.53,2.5,23.36786
+Mammalia,Rodentia,Cricetidae,Tylomys,nudicaudus,Peter's Climbing Rat,280,5.416666667,40
+Mammalia,Rodentia,Cricetidae,Tylomys,tumbalensis,Tumbala Climbing Rat,280,5.416666667,40
+Mammalia,Rodentia,Cricetidae,Zygodontomys,brevicauda,Short-tailed Zygodont,55.11,0.416666667,25.93466
+Mammalia,Rodentia,Cricetidae,Zygodontomys,brunneus,Brown Zygodont,58,0.416666667,25.93466
+Mammalia,Rodentia,Ctenodactylidae,Ctenodactylus,gundi,Common Gundi,288.8,5.8,74
+Mammalia,Rodentia,Ctenodactylidae,Ctenodactylus,vali,Val's Gundi,288.41,5.8,65.96
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,azarae,Azara's Tuco-tuco,340,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,bergi,Berg's Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,fochi,Foch's Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,fodax,Lago Blanco Tuco-tuco,140.84,3,102.67
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,haigi,Haig's Tuco-tuco,164,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,juris,Jujuy Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,latro,Mottled Tuco-tuco,185.22,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,maulinus,Maule Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,mendocinus,Mendoza Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,occultus,Furtive Tuco-tuco,164.22,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,pundti,Pundt's Tuco-tuco,178.44,2.166666667,91.32
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,talarum,Los Talas Tuco-tuco,130.92,3,102.67
+Mammalia,Rodentia,Ctenomyidae,Ctenomys,tucumanus,Tucuman Tuco-tuco,197.72,2.166666667,91.32
+Mammalia,Rodentia,Cuniculidae,Cuniculus,paca,Lowland Paca,9000,16.8,116
+Mammalia,Rodentia,Cuniculidae,Cuniculus,taczanowskii,Mountain Paca,9000,18.9,115.37186
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta,coibae,Coiban Agouti,2229.56,13.8,109.825
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta,leporina,Red-rumped Agouti,3137.495,17.8,106.39
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta,punctata,Central American Agouti,2229.56,13.8,109.825
+Mammalia,Rodentia,Dasyproctidae,Myoprocta,acouchy,Red Acouchi,844.5,14.8,99
+Mammalia,Rodentia,Dasyproctidae,Myoprocta,pratti,Green Acouchi,914,14.8,99.325
+Mammalia,Rodentia,Dinomyidae,Dinomys,branickii,Pacarana,12500,13,253
+Mammalia,Rodentia,Dipodidae,Dipus,sagitta,Northern Three-toed Jerboa,89,0.833333333,27.75056
+Mammalia,Rodentia,Dipodidae,Jaculus,jaculus,Lesser Egyptian Jerboa,57.4,7.3,38
+Mammalia,Rodentia,Dipodidae,Jaculus,orientalis,Greater Egyptian Jerboa,136.13,5.5,35.0014
+Mammalia,Rodentia,Dipodidae,Napaeozapus,insignis,Woodland Jumping Mouse,21.8,4,23.08286
+Mammalia,Rodentia,Dipodidae,Pygeretmus,pumilio,Dwarf Fat-tailed Jerboa,52.285,0.25,27.75056
+Mammalia,Rodentia,Dipodidae,Sicista,betulina,Northern Birch Mouse,8.92,4,30.51146
+Mammalia,Rodentia,Dipodidae,Sicista,strandi,Strand's Birch Mouse,8.92,4,30.51146
+Mammalia,Rodentia,Dipodidae,Zapus,hudsonius,Meadow Jumping Mouse,23.8,5.6,19
+Mammalia,Rodentia,Dipodidae,Zapus,princeps,Western Jumping Mouse,27.975,6,18.11
+Mammalia,Rodentia,Dipodidae,Zapus,trinotatus,Pacific Jumping Mouse,27.325,6,18.2616
+Mammalia,Rodentia,Echimyidae,Hoplomys,gymnurus,Armored Rat,504,7.233333333,59.99
+Mammalia,Rodentia,Echimyidae,Proechimys,brevicauda,Short-tailed Spiny-rat,285,6.8,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,chrysaeolus,Boyaca Spiny Rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,decumanus,Pacific Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,goeldii,Goeldi's Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,guairae,Guaira Spiny-rat,350,7,63.61124
+Mammalia,Rodentia,Echimyidae,Proechimys,guyannensis,Guyenne Spiny-rat,335.265,4.8,63.6628
+Mammalia,Rodentia,Echimyidae,Proechimys,hoplomyoides,Guyanan Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,longicaudatus,Long-tailed Spiny-rat,280.75,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,magdalenae,Magdalena Spiny Rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,mincae,Minca Spiny Rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,oconnelli,O'Connell's Spiny-rat,427.25,5.8,63.9578
+Mammalia,Rodentia,Echimyidae,Proechimys,pattoni,Patton's Spiny-rat,356.5,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,poliopus,Gray-footed Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,quadruplicatus,Napo Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,roberti,Roberto's Spiny-rat,284.99,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,semispinosus,Tome's Spiny-rat,498,5.8,63.9578
+Mammalia,Rodentia,Echimyidae,Proechimys,simonsi,Simon's Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,steerei,Steere's Spiny-rat,284.99,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,trinitatus,Trinidad Spiny-rat,356.5,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Proechimys,urichi,Sucre Spiny-rat,320.745,3.5,63.9156
+Mammalia,Rodentia,Echimyidae,Thrichomys,apereoides,Common Punare,348.25,7,95.3958
+Mammalia,Rodentia,Echimyidae,Thrichomys,inermis,Highlands Punare,348.25,7,95.3958
+Mammalia,Rodentia,Echimyidae,Thrichomys,pachyurus,Paraguayan Punare,373.5,7,95.3958
+Mammalia,Rodentia,Erethizontidae,Coendou,prehensilis,Brazilian Porcupine,3900,26.6,203
+Mammalia,Rodentia,Erethizontidae,Erethizon,dorsata,North American Porcupine,8009.73,23.4,210
+Mammalia,Rodentia,Geomyidae,Geomys,arenarius,Desert Pocket Gopher,200.375,12,26.78368
+Mammalia,Rodentia,Geomyidae,Geomys,attwateri,Attwater's Pocket Gopher,176.7,12,26.78368
+Mammalia,Rodentia,Geomyidae,Geomys,breviceps,Baird's Pocket Gopher,176.7,12,26.78368
+Mammalia,Rodentia,Geomyidae,Geomys,bursarius,Plains Pocket Gopher,186.85,12,26.78368
+Mammalia,Rodentia,Geomyidae,Geomys,knoxjonesi,Knox Jones's Pocket Gopher,176.7,12,23.98
+Mammalia,Rodentia,Geomyidae,Geomys,pinetis,Southeastern Pocket Gopher,195.75,0.083333333,28.30548
+Mammalia,Rodentia,Geomyidae,Geomys,texensis,Central Texas Pocket Gopher,176.7,12,26.78368
+Mammalia,Rodentia,Geomyidae,Thomomys,bottae,Botta's Pocket Gopher,103.5,6.1,23.87
+Mammalia,Rodentia,Geomyidae,Thomomys,bulbivorus,Camas Pocket Gopher,105.07,6,22.73966
+Mammalia,Rodentia,Geomyidae,Thomomys,clusius,Wyoming Pocket Gopher,101.12,6,22.73966
+Mammalia,Rodentia,Geomyidae,Thomomys,idahoensis,Idaho Pocket Gopher,101.12,6,22.73966
+Mammalia,Rodentia,Geomyidae,Thomomys,talpoides,Northern Pocket Gopher,101.12,6,22.73966
+Mammalia,Rodentia,Geomyidae,Thomomys,townsendii,Townsend's Pocket Gopher,115.5,6.1,23.87
+Mammalia,Rodentia,Gliridae,Dryomys,nitedula,Forest Dormouse,26,4.1,24.65316
+Mammalia,Rodentia,Gliridae,Eliomys,melanurus,Large-eared Garden Dormouse (see comments,114.61,6.2,22.985
+Mammalia,Rodentia,Gliridae,Eliomys,munbyanus,Maghreb Garden Dormouse,114.61,6.2,22.985
+Mammalia,Rodentia,Gliridae,Eliomys,quercinus,Garden Dormouse,114.61,5.5,22.97
+Mammalia,Rodentia,Gliridae,Glirulus,japonicus,Japanese Dormouse,47.4,7,30.436
+Mammalia,Rodentia,Gliridae,Glis,glis,Fat Dormouse,140.045,9,28.19
+Mammalia,Rodentia,Gliridae,Graphiurus,johnstoni,Johnston's African Dormouse,24,6.9,24
+Mammalia,Rodentia,Gliridae,Graphiurus,microtis,Large Savanna African Dormouse,24,6.9,24
+Mammalia,Rodentia,Gliridae,Graphiurus,murinus,Forest African Dormouse,24,6.9,24
+Mammalia,Rodentia,Gliridae,Muscardinus,avellanarius,Hazel Dormouse,27.315,6,24.04444
+Mammalia,Rodentia,Gliridae,Myomimus,personatus,Masked Mouse-tailed Dormouse,24,6.9,24
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,californicus,California Pocket Mouse,23.01,1.833333333,25.21094
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,eremicus,Chihuahuan Pocket Mouse,15.57,4.408333333,25.78312
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,fallax,San Diego Pocket Mouse,18.945,8.333333333,25
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,formosus,Long-tailed Pocket Mouse,19.225,7.1,28
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,nelsoni,Nelson's Pocket Mouse,14.965,2.583333333,30.533
+Mammalia,Rodentia,Heteromyidae,Chaetodipus,penicillatus,Desert Pocket Mouse,15.57,4.408333333,25.78312
+Mammalia,Rodentia,Heteromyidae,Dipodomys,californicus,California Kangaroo Rat,65,8.3,31
+Mammalia,Rodentia,Heteromyidae,Dipodomys,compactus,Gulf Coast Kangaroo Rat,49.25,9.9,29.91082
+Mammalia,Rodentia,Heteromyidae,Dipodomys,deserti,Desert Kangaroo Rat,106.75,9,30.5
+Mammalia,Rodentia,Heteromyidae,Dipodomys,heermanni,Heermann's Kangaroo Rat,64.15,8.3,31
+Mammalia,Rodentia,Heteromyidae,Dipodomys,merriami,Merriam's Kangaroo Rat,37.805,9.7,27.8490625
+Mammalia,Rodentia,Heteromyidae,Dipodomys,microps,Chisel-toothed Kangaroo Rat,55.16,3.658333333,31.32172
+Mammalia,Rodentia,Heteromyidae,Dipodomys,nitratoides,San Joaquin Valley Kangaroo Rat,37.8,9.7,29.385
+Mammalia,Rodentia,Heteromyidae,Dipodomys,ordii,Ord's Kangaroo Rat,49.6,9.9,29.91082
+Mammalia,Rodentia,Heteromyidae,Dipodomys,panamintinus,Panamint Kangaroo Rat,56.58,5.408333333,30.133125
+Mammalia,Rodentia,Heteromyidae,Dipodomys,spectabilis,Banner-tailed Kangaroo Rat,124.61,12.7,23.5
+Mammalia,Rodentia,Heteromyidae,Heteromys,desmarestianus,Desmarest's Spiny Pocket Mouse,76.4,0.833333333,27.93056
+Mammalia,Rodentia,Heteromyidae,Perognathus,flavescens,Plains Pocket Mouse,9.105,5,25.8706
+Mammalia,Rodentia,Heteromyidae,Perognathus,flavus,Silky Pocket Mouse,7.97,5,25.63094
+Mammalia,Rodentia,Heteromyidae,Perognathus,inornatus,San Joaquin Pocket Mouse,8.575,8.333333333,22.74
+Mammalia,Rodentia,Heteromyidae,Perognathus,longimembris,Little Pocket Mouse,8.35,8.333333333,22.74
+Mammalia,Rodentia,Heteromyidae,Perognathus,parvus,Great Basin Pocket Mouse,20.1,5.8,24
+Mammalia,Rodentia,Hystricidae,Atherurus,africanus,African Brush-tailed Porcupine,2875.65,22.91666667,106.526
+Mammalia,Rodentia,Hystricidae,Hystrix,africaeaustralis,Cape Porcupine,14936.02,23.1,93.49
+Mammalia,Rodentia,Hystricidae,Hystrix,brachyura,Malayan Porcupine,8000,27.3,112
+Mammalia,Rodentia,Hystricidae,Hystrix,crassispinis,Thick-spined Porcupine,4584.6,1.416666667,112
+Mammalia,Rodentia,Hystricidae,Hystrix,cristata,Crested Porcupine,19166.665,28.525,71.045
+Mammalia,Rodentia,Hystricidae,Hystrix,indica,Indian Crested Porcupine,17325,27.1,113
+Mammalia,Rodentia,Hystricidae,Hystrix,javanica,Sunda Porcupine,8000,27.3,112
+Mammalia,Rodentia,Hystricidae,Hystrix,pumila,Phillipine Porcupine,3142.13,9.5,112
+Mammalia,Rodentia,Hystricidae,Hystrix,sumatrae,Sumatran Porcupine,4200,13.225,112
+Mammalia,Rodentia,Muridae,Acomys,airensis,Western Saharan Spiny mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,cahirinus,Northeast African Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,chudeaui,Chudeau's Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,cineraceus,Gray Spiny Mouse,43.6,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,dimidiatus,Eastern Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,ignitus,Fiery Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,johannis,Johan's Spiny Mouse,43.6,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,kempi,Kemp's Spiny Mouse,43.6,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,minous,Crete Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,mullah,Mullah Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,nesiotes,Cyprus Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,russatus,Golden Spiny Mouse,54.915,5,34.39268
+Mammalia,Rodentia,Muridae,Acomys,seurati,Seurat's Spiny Mouse,45.2,7.483333333,38
+Mammalia,Rodentia,Muridae,Acomys,wilsoni,Wilson's Spiny mouse,20.96,5.6,38.82686
+Mammalia,Rodentia,Muridae,Aethomys,chrysophilus,Red Veld Aethomys,79.7,0.75,25.71594
+Mammalia,Rodentia,Muridae,Aethomys,hindei,Hinde's Aethomys,98.495,2.741666667,25.71594
+Mammalia,Rodentia,Muridae,Aethomys,ineptus,Tete Veld Aethomys,80.85,0.75,25.71594
+Mammalia,Rodentia,Muridae,Aethomys,kaiseri,Kaiser's Aethomys,98.495,2.741666667,25.71594
+Mammalia,Rodentia,Muridae,Aethomys,thomasi,Thomas's Aethomys,98.495,2.741666667,25.71594
+Mammalia,Rodentia,Muridae,Apodemus,agrarius,Striped Field Mouse,21.2,4,20.74978
+Mammalia,Rodentia,Muridae,Apodemus,alpicola,Alpine Field Mouse,29.375,4.5,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,argenteus,Small Japanese Field Mouse,23.4,6.325,23.43572
+Mammalia,Rodentia,Muridae,Apodemus,chevrieri,Chevrier's Field Mouse,21.2,4,20.74978
+Mammalia,Rodentia,Muridae,Apodemus,draco,South China Field Mouse,23.4,6.325,23.43572
+Mammalia,Rodentia,Muridae,Apodemus,flavicollis,Yellow-necked Field Mouse,29.375,4.5,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,gurkha,Nepalese Field Mouse,29.375,4.5,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,latronum,Large-eared Field Mouse,29.4,5.3,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,pallipes,Himalayan Field Mouse,23.39,6.325,23.43572
+Mammalia,Rodentia,Muridae,Apodemus,peninsulae,Korean Field Mouse,29.4,5.3,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,ponticus,Caucasus Field Mouse,29.375,4.5,25.9353
+Mammalia,Rodentia,Muridae,Apodemus,rusiges,Kashmir Field Mouse,24.8,6.325,24.5
+Mammalia,Rodentia,Muridae,Apodemus,semotus,Taiwan Field Mouse,23.6,6.325,23.43572
+Mammalia,Rodentia,Muridae,Apodemus,sylvaticus,Long-tailed Field Mouse,23.4,6.325,23.43572
+Mammalia,Rodentia,Muridae,Apodemus,uralensis,Herb Field Mouse,23.39,6.325,23.43572
+Mammalia,Rodentia,Muridae,Arvicanthis,ansorgei,Sudanian Arvicanthis,95.8,6.7,22
+Mammalia,Rodentia,Muridae,Arvicanthis,niloticus,African Arvicanthis,95.8,6.7,22
+Mammalia,Rodentia,Muridae,Arvicanthis,rufinus,Guinean Arvicanthis,89.84,6.7,22
+Mammalia,Rodentia,Muridae,Bandicota,indica,Greater Bandicoot Rat,200,4.2,22
+Mammalia,Rodentia,Muridae,Chiropodomys,gliroides,Indomalayan Pencil-tailed Tree Mouse,25.5,3.6,20.13
+Mammalia,Rodentia,Muridae,Chiropodomys,pusillus,Lesser Pencil-tailed Tree Mouse,27.2,3.6,20.13
+Mammalia,Rodentia,Muridae,Conilurus,penicillatus,Brush-tailed Conilurus,159.51,5,35.30576
+Mammalia,Rodentia,Muridae,Desmodillus,auricularis,Cape Short-tailed Gerbil,54.81,6.1,28.60984
+Mammalia,Rodentia,Muridae,Dipodillus,dasyurus,Wagner's Dipodil,27.5,1.75,25.28312
+Mammalia,Rodentia,Muridae,Dipodillus,simoni,Simon's Dipodil,24.4,2,25.55312
+Mammalia,Rodentia,Muridae,Gerbilliscus,afra,Cape Gerbil,83.465,5.7,23
+Mammalia,Rodentia,Muridae,Gerbilliscus,brantsii,Highveld Gerbil,82.205,0.75,22.7335
+Mammalia,Rodentia,Muridae,Gerbilliscus,kempi,Northern Savanna Gerbil,113,5,25.33
+Mammalia,Rodentia,Muridae,Gerbilliscus,leucogaster,Bushveld Gerbil,133.8,2.908333333,28.37
+Mammalia,Rodentia,Muridae,Gerbilliscus,validus,Southern Savanna Gerbil,113,5,25
+Mammalia,Rodentia,Muridae,Gerbillurus,paeba,Paeba Hairy-footed Gerbil,28.5,3.241666667,25.02222
+Mammalia,Rodentia,Muridae,Gerbillus,amoenus,Pleasant Gerbil,26.95,4.491666667,21.44196
+Mammalia,Rodentia,Muridae,Gerbillus,floweri,Flower's Gerbil,39.9,8.2,22.14
+Mammalia,Rodentia,Muridae,Gerbillus,garamantis,Algerian Gerbil,28.4,4.491666667,21.44196
+Mammalia,Rodentia,Muridae,Gerbillus,grobbeni,Grobben's Gerbil,28.4,4.491666667,21.44196
+Mammalia,Rodentia,Muridae,Gerbillus,hesperinus,Moroccan Gerbil,39.9,8.2,22.14
+Mammalia,Rodentia,Muridae,Gerbillus,nanus,Baluchistan Gerbil,28.4,4.491666667,21.44196
+Mammalia,Rodentia,Muridae,Gerbillus,perpallidus,Pale Gerbil,52.4,5.5,20.22
+Mammalia,Rodentia,Muridae,Gerbillus,pyramidum,Greater Egyptian Gerbil,39.9,8.2,22.14
+Mammalia,Rodentia,Muridae,Gerbillus,tarabuli,Tarabul's Gerbil,39.9,8.2,22.14
+Mammalia,Rodentia,Muridae,Gerbillus,vivax,Vivacious Gerbil,27.6,4.491666667,21.91392
+Mammalia,Rodentia,Muridae,Grammomys,buntingi,Bunting's Grammomys,43.7,4.416666667,24
+Mammalia,Rodentia,Muridae,Grammomys,cometes,Mozambique Grammomys,44.35,4.416666667,24
+Mammalia,Rodentia,Muridae,Grammomys,dolichurus,Common Grammomys,43.7,4.416666667,24
+Mammalia,Rodentia,Muridae,Hydromys,chrysogaster,Common Water Rat,738.085,7.3,36
+Mammalia,Rodentia,Muridae,Lemniscomys,striatus,Typical Lemniscomys,42.3,4.825,25.15
+Mammalia,Rodentia,Muridae,Leporillus,conditor,Greater Stick-nest Rat,332.5,5.325,38
+Mammalia,Rodentia,Muridae,Lophuromys,ansorgei,Ansorge's Brush-furred Rat,53.61,3.075,30.436
+Mammalia,Rodentia,Muridae,Lophuromys,aquilus,Dark-colored Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Lophuromys,brevicaudus,Short-tailed Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Lophuromys,brunneus,Thomas's Ethiopian Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Lophuromys,chrysopus,Ethiopian Forest Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Lophuromys,eisentrauti,Mount Lefo Brush-furred Rat,53.61,3.075,30.436
+Mammalia,Rodentia,Muridae,Lophuromys,flavopunctatus,Ethiopian Buff-spotted Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Lophuromys,nudicaudus,Fire-bellied Brush-furred Rat,44.5,3.075,30.436
+Mammalia,Rodentia,Muridae,Lophuromys,sikapusi,Rusty-bellied Brush-furred Rat,53.61,3.075,30.436
+Mammalia,Rodentia,Muridae,Lophuromys,zena,Zena's Brush-furred Rat,56.035,0.75,30.72018
+Mammalia,Rodentia,Muridae,Mastomys,erythroleucus,Reddish-white Mastomys,53.81,4.075,21.2176
+Mammalia,Rodentia,Muridae,Mastomys,natalensis,Natal Mastomys,41.675,2.908333333,23.53786
+Mammalia,Rodentia,Muridae,Melomys,obiensis,Obi Island Melomys,140.84,4.2,22.98632
+Mammalia,Rodentia,Muridae,Meriones,crassus,Sundevall's Jird,48.3,5.6,23.5
+Mammalia,Rodentia,Muridae,Meriones,grandis,Moroccan Jird,137.8,4.658333333,25.48748
+Mammalia,Rodentia,Muridae,Meriones,hurrianae,Indian Desert Jird,70.6,0.833333333,29.35646
+Mammalia,Rodentia,Muridae,Meriones,libycus,Libyan Jird,91.33,5.2,25.56624
+Mammalia,Rodentia,Muridae,Meriones,meridianus,Midday Jird,53,6.8,23.43572
+Mammalia,Rodentia,Muridae,Meriones,persicus,Persian Jird,100,6,26
+Mammalia,Rodentia,Muridae,Meriones,sacramenti,Buxton's Jird,48.3,5.6,23.5
+Mammalia,Rodentia,Muridae,Meriones,shawi,Shaw's Jird,137.8,4.658333333,25.48748
+Mammalia,Rodentia,Muridae,Meriones,tristrami,Tristram's Jird,111.62,4.658333333,25.3353
+Mammalia,Rodentia,Muridae,Meriones,unguiculatus,Mongolian Jird,58.1,6.3,25.09
+Mammalia,Rodentia,Muridae,Meriones,vinogradovi,Vinogradov's Jird,150,6.7,21.91392
+Mammalia,Rodentia,Muridae,Meriones,zarudnyi,Zarudny's Jird,48.3,5.6,23.5
+Mammalia,Rodentia,Muridae,Mesembriomys,gouldii,Black-footed Mesembriomys,900,7.816666667,44.03
+Mammalia,Rodentia,Muridae,Mesembriomys,macrurus,Golden-backed Mesembriomys,268.5,7.1,47.89226
+Mammalia,Rodentia,Muridae,Micaelamys,namaquensis,Namaqua Micaelamys,57.3,4.7,21.99
+Mammalia,Rodentia,Muridae,Micromys,minutus,Harvest Mouse,7.18,5,20
+Mammalia,Rodentia,Muridae,Mus,caroli,Ryukyu Mouse,18.65,6,19.6
+Mammalia,Rodentia,Muridae,Mus,cervicolor,Fawn-colored Mouse,17.7,3.158333333,18.6917
+Mammalia,Rodentia,Muridae,Mus,indutus,Desert Pygmy Mouse,7.25,4.3,20.39212
+Mammalia,Rodentia,Muridae,Mus,macedonicus,Macedonian Mouse,20.5,6,19.6
+Mammalia,Rodentia,Muridae,Mus,mahomet,Mahomet Mouse,41.5,2.908333333,23.53786
+Mammalia,Rodentia,Muridae,Mus,minutoides,Southern African Pygmy Mouse,7.585,4.3,20.39212
+Mammalia,Rodentia,Muridae,Mus,musculoides,Subsaharan Pygmy Mouse,7.585,4.3,20.55106
+Mammalia,Rodentia,Muridae,Mus,musculus,House Mouse,20.5,6,19.6
+Mammalia,Rodentia,Muridae,Mus,neavei,Neave's Mouse,7.585,4.3,20.39212
+Mammalia,Rodentia,Muridae,Mus,orangiae,Orange Mouse,7.585,4.3,20.39212
+Mammalia,Rodentia,Muridae,Mus,phillipsi,Phillips's Mouse,17.7,3.158333333,18.6917
+Mammalia,Rodentia,Muridae,Mus,sorella,Thomas's Mouse,12.535,0.083333333,20.39212
+Mammalia,Rodentia,Muridae,Mus,spicilegus,Mound-building Mouse,19.9,6,19.6
+Mammalia,Rodentia,Muridae,Mus,spretus,Western Mediterranean Mouse,19.9,6,19.6
+Mammalia,Rodentia,Muridae,Mus,triton,Gray-bellied Mouse,12.535,0.083333333,20.39212
+Mammalia,Rodentia,Muridae,Mus,vulcani,Javan Shrew-like Mouse,60.315,3.908333333,21.77914
+Mammalia,Rodentia,Muridae,Myotomys,unisulcatus,Bush Karroo Rat,99.25,0.833333333,36.57
+Mammalia,Rodentia,Muridae,Nesokia,indica,Short-tailed Nesokia,160.79,1.666666667,17.17426
+Mammalia,Rodentia,Muridae,Notomys,alexis,Spinifex Hopping Mouse,33.67,6.408333333,35
+Mammalia,Rodentia,Muridae,Notomys,aquilo,Northern Hopping Mouse,38.995,4.241666667,53.263
+Mammalia,Rodentia,Muridae,Notomys,cervinus,Fawn Hopping Mouse,34.2,0.416666667,42.0752
+Mammalia,Rodentia,Muridae,Notomys,fuscus,Dusky Hopping Mouse,37.14,2.908333333,34.84352
+Mammalia,Rodentia,Muridae,Notomys,mitchellii,Mitchell's Hopping Mouse,52,5.3,36.82756
+Mammalia,Rodentia,Muridae,Otomys,anchietae,Angolan Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,angoniensis,Angoni Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,barbouri,Barbour's Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,burtoni,Burton's Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,cuanzensis,Cuanza Vlei Rat,130.65,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,dollmani,Dollman's Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,irroratus,Southern African Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,lacustris,Tanzanian Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,laminatus,KwaZulu Vlei Rat,130.65,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,maximus,Okavango Vlei Rat,130.65,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,orestes,Afroalpine Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,saundersiae,Saunders' Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Otomys,tropicalis,East African Vlei Rat,114.45,1.833333333,40.0434
+Mammalia,Rodentia,Muridae,Pachyuromys,duprasi,Fat-tailed Jird,40,8.316666667,20.4
+Mammalia,Rodentia,Muridae,Parotomys,brantsii,Brants's Whistling Rat,120,0.5,37.56
+Mammalia,Rodentia,Muridae,Praomys,delectorum,East African Praomys,36.97,5.2,24.3488
+Mammalia,Rodentia,Muridae,Praomys,jacksoni,Jackson's Praomys,37.1,5.2,24.3488
+Mammalia,Rodentia,Muridae,Praomys,lukolelae,Lukolela Praomys,37.035,5.2,24
+Mammalia,Rodentia,Muridae,Praomys,minor,Least Praomys,37.1,5.2,24.3488
+Mammalia,Rodentia,Muridae,Praomys,rostratus,West African Praomys,36.97,5.2,24
+Mammalia,Rodentia,Muridae,Praomys,tullbergi,Tullberg's Praomys,36.97,5.2,24
+Mammalia,Rodentia,Muridae,Psammomys,obesus,Fat Sand Rat,177.33,3.2,24.8
+Mammalia,Rodentia,Muridae,Psammomys,vexillaris,Lesser Sand Rat,177.33,3.2,24.8
+Mammalia,Rodentia,Muridae,Pseudomys,albocinereus,Ash-gray Pseudomys,28.25,2.658333333,34.20186
+Mammalia,Rodentia,Muridae,Pseudomys,australis,Plains Pseudomys,65,7.9,31.04472
+Mammalia,Rodentia,Muridae,Pseudomys,bolami,Bolam's Pseudomys,12.79,0.916666667,31.88108
+Mammalia,Rodentia,Muridae,Pseudomys,delicatulus,Delicate Pseudomys,9.78,4.158333333,30.01082
+Mammalia,Rodentia,Muridae,Pseudomys,desertor,Desert Pseudomys,31.045,1,29.39364
+Mammalia,Rodentia,Muridae,Pseudomys,fieldi,Shark Bay Pseudomys,45,3.075,29.49
+Mammalia,Rodentia,Muridae,Pseudomys,hermannsburgensis,Sandy Inland Pseudomys,12.2,0.916666667,31.88108
+Mammalia,Rodentia,Muridae,Pseudomys,higginsi,Long-tailed Pseudomys,61.63,4,32.36326
+Mammalia,Rodentia,Muridae,Pseudomys,novaehollandiae,New Holland Pseudomys,17.4,3.991666667,31.87108
+Mammalia,Rodentia,Muridae,Pseudomys,oralis,Hastings River Pseudomys,65,7.9,31.04472
+Mammalia,Rodentia,Muridae,Pseudomys,pilligaensis,Pilliga Pseudomys,10.86,1.5,28.30548
+Mammalia,Rodentia,Muridae,Rattus,andamanensis,Indochinese Forest Rat,197.97,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,argentiventer,Ricefield Rat,200,4.2,22
+Mammalia,Rodentia,Muridae,Rattus,blangorum,Aceh Rat,142.68,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,colletti,Australian Dusky Rat,151.99,1.5,21.90196
+Mammalia,Rodentia,Muridae,Rattus,exulans,Pacific Rat,60.315,3.908333333,21.77914
+Mammalia,Rodentia,Muridae,Rattus,fuscipes,Australian Bush Rat,127.29,5.3,26
+Mammalia,Rodentia,Muridae,Rattus,lugens,Mentawai Archipelago Rat,200,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,lutreolus,Australian Swamp Rat,112,4.408333333,26.78368
+Mammalia,Rodentia,Muridae,Rattus,norvegicus,Brown Rat,280,5,21.60956
+Mammalia,Rodentia,Muridae,Rattus,rattus,Roof Rat,200,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,satarae,Sahyadris Forest Rat,200,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,simalurensis,Simalur Archipelago Rat,142.68,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,tanezumi,Oriental House Rat,171.34,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,tiomanicus,Malaysian Field Rat,142.68,4.2,22.26132
+Mammalia,Rodentia,Muridae,Rattus,tunneyi,Australian Pale Field Rat,141.395,1,22.10196
+Mammalia,Rodentia,Muridae,Rhabdomys,dilectus,Mesic Four-striped Grass Rat,45.865,4.5,25.26188
+Mammalia,Rodentia,Muridae,Rhabdomys,pumilio,Xeric Four-striped Grass Rat,45.865,4.5,25.26188
+Mammalia,Rodentia,Muridae,Rhombomys,opimus,Great Gerbil,214,4.5,28
+Mammalia,Rodentia,Muridae,Tatera,indica,Indian Gerbil,112.64,7,26
+Mammalia,Rodentia,Muridae,Taterillus,gracilis,Gracile Tateril,50.875,3.491666667,27.29466
+Mammalia,Rodentia,Muridae,Taterillus,pygargus,Senegal Tateril,45.45,8.2,26.34
+Mammalia,Rodentia,Muridae,Thallomys,paedulcus,Acacia Thallomys,77.7,3.5,26.34
+Mammalia,Rodentia,Muridae,Thamnomys,kempi,Dollman's Thamnomys,65,5.741666667,24.3488
+Mammalia,Rodentia,Muridae,Thamnomys,major,Hatt's Thamnomys,65,5.741666667,24.3488
+Mammalia,Rodentia,Muridae,Thamnomys,venustus,Thomas's Thamnomys,63.44,5.741666667,24.3488
+Mammalia,Rodentia,Muridae,Zelotomys,woosnami,Woosnam's Zelotomys,54.3,3.575,31.16954
+Mammalia,Rodentia,Muridae,Zyzomys,argurus,Common Australian Rock Rat,45.21,4.158333333,27.718
+Mammalia,Rodentia,Myocastoridae,Myocastor,coypus,Coypu,7150,12,131.86
+Mammalia,Rodentia,Nesomyidae,Beamys,hindei,Hinde's Pouched Rat,88.735,3.158333333,24.02594
+Mammalia,Rodentia,Nesomyidae,Cricetomys,ansorgei,Southern Giant Pouched Rat,1400,8.4,34
+Mammalia,Rodentia,Nesomyidae,Cricetomys,emini,Forest Giant Pouched Rat,1400,8.4,34
+Mammalia,Rodentia,Nesomyidae,Cricetomys,gambianus,Northern Giant Pouched Rat,1510.7,8.4,34
+Mammalia,Rodentia,Nesomyidae,Dendromus,leucostomus,Monard's African Climbing Mouse,7.4,4.2,25
+Mammalia,Rodentia,Nesomyidae,Dendromus,melanotis,Gray African Climbing Mouse,7.4,4.2,25
+Mammalia,Rodentia,Nesomyidae,Hypogeomys,antimena,Votsovotsa,1250,12.6,120.872
+Mammalia,Rodentia,Nesomyidae,Malacothrix,typica,Large-eared African Desert Mouse,17.02,2.491666667,26.57684
+Mammalia,Rodentia,Nesomyidae,Mystromys,albicaudatus,African White-tailed Rat,93.8,6.3,38
+Mammalia,Rodentia,Nesomyidae,Saccostomus,campestris,Southern African Pouched Mouse,55.815,4.5,21
+Mammalia,Rodentia,Octodontidae,Octodon,degus,Degu,204.835,14,90.09056
+Mammalia,Rodentia,Octodontidae,Octodontomys,gliroides,Mountain Degu,155.77,7.566666667,103.83902
+Mammalia,Rodentia,Octodontidae,Spalacopus,cyanus,Coruro,109.5,10.81666667,80.3
+Mammalia,Rodentia,Pedetidae,Pedetes,capensis,South African Spring Hare,2774.625,20.04166667,78.02
+Mammalia,Rodentia,Pedetidae,Pedetes,surdaster,East African Spring Hare,2774.625,20.04166667,78.02
+Mammalia,Rodentia,Sciuridae,Ammospermophilus,harrisii,Harris's Antelope Squirrel,126,10.6,29.35646
+Mammalia,Rodentia,Sciuridae,Ammospermophilus,leucurus,White-tailed Antelope Squirrel,96.75,11.2,29.19
+Mammalia,Rodentia,Sciuridae,Ammospermophilus,nelsoni,Nelson's Antelope Squirrel,157.46,5.666666667,26
+Mammalia,Rodentia,Sciuridae,Callosciurus,adamsi,Ear-spot Squirrel,304.745,21.1,47.78452
+Mammalia,Rodentia,Sciuridae,Callosciurus,erythraeus,Pallas's Squirrel,277.615,17,48
+Mammalia,Rodentia,Sciuridae,Callosciurus,notatus,Plantain Squirrel,400,21.1,47.78452
+Mammalia,Rodentia,Sciuridae,Callosciurus,prevostii,Prevost's Squirrel,400,21.1,47.78452
+Mammalia,Rodentia,Sciuridae,Cynomys,gunnisoni,Gunnison's Prairie Dog,807.3,6.075,30
+Mammalia,Rodentia,Sciuridae,Cynomys,leucurus,White-tailed Prairie Dog,918.63,6.408333333,30.39
+Mammalia,Rodentia,Sciuridae,Cynomys,ludovicianus,Black-tailed Prairie Dog,1125,18,35.41506
+Mammalia,Rodentia,Sciuridae,Cynomys,parvidens,Utah Prairie Dog,807.3,6.158333333,30
+Mammalia,Rodentia,Sciuridae,Funambulus,palmarum,Indian Palm Squirrel,136.4,5.491666667,34
+Mammalia,Rodentia,Sciuridae,Funambulus,pennantii,Northern Palm Squirrel,125.07,5.075,40.47988
+Mammalia,Rodentia,Sciuridae,Funisciurus,congicus,Congo Rope Squirrel,112,9.5,52.65428
+Mammalia,Rodentia,Sciuridae,Glaucomys,sabrinus,Northern Flying Squirrel,148,14.2,40
+Mammalia,Rodentia,Sciuridae,Glaucomys,volans,Southern Flying Squirrel,65.4,19,40
+Mammalia,Rodentia,Sciuridae,Marmota,baibacina,Gray Marmot,3500,18,40
+Mammalia,Rodentia,Sciuridae,Marmota,broweri,Alaska Marmot,3180,12.05833333,30
+Mammalia,Rodentia,Sciuridae,Marmota,caligata,Hoary Marmot,4298.52,12.05833333,30
+Mammalia,Rodentia,Sciuridae,Marmota,camtschatica,Black-capped Marmot,3500,18,35
+Mammalia,Rodentia,Sciuridae,Marmota,caudata,Long-tailed Marmot,4225,0.583333333,30.5
+Mammalia,Rodentia,Sciuridae,Marmota,flaviventris,Yellow-bellied Marmot,3709.73,21.2,30.195
+Mammalia,Rodentia,Sciuridae,Marmota,marmota,Alpine Marmot,3500,18,35.41506
+Mammalia,Rodentia,Sciuridae,Marmota,menzbieri,Menzbier's Marmot,2943.025,18,35.41506
+Mammalia,Rodentia,Sciuridae,Marmota,monax,Woodchuck,3413,14,32.35
+Mammalia,Rodentia,Sciuridae,Marmota,sibirica,Tarbagan Marmot,8000,15,41
+Mammalia,Rodentia,Sciuridae,Marmota,vancouverensis,Vancouver Island Marmot,4750,12.1,30
+Mammalia,Rodentia,Sciuridae,Paraxerus,cepapi,Smith's Bush Squirrel,222.85,9.566666667,56.87
+Mammalia,Rodentia,Sciuridae,Paraxerus,palliatus,Red Bush Squirrel,295,2.575,62.01
+Mammalia,Rodentia,Sciuridae,Paraxerus,poensis,Green Bush Squirrel,117,7.233333333,55.13
+Mammalia,Rodentia,Sciuridae,Petaurista,leucogenys,Japanese Giant Flying Squirrel,1650,19.2,74
+Mammalia,Rodentia,Sciuridae,Petaurista,petaurista,Red Giant Flying Squirrel,1330,16,45
+Mammalia,Rodentia,Sciuridae,Petaurista,philippensis,Indian Giant Flying Squirrel,1431.92,16,45
+Mammalia,Rodentia,Sciuridae,Petaurista,xanthotis,Chinese Giant Flying Squirrel,1650,19.2,74
+Mammalia,Rodentia,Sciuridae,Pteromys,volans,Siberian Flying Squirrel,140,11.4,30
+Mammalia,Rodentia,Sciuridae,Ratufa,bicolor,Black Giant Squirrel,2000,19.63333333,31.7289
+Mammalia,Rodentia,Sciuridae,Ratufa,indica,Indian Giant Squirrel,1060,20,83.699
+Mammalia,Rodentia,Sciuridae,Ratufa,macroura,Sri Lankan Giant Squirrel,801.85,16,30
+Mammalia,Rodentia,Sciuridae,Sciurus,aberti,Abert's Squirrel,624,6.983333333,43.52348
+Mammalia,Rodentia,Sciuridae,Sciurus,carolinensis,Eastern Gray Squirrel,540.33,24,44
+Mammalia,Rodentia,Sciuridae,Sciurus,griseus,Western Gray Squirrel,751.67,10,43.67
+Mammalia,Rodentia,Sciuridae,Sciurus,lis,Japanese Squirrel,324.75,14.8,38
+Mammalia,Rodentia,Sciuridae,Sciurus,niger,Eastern Fox Squirrel,803.7,16,44.335
+Mammalia,Rodentia,Sciuridae,Sciurus,vulgaris,Eurasian Red Squirrel,328.875,14.8,38
+Mammalia,Rodentia,Sciuridae,Spermophilus,alashanicus,Alashan Ground Squirrel,200,2.083333333,30
+Mammalia,Rodentia,Sciuridae,Spermophilus,armatus,Uinta Ground Squirrel,310.4,7,24.04444
+Mammalia,Rodentia,Sciuridae,Spermophilus,beecheyi,California Ground Squirrel,599.6,5.408333333,28.5
+Mammalia,Rodentia,Sciuridae,Spermophilus,beldingi,Belding's Ground Squirrel,289.18,11,26.2
+Mammalia,Rodentia,Sciuridae,Spermophilus,brevicauda,Brandt's Ground Squirrel,217,7.1,27
+Mammalia,Rodentia,Sciuridae,Spermophilus,citellus,European Ground Squirrel,228.5,6.7,27.41402
+Mammalia,Rodentia,Sciuridae,Spermophilus,columbianus,Columbian Ground Squirrel,468.635,4.241666667,24.2
+Mammalia,Rodentia,Sciuridae,Spermophilus,dauricus,Daurian Ground Squirrel,200,2.083333333,30
+Mammalia,Rodentia,Sciuridae,Spermophilus,elegans,Wyoming Ground Squirrel,299.225,6,23.35504
+Mammalia,Rodentia,Sciuridae,Spermophilus,erythrogenys,Red-cheeked Ground Squirrel,228.5,6.7,27.74
+Mammalia,Rodentia,Sciuridae,Spermophilus,franklinii,Franklin's Ground Squirrel,459,7.2,28
+Mammalia,Rodentia,Sciuridae,Spermophilus,lateralis,Golden-mantled Ground Squirrel,227.3,10.4,30.436
+Mammalia,Rodentia,Sciuridae,Spermophilus,madrensis,Sierra Madre Ground Squirrel,217.6,10.4,30.436
+Mammalia,Rodentia,Sciuridae,Spermophilus,mexicanus,Mexican Ground Squirrel,154.22,4.241666667,29.52292
+Mammalia,Rodentia,Sciuridae,Spermophilus,mohavensis,Mohave Ground Squirrel,201.59,7.8,24.155
+Mammalia,Rodentia,Sciuridae,Spermophilus,mollis,Piute Ground Squirrel,209.905,3.491666667,23.87004
+Mammalia,Rodentia,Sciuridae,Spermophilus,musicus,Caucasian Mountain Ground Squirrel,136,7.1,26.64184
+Mammalia,Rodentia,Sciuridae,Spermophilus,pallidicauda,Pallid Ground Squirrel,228.5,6.7,27.74
+Mammalia,Rodentia,Sciuridae,Spermophilus,parryii,Arctic Ground Squirrel,747.09,2.575,25.16
+Mammalia,Rodentia,Sciuridae,Spermophilus,pygmaeus,Little Ground Squirrel,136,7.1,26.64184
+Mammalia,Rodentia,Sciuridae,Spermophilus,ralli,Tien Shan Ground Squirrel,217,7.1,27
+Mammalia,Rodentia,Sciuridae,Spermophilus,relictus,Relict Ground Squirrel,317.985,6.7,27.41402
+Mammalia,Rodentia,Sciuridae,Spermophilus,richardsonii,Richardson's Ground Squirrel,273.535,6,22.8
+Mammalia,Rodentia,Sciuridae,Spermophilus,saturatus,Cascade Golden-mantled Ground Squirrel,250.9,10.4,30.218
+Mammalia,Rodentia,Sciuridae,Spermophilus,spilosoma,Spotted Ground Squirrel,164.1,3.658333333,28
+Mammalia,Rodentia,Sciuridae,Spermophilus,suslicus,Speckled Ground Squirrel,252,2.325,23.5
+Mammalia,Rodentia,Sciuridae,Spermophilus,tereticaudus,Round-tailed Ground Squirrel,147.57,8.9,27.785
+Mammalia,Rodentia,Sciuridae,Spermophilus,townsendii,Townsend's Ground Squirrel,218.26,3.491666667,24
+Mammalia,Rodentia,Sciuridae,Spermophilus,tridecemlineatus,Thirteen-lined Ground Squirrel,182,7.9,27.75
+Mammalia,Rodentia,Sciuridae,Spermophilus,undulatus,Long-tailed Ground Squirrel,720.455,3.575,27.5
+Mammalia,Rodentia,Sciuridae,Spermophilus,variegatus,Rock Squirrel,663.03,9.816666667,30
+Mammalia,Rodentia,Sciuridae,Spermophilus,xanthoprymnus,Asia Minor Ground Squirrel,228.5,6.7,27.41402
+Mammalia,Rodentia,Sciuridae,Tamias,amoenus,Yellow-pine Chipmunk,54.2,5.166666667,29.828015
+Mammalia,Rodentia,Sciuridae,Tamias,dorsalis,Cliff Chipmunk,62.8,12.6,29.75
+Mammalia,Rodentia,Sciuridae,Tamias,merriami,Merriam's Chipmunk,75.95,2.825,33.37
+Mammalia,Rodentia,Sciuridae,Tamias,minimus,Least Chipmunk,44.975,10.15,29.52292
+Mammalia,Rodentia,Sciuridae,Tamias,obscurus,California Chipmunk,75,2.825,33.37
+Mammalia,Rodentia,Sciuridae,Tamias,ochrogenys,Yellow-cheeked Chipmunk,84,10.25,28
+Mammalia,Rodentia,Sciuridae,Tamias,quadrivittatus,Colorado Chipmunk,57.81,6.075,31.7
+Mammalia,Rodentia,Sciuridae,Tamias,ruficaudus,Red-tailed Chipmunk,58.675,8,31.17454
+Mammalia,Rodentia,Sciuridae,Tamias,rufus,Hopi Chipmunk,57.49,6.075,31.8289
+Mammalia,Rodentia,Sciuridae,Tamias,senex,Shadow Chipmunk,84,10.25,28
+Mammalia,Rodentia,Sciuridae,Tamias,sibiricus,Siberian Chipmunk,85,9.6,34.83852
+Mammalia,Rodentia,Sciuridae,Tamias,siskiyou,Siskiyou Chipmunk,75,10.25,28
+Mammalia,Rodentia,Sciuridae,Tamias,speciosus,Lodgepole Chipmunk,59.065,6.075,31.6
+Mammalia,Rodentia,Sciuridae,Tamias,striatus,Eastern Chipmunk,92.6,9.5,31.25
+Mammalia,Rodentia,Sciuridae,Tamias,townsendii,Townsend's Chipmunk,79.12,10.25,28
+Mammalia,Rodentia,Sciuridae,Tamiasciurus,douglasii,Douglas's Squirrel,229.8,5.491666667,38.825
+Mammalia,Rodentia,Sciuridae,Tamiasciurus,hudsonicus,Red Squirrel,210.8,12,37
+Mammalia,Rodentia,Sciuridae,Tamiasciurus,mearnsi,Mearns's Squirrel,229.8,5.491666667,38.825
+Mammalia,Rodentia,Sciuridae,Xerus,erythropus,Striped Ground Squirrel,600,10.3,71
+Mammalia,Rodentia,Sciuridae,Xerus,inauris,South African Ground Squirrel,557.3,13,47.29
+Mammalia,Rodentia,Spalacidae,Cannomys,badius,Lesser Bamboo Rat,561.035,4.8,42
+Mammalia,Rodentia,Spalacidae,Rhizomys,sumatrensis,Indomalayan Bamboo Rat,2750,3.491666667,21.99
+Mammalia,Rodentia,Spalacidae,Spalax,carmeli,Mt Carmel Blind Mole Rat,162.175,15.46666667,29.18
+Mammalia,Rodentia,Spalacidae,Spalax,ehrenbergi,Middle East Blind Mole Rat,162.175,15.46666667,29.18
+Mammalia,Rodentia,Spalacidae,Spalax,leucodon,Lesser Blind Mole Rat,183.3,4.5,29.18
+Mammalia,Rodentia,Spalacidae,Tachyoryctes,ibeanus,Kenyan African Mole Rat,202.25,3.741666667,40.20148
+Mammalia,Rodentia,Spalacidae,Tachyoryctes,splendens,Northeast African Mole Rat,202.25,3.741666667,40.20148
+Mammalia,Rodentia,Thryonomyidae,Thryonomys,gregorianus,Lesser Cane Rat,2293.57,0.833333333,91.274
+Mammalia,Rodentia,Thryonomyidae,Thryonomys,swinderianus,Greater Cane Rat,3750.85,5.4,125.76
+Mammalia,Scandentia,Ptilocercidae,Ptilocercus,lowii,Pen-tailed Treeshrew,42.5,2.7,50
+Mammalia,Scandentia,Tupaiidae,Tupaia,belangeri,Northern Treeshrew,200,12.41666667,46
+Mammalia,Scandentia,Tupaiidae,Tupaia,chrysogaster,Golden-bellied Treeshrew,159,12.41666667,46
+Mammalia,Scandentia,Tupaiidae,Tupaia,glis,Common Treeshrew,159,12.41666667,46
+Mammalia,Scandentia,Tupaiidae,Tupaia,longipes,Long-footed Treeshrew,163.525,12.41666667,46
+Mammalia,Scandentia,Tupaiidae,Tupaia,minor,Pygmy Treeshrew,58.6,12.2,50
+Mammalia,Scandentia,Tupaiidae,Tupaia,montana,Mountain Treeshrew,225.525,1.583333333,49.6047
+Mammalia,Scandentia,Tupaiidae,Urogale,everetti,Mindanao Treeshrew,350,11.5,55.245
+Mammalia,Sirenia,Dugongidae,Dugong,dugon,Dugong,360000,73,372.52
+Mammalia,Sirenia,Trichechidae,Trichechus,inunguis,Amazonian Manatee,294000.595,40.175,328
+Mammalia,Sirenia,Trichechidae,Trichechus,manatus,West Indian Manatee,387500,56,334.58
+Mammalia,Sirenia,Trichechidae,Trichechus,senegalensis,African Manatee,477000,30,387.96
+Mammalia,Soricomorpha,Solenodontidae,Solenodon,paradoxus,Hispaniolan Solenodon,900,12.1,64.8
+Mammalia,Soricomorpha,Soricidae,Blarina,brevicauda,Northern Short-tailed Shrew,20.7,2.75,20.08776
+Mammalia,Soricomorpha,Soricidae,Blarina,carolinensis,Southern Short-tailed Shrew,20.45,2.75,20.08776
+Mammalia,Soricomorpha,Soricidae,Blarina,hylophaga,Elliot's Short-tailed Shrew,18.56,2.8,21
+Mammalia,Soricomorpha,Soricidae,Blarina,peninsulae,Everglades Short-tailed Shrew,20.45,2.75,20.08776
+Mammalia,Soricomorpha,Soricidae,Crocidura,aleksandrisi,Cyrenaica Shrew,7.425,4,27.15
+Mammalia,Soricomorpha,Soricidae,Crocidura,arabica,Arabian Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,caspica,Caspian Shrew,9.9,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,dsinezumi,Dsinezumi Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,flavescens,Greater Red Musk Shrew,32.21,2.2,25
+Mammalia,Soricomorpha,Soricidae,Crocidura,hirta,Lesser Red Musk Shrew,14.735,0.333333333,18.1308
+Mammalia,Soricomorpha,Soricidae,Crocidura,ichnusae,North African White-toothed Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,leucodon,Bicolored Shrew,10.94,3,30.13164
+Mammalia,Soricomorpha,Soricidae,Crocidura,mutesae,Ugandan Musk Shrew,15.8,0.333333333,18.1308
+Mammalia,Soricomorpha,Soricidae,Crocidura,olivieri,African Giant Shrew,36.36,2.2,25
+Mammalia,Soricomorpha,Soricidae,Crocidura,orii,Ryukyu Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,pullata,Kashmir White-toothed Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,rapax,Chinese White-toothed Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,russula,Greater White-toothed Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,shantungensis,Asian Lesser White-toothed Shrew,7.425,4,27.15
+Mammalia,Soricomorpha,Soricidae,Crocidura,sibirica,Siberian Shrew,10.94,3,30.13164
+Mammalia,Soricomorpha,Soricidae,Crocidura,sicula,Sicilian Shrew,10.84,4,29.76146
+Mammalia,Soricomorpha,Soricidae,Crocidura,silacea,Lesser Gray-brown Musk Shrew,10.25,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,suaveolens,Lesser White-toothed Shrew,7.425,4,27.15
+Mammalia,Soricomorpha,Soricidae,Crocidura,vorax,Voracious Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Crocidura,zaphiri,Zaphir's Shrew,36.36,2.2,25
+Mammalia,Soricomorpha,Soricidae,Crocidura,zimmermanni,Cretan Shrew,10.6,4,29
+Mammalia,Soricomorpha,Soricidae,Cryptotis,orophila,Central American Least Shrew,6.2,3.5,21
+Mammalia,Soricomorpha,Soricidae,Cryptotis,parva,North American Least Shrew,6.2,3.5,21
+Mammalia,Soricomorpha,Soricidae,Cryptotis,tropicalis,Tropical Small-eared Shrew,6.2,3.5,21
+Mammalia,Soricomorpha,Soricidae,Neomys,anomalus,Mediterranean Water Shrew,13.19,2,24.4135
+Mammalia,Soricomorpha,Soricidae,Neomys,fodiens,Eurasian Water Shrew,15.13,3.1,21.38
+Mammalia,Soricomorpha,Soricidae,Neomys,teres,Transcaucasian Water Shrew,15.13,3.1,22.21828
+Mammalia,Soricomorpha,Soricidae,Sorex,alaskanus,Glacier Bay Water Shrew,13.07,1.5,21.9135
+Mammalia,Soricomorpha,Soricidae,Sorex,antinorii,Valais Shrew,8.195,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,araneus,Common Shrew,8.195,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,arcticus,Arctic Shrew,8.195,1.5,17
+Mammalia,Soricomorpha,Soricidae,Sorex,camtschatica,Kamchatka Shrew,5.1,2.5,18.11
+Mammalia,Soricomorpha,Soricidae,Sorex,cinereus,Cinereus Shrew,5.1,2.5,18.11
+Mammalia,Soricomorpha,Soricidae,Sorex,coronatus,Millet's Shrew,8.4,3.2,21.25042
+Mammalia,Soricomorpha,Soricidae,Sorex,excelsus,Chinese Highland Shrew,8.2,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,fumeus,Smoky Shrew,8.015,1.416666667,18.8699
+Mammalia,Soricomorpha,Soricidae,Sorex,gracillimus,Slender Shrew,4.26,2,23.62286
+Mammalia,Soricomorpha,Soricidae,Sorex,haydeni,Prairie Shrew,5,2.5,19.47904
+Mammalia,Soricomorpha,Soricidae,Sorex,jacksoni,St. Lawrence Island Shrew,5.2,2.5,18.11
+Mammalia,Soricomorpha,Soricidae,Sorex,leucogaster,Paramushir Shrew,4.36,2.5,19.47904
+Mammalia,Soricomorpha,Soricidae,Sorex,maritimensis,Maritime Shrew,8.195,1.5,17
+Mammalia,Soricomorpha,Soricidae,Sorex,minutus,Eurasian Pygmy Shrew,4.2,2,23.62286
+Mammalia,Soricomorpha,Soricidae,Sorex,monticolus,Dusky Shrew,5.99,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,neomexicanus,New Mexico Shrew,5.99,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,orizabae,Orizaba Long-tailed Shrew,5.785,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,ornatus,Ornate Shrew,5.57,1.5,21.3052
+Mammalia,Soricomorpha,Soricidae,Sorex,pacificus,Pacific Shrew,5.99,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,palustris,American Water Shrew,12.77,1.5,21.9135
+Mammalia,Soricomorpha,Soricidae,Sorex,planiceps,Kashmir Pygmy Shrew,4.2,2,23.62286
+Mammalia,Soricomorpha,Soricidae,Sorex,portenkoi,Portenko's Shrew,5.2,2.5,18.11
+Mammalia,Soricomorpha,Soricidae,Sorex,roboratus,Flat-skulled Shrew,8.2,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,samniticus,Apennine Shrew,8.2,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,satunini,Caucasian Shrew,8.195,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,sinalis,Chinese Shrew,8.2,3.2,21.00042
+Mammalia,Soricomorpha,Soricidae,Sorex,sonomae,Fog Shrew,6.35,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,thibetanus,Tibetan Shrew,4.2,2,23.62286
+Mammalia,Soricomorpha,Soricidae,Sorex,tundrensis,Tundra Shrew,8.19,1.5,17
+Mammalia,Soricomorpha,Soricidae,Sorex,ugyunak,Barren Ground Shrew,5.1,2.5,18.11
+Mammalia,Soricomorpha,Soricidae,Sorex,unguiculatus,Long-clawed Shrew,14.11,1.5,28
+Mammalia,Soricomorpha,Soricidae,Sorex,vagrans,Vagrant Shrew,5.58,2.083333333,20.26106
+Mammalia,Soricomorpha,Soricidae,Sorex,volnuchini,Caucasian Pygmy Shrew,4.2,2,23.62286
+Mammalia,Soricomorpha,Soricidae,Suncus,etruscus,Etruscan Shrew,2.33,3.241666667,27.90274
+Mammalia,Soricomorpha,Soricidae,Suncus,fellowesgordoni,Sri Lankan Shrew,2.33,3.241666667,27.90274
+Mammalia,Soricomorpha,Soricidae,Suncus,hosei,Bornean Pgymy Shrew,2.33,3.241666667,27.90274
+Mammalia,Soricomorpha,Soricidae,Suncus,madagascariensis,Madagascan Pgymy Shrew,2.4,3.241666667,27.90274
+Mammalia,Soricomorpha,Soricidae,Suncus,malayanus,Malayan Pgymy Shrew,2.4,3.241666667,27.90274
+Mammalia,Soricomorpha,Soricidae,Suncus,montanus,Asian Highland Shrew,45.87,3.241666667,30
+Mammalia,Soricomorpha,Soricidae,Suncus,murinus,Asian House Shrew,45.87,3.241666667,30
+Mammalia,Soricomorpha,Soricidae,Suncus,zeylanicus,Jungle Shrew,45.87,3.241666667,30
+Mammalia,Soricomorpha,Talpidae,Condylura,cristata,Star-nosed Mole,52.15,3,40
+Mammalia,Soricomorpha,Talpidae,Desmana,moschata,Desman,983.805,10,37.195
+Mammalia,Soricomorpha,Talpidae,Euroscaptor,klossi,Kloss's Mole,60.46,3,34.99
+Mammalia,Soricomorpha,Talpidae,Euroscaptor,mizura,Japanese Mountain Mole,25.05,3,40
+Mammalia,Soricomorpha,Talpidae,Galemys,pyrenaicus,Pyrenean Desman,60.735,5,30.218
+Mammalia,Soricomorpha,Talpidae,Mogera,imaizumii,Small Japanese Mole,81.205,3.5,40
+Mammalia,Soricomorpha,Talpidae,Mogera,tokudae,Sado Mole,115.18,3.5,40
+Mammalia,Soricomorpha,Talpidae,Mogera,wogura,Japanese Mole,96.88,3.5,40
+Mammalia,Soricomorpha,Talpidae,Parascalops,breweri,Hairy-tailed Mole,50.645,5,36.14378
+Mammalia,Soricomorpha,Talpidae,Scalopus,aquaticus,Eastern Mole,74.6,6.2,41.5393
+Mammalia,Soricomorpha,Talpidae,Scapanus,latimanus,Broad-footed Mole,61,3,40
+Mammalia,Soricomorpha,Talpidae,Scapanus,orarius,Coast Mole,62.13,3,35.218
+Mammalia,Soricomorpha,Talpidae,Talpa,caucasica,Caucasian Mole,90.015,7,31.33608
+Mammalia,Soricomorpha,Talpidae,Talpa,europaea,European Mole,110.415,7,31.33608
+Mammalia,Soricomorpha,Talpidae,Talpa,occidentalis,Spanish Mole,87.53,7,31.33608
+Mammalia,Soricomorpha,Talpidae,Talpa,romana,Roman Mole,92.5,7,31.33608
+Mammalia,Soricomorpha,Talpidae,Talpa,stankovici,Balkan Mole,90.015,7,31.33608
+Mammalia,Soricomorpha,Talpidae,Urotrichus,talpoides,Japanese Shrew Mole,18.85,3.5,36.05
+Mammalia,Tubulidentata,Orycteropodidae,Orycteropus,afer,Aardvark,56175.2,29.8,222.05
+Reptilia,Crocodilia,Alligatoridae,Caiman,crocodilus,"Common caiman, Spectacled caiman",10900,60,84.5
+Reptilia,Crocodilia,Alligatoridae,Caiman,latirostris,Broad-snouted caiman,14600,22,70
+Reptilia,Crocodilia,Alligatoridae,Caiman,yacare,Yacare caiman,17000,60,84.5
+Reptilia,Crocodilia,Alligatoridae,Paleosuchus,trigonatus,"Schneider's smooth-fronted caiman, Cachirre, Jacare coroa.",7500,30.9,115
+Reptilia,Crocodilia,Crocodylidae,Crocodylus,mindorensis,Philippine crocodile,38400,24.6,87
+Reptilia,Crocodilia,Crocodylidae,Crocodylus,novaeguineae,New Guinea crocodile,39900,24.6,87
+Reptilia,Crocodilia,Crocodylidae,Mecistops,cataphractus,African slender-snouted crocodile,50500,56.1,75
+Reptilia,Crocodilia,Crocodylidae,Tomistoma,schlegelii,"False gharial, Sunda Gavial",119000,80,102.5
+Reptilia,Crocodilia,Gavialidae,Gavialis,gangeticus,Gharial,153000,100,70
+Reptilia,Squamata,Acrochordidae,Acrochordus,arafurae,Arafura filesnake,6107,8.8,167.365
+Reptilia,Squamata,Acrochordidae,Acrochordus,javanicus,"Javan File Snake, Elephant Trunk Snake",9561,5.8,167.365
+Reptilia,Squamata,Anguidae,Anguis,cephallonica,Peloponnese Slow Worm,11.655,54,91.29
+Reptilia,Squamata,Anguidae,Anguis,colchica,Slow Worm,11.655,54,91.29
+Reptilia,Squamata,Anguidae,Anguis,fragilis,Slow Worm,11.655,54,91.29
+Reptilia,Squamata,Anguidae,Pseudopus,apodus,European Glass Lizard,450,54,42
+Reptilia,Squamata,Boidae,Boa,constrictor,"Boa Constrictor (color morphs: albino, Anery, Blood, Camel, Coral Albino, Leopard, Leucistic, Pearl, Prodigy, Squaretail, Arabesque, Salmon, jaguar, Jungle, Marron, Motley, Onyx, Roswell, Fire, Inca, IMG, Pink, Avalanche, Blizzard, Ghost, Hytec, Moonglow, Paradigm, Pewter, Paradigm, Snow, Sunglow, Sunset,",10592,40.4,138.6
+Reptilia,Squamata,Chamaeleonidae,Chamaeleo,dilepis,Flapneck Chameleon,22.31,4,30.44
+Reptilia,Squamata,Chamaeleonidae,Trioceros,jacksonii,Jackson's chameleon,32.565,8.2,190
+Reptilia,Squamata,Colubridae,Bogertophis,rosaliae,Baja California Rat Snake,900,32.3,51.5
+Reptilia,Squamata,Colubridae,Boiga,irregularis,"Brown catsnake, Brown Tree Snake",4748,13.1,77
+Reptilia,Squamata,Colubridae,Dendrelaphis,punctulatus,"Green Tree Snake, Common Tree Snake",3113,3.1,115
+Reptilia,Squamata,Colubridae,Lampropeltis,californiae,"California Kingsnake (including the Black Desert Kingsnake, C. g. nigrita)",2041,33.3,61
+Reptilia,Squamata,Colubridae,Lampropeltis,getula,Common Kingsnake,2041,33.3,61
+Reptilia,Squamata,Colubridae,Lampropeltis,holbrooki,Speckled Kingsnake,2041,33.3,61
+Reptilia,Squamata,Colubridae,Lampropeltis,nigra,Black Kingsnake,2041,33.3,61
+Reptilia,Squamata,Colubridae,Lampropeltis,splendida,Desert Kingsnake,2041,33.3,61
+Reptilia,Squamata,Colubridae,Opheodrys,aestivus,Rough greensnake,601,8,42
+Reptilia,Squamata,Colubridae,Pantherophis,alleghaniensis,Eastern Rat Snake (alleghaniensis),6561,33.9,67.5
+Reptilia,Squamata,Colubridae,Pantherophis,emoryi,Great Plains Rat Snake [emoryi],900,32.3,51.5
+Reptilia,Squamata,Colubridae,Pantherophis,guttatus,Eastern Corn snake,900,32.3,51.5
+Reptilia,Squamata,Colubridae,Pantherophis,obsoletus,"Western Rat Snake, Black Rat snake (obsoleta)",6561,33.9,67.5
+Reptilia,Squamata,Colubridae,Pantherophis,spiloides,"Midland Rat Snake, Gray Rat Snake",6561,33.9,67.5
+Reptilia,Squamata,Colubridae,Ptyas,mucosa,"Dhaman, Oriental Ratsnake",6874,11.3,59
+Reptilia,Squamata,Corytophanidae,Basiliscus,basiliscus,Common Basilisk,225,9,75
+Reptilia,Squamata,Corytophanidae,Basiliscus,vittatus,Brown Basilisk,60.87,9.1,60
+Reptilia,Squamata,Dactyloidae,Anolis,carolinensis,Green anole,2.455,10,42
+Reptilia,Squamata,Dactyloidae,Anolis,luteosignifer,Cayman Brac Anole,4.05,8,49
+Reptilia,Squamata,Dactyloidae,Anolis,nelsoni,Nelson's Anole,4.05,8,49
+Reptilia,Squamata,Dactyloidae,Anolis,ordinatus,Bahaman brown anole,4.05,8,49
+Reptilia,Squamata,Dactyloidae,Anolis,porcatus,Cuban Green Anole,2.455,10,42
+Reptilia,Squamata,Dactyloidae,Anolis,sagrei,"Cuban brown anole, Brown anole",4.05,8,49
+Reptilia,Squamata,Dactyloidae,Anolis,smaragdinus,Bahamian Green Anole,2.455,10,42
+Reptilia,Squamata,Dipsadidae,Heterodon,gloydi,Dusty Hognose Snake,350,20,56
+Reptilia,Squamata,Dipsadidae,Heterodon,kennerlyi,Mexican Hog-nosed Snake,350,20,56
+Reptilia,Squamata,Dipsadidae,Heterodon,nasicus,"Western Hognose Snake, Plains Hognose Snake",350,20,56
+Reptilia,Squamata,Elapidae,Dendroaspis,polylepis,Black Mamba,30758,26.2,85
+Reptilia,Squamata,Elapidae,Oxyuranus,microlepidotus,"Fierce Snake, Inland Taipan",6107,15.6,73
+Reptilia,Squamata,Elapidae,Oxyuranus,scutellatus,"scutellatus: Coastal taipan, New Guinea Taipan",8110.5,15.6,73
+Reptilia,Squamata,Elapidae,Pseudechis,australis,King brown or mulga snake,8144,11.1,85
+Reptilia,Squamata,Elapidae,Pseudonaja,inframacula,Peninsula Brown Snake,3819,9.08,64.5
+Reptilia,Squamata,Elapidae,Pseudonaja,textilis,Eastern brown snake,3819,7,50
+Reptilia,Squamata,Eublepharidae,Coleonyx,brevis,Texas Banded Gecko,3.3,34.8,42
+Reptilia,Squamata,Eublepharidae,Eublepharis,macularius,Common Leopard Gecko,35.53,28.5,55
+Reptilia,Squamata,Iguanidae,Cyclura,cornuta,Rhinoceros Iguana,16578.115,22.9,136.98
+Reptilia,Squamata,Iguanidae,Sauromalus,ater,Northern Chuckwalla,230.39,65,35
+Reptilia,Squamata,Natricidae,Nerodia,fasciata,Southern Water Snake,1431.5,9.6,121.76
+Reptilia,Squamata,Natricidae,Nerodia,sipedon,Northern Water Snake,1306,9.6,121.76
+Reptilia,Squamata,Natricidae,Regina,septemvittata,Queen Snake,298,19.3,105
+Reptilia,Squamata,Natricidae,Storeria,dekayi,Brown Snake,45,7,109
+Reptilia,Squamata,Natricidae,Storeria,victa,Florida Brown Snake,45,7,109
+Reptilia,Squamata,Natricidae,Thamnophis,sirtalis,Common Garter Snake,150,20,91.32
+Reptilia,Squamata,Phrynosomatidae,Phrynosoma,hernandesi,Mountain Short-horned Lizard,22.945,1.1,77.16
+Reptilia,Squamata,Pythonidae,Antaresia,childreni,Children's Python,384,25.7,55
+Reptilia,Squamata,Pythonidae,Antaresia,perthensis,Pygmy Python,82,9.8,52.5
+Reptilia,Squamata,Pythonidae,Aspidites,melanocephalus,Black-headed Python,6107,22.6,71
+Reptilia,Squamata,Pythonidae,Aspidites,ramsayi,Woma Python,6906,22.6,70.5
+Reptilia,Squamata,Pythonidae,Bothrochilus,albertisii,"D'Albertis python, White-lipped Python",8133.5,26.8,66.5
+Reptilia,Squamata,Pythonidae,Bothrochilus,boa,Bismarck ringed python,2009,22.2,72.5
+Reptilia,Squamata,Pythonidae,Liasis,fuscus,Brown water python,10592,26.8,67
+Reptilia,Squamata,Pythonidae,Morelia,bredli,Centralian Carpet Python,15926,19.6,63
+Reptilia,Squamata,Pythonidae,Morelia,spilota,Carpet python,15926,19.6,63
+Reptilia,Squamata,Pythonidae,Morelia,viridis,Green tree python,3113,20.6,55.5
+Reptilia,Squamata,Pythonidae,Python,bivittatus,Burmese Python,17100,34.2,91.32
+Reptilia,Squamata,Pythonidae,Python,molurus,Indian Rock Python,17100,34.2,91.32
+Reptilia,Squamata,Pythonidae,Python,natalensis,Southern African Python,73000,30,72.5
+Reptilia,Squamata,Pythonidae,Python,regius,"Ball Python, Royal Python",8858,47.5,77
+Reptilia,Squamata,Pythonidae,Python,sebae,African Rock Python,73000,30,72.5
+Reptilia,Squamata,Pythonidae,Simalia,amethistina,Amethystine or scrub python,245988,13.8,86.5
+Reptilia,Squamata,Pythonidae,Simalia,boeleni,Boelen's python,5675,20.1,71
+Reptilia,Squamata,Scincidae,Plestiodon,laticeps,Broadhead Skink,30.02,8,38.5
+Reptilia,Squamata,Scincidae,Plestiodon,obsoletus,Great Plains Skink,30,8,40
+Reptilia,Squamata,Scincidae,Tiliqua,rugosa,"Shingleback Lizard, Shingle-Back, Stumpy Tail Lizard, Pinecone lizard, Sleepy Lizard",617,35,138.6
+Reptilia,Squamata,Teiidae,Ameiva,ameiva,"Giant Ameiva, Amazon Racerunner",68,4.6,152.2
+Reptilia,Squamata,Teiidae,Ameiva,atrigularis,"Giant Ameiva, Amazon Racerunner",68,4.6,152.2
+Reptilia,Squamata,Teiidae,Ameiva,praesignis,"Giant Ameiva, Amazon Racerunner",68,4.6,152.2
+Reptilia,Squamata,Varanidae,Varanus,bengalensis,"Bengal Monitor, Indian Monitor",3750,22,182.64
+Reptilia,Squamata,Varanidae,Varanus,glauerti,Kimberley Rock Monitor,39.185,14.9,21
+Reptilia,Squamata,Varanidae,Varanus,komodoensis,Komodo Dragon,41070,25,49
+Reptilia,Squamata,Varanidae,Varanus,nebulosus,Clouded Monitor,3750,22,182.64
+Reptilia,Squamata,Varanidae,Varanus,salvadorii,Crocodile Monitor,51500,20,106.54
+Reptilia,Squamata,Viperidae,Agkistrodon,contortrix,Southern Copperhead,950,29.8,107.5
+Reptilia,Squamata,Viperidae,Agkistrodon,piscivorus,conanti: Florida Cottonmouth,1700,24.5,152.2
+Reptilia,Squamata,Viperidae,Crotalus,atrox,Western Diamond-backed Rattlesnake,6700,27,167
+Reptilia,Squamata,Viperidae,Crotalus,culminatus,Northwestern Neotropical Rattlesnake,1150,37,135
+Reptilia,Squamata,Viperidae,Crotalus,durissus,Cascabel Rattlesnake; unicolor: Aruba Island Rattlesnake; vegrandis: Uracoan Rattlesnake,1150,37,135
+Reptilia,Squamata,Viperidae,Crotalus,horridus,"Timber rattlesnake, cane-brake rattlesnake (atricaudatus)",1000,37,151.1825
+Reptilia,Squamata,Viperidae,Crotalus,tzabcan,Yucatan Neotropical Rattlesnake,1150,37,135
+Reptilia,Squamata,Viperidae,Lachesis,melanocephala,Black-headed bushmaster,5817,31.6,77
+Reptilia,Squamata,Viperidae,Lachesis,muta,South American Bushmaster,5817,31.6,77
+Reptilia,Squamata,Viperidae,Lachesis,stenophrys,Central American bushmaster,5817,31.6,77
+Reptilia,Squamata,Viperidae,Montivipera,raddei,Caucasus Viper,986,16.4,150
+Reptilia,Squamata,Viperidae,Sistrurus,catenatus,Massasauga,384,20,106.54
+Reptilia,Squamata,Viperidae,Vipera,anatolica,Anatolian Meadow Viper,180.5,19,730.48
+Reptilia,Squamata,Viperidae,Vipera,berus,"Adder, Northern Viper",279,19,730.48
+Reptilia,Squamata,Viperidae,Vipera,dinniki,Dinnik's Viper,279,19,730.48
+Reptilia,Squamata,Viperidae,Vipera,renardi,Steppe Viper,180.5,19,730.48
+Reptilia,Squamata,Viperidae,Vipera,seoanei,Portugese Viper,279,19,730.48
+Reptilia,Squamata,Viperidae,Vipera,ursinii,"Meadow Viper, Orsinis Viper",180.5,19,730.48
+Reptilia,Testudines,Cheloniidae,Caretta,caretta,Loggerhead,109150,76,60
+Reptilia,Testudines,Cheloniidae,Chelonia,mydas,Green Turtle,160000,75,59
+Reptilia,Testudines,Cheloniidae,Lepidochelys,kempii,"Atlantic Ridley, Kemp's Ridley Seaturtle",50000,76,57.5
+Reptilia,Testudines,Cheloniidae,Lepidochelys,olivacea,Pacific Ridley; Olive Ridley Sea Turtle,102000,76,60
+Reptilia,Testudines,Chelydridae,Macrochelys,temminckii,Alligator Snapping Turtle,78900,70.3,120
+Reptilia,Testudines,Dermochelyidae,Dermochelys,coriacea,Leatherback Sea Turtle,420000,80,60
+Reptilia,Testudines,Emydidae,Clemmys,guttata,Spotted Turtle,165.4,30,77
+Reptilia,Testudines,Emydidae,Glyptemys,muhlenbergii,Bog Turtle,132.1,40,65
+Reptilia,Testudines,Emydidae,Trachemys,dorbigni,Black-bellied Slider,1895,75,75
+Reptilia,Testudines,Emydidae,Trachemys,gaigeae,Big Bend Slider,1895,75,75
+Reptilia,Testudines,Emydidae,Trachemys,ornata,Ornate Slider,1854,75,75
+Reptilia,Testudines,Emydidae,Trachemys,scripta,"Pond Slider, scripta: Yellowbelly Slider, elegans: Red-eared Slider, troostii: Cumberland Slider",1854,75,75
+Reptilia,Testudines,Emydidae,Trachemys,taylori,Cuatro Cienegas Slider,1895,75,75
+Reptilia,Testudines,Emydidae,Trachemys,yaquia,Yaqui Slider,1895,75,75
+Reptilia,Testudines,Kinosternidae,Kinosternon,arizonense,Arizona Mud Turtle,331.15,39.93333333,76.1
+Reptilia,Testudines,Kinosternidae,Kinosternon,durangoense,Durango Mud Turtle,331.15,39.93333333,76.1
+Reptilia,Testudines,Kinosternidae,Kinosternon,flavescens,Yellow Mud Turtle,331.15,39.93333333,76.1
+Reptilia,Testudines,Testudinidae,Astrochelys,yniphora,Madagascan (Plowshare or Ploughshare) Tortoise,8000,100,237
+Reptilia,Testudines,Testudinidae,Gopherus,agassizii,"Agassiz's Desert Tortoise, (Californian) Desert Tortoise",2784,62.8,118
+Reptilia,Testudines,Testudinidae,Manouria,emys,Brown Tortoise,26000,150,73.5
+Reptilia,Testudines,Testudinidae,Stigmochelys,pardalis,Leopard Tortoise,20000,100,365.28
+Reptilia,Testudines,Trionychidae,Apalone,ferox,Florida Softshell Turtle,23463,36.75,68
