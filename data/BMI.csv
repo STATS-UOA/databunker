@@ -1,1787 +1,1787 @@
-bmi,	steps,	gender
-20	10413	male
-21.3	13944	female
-17.2	12670	female
-17.5	4879	male
-29	4587	female
-27.6	8883	female
-30.1	8155	male
-26.2	2767	female
-31.2	6335	male
-26	7755	female
-29.4	7136	female
-31	9830	female
-30	8519	male
-17	11578	male
-29.2	9284	male
-28.5	2439	female
-28.2	10959	male
-28.5	7828	female
-17.4	4478	male
-21.5	6990	female
-31.3	983	male
-17.5	12925	female
-29.8	10558	male
-25	8374	female
-30	182	female
-29.1	6990	female
-29.7	7864	male
-16.8	8665	male
-27.8	6881	male
-19.1	5170	male
-28.7	5898	female
-29.8	11432	female
-29.1	7318	female
-23.1	12524	female
-17.4	12451	female
-29.2	5170	male
-26.1	9066	male
-27	2621	male
-19.1	14417	female
-16.5	8701	female
-31.5	8337	female
-27.3	5680	male
-28.7	8956	male
-31.6	1347	female
-21.9	11796	female
-31.4	7536	male
-24.8	182	female
-25	8192	female
-28.8	5133	male
-16.5	13726	male
-16.5	4442	female
-23.2	5316	female
-26.1	4114	male
-30.2	6153	male
-17.6	5206	male
-19.1	14417	male
-28.2	510	female
-31.4	2476	female
-29.5	4842	female
-17	8956	male
-29.8	3095	male
-27.8	10303	female
-20.9	10740	male
-27.4	6189	male
-29.9	5862	female
-17.8	6663	male
-26.1	4733	female
-23	12451	male
-27.9	9357	female
-28.2	2221	female
-25.5	2294	male
-26.3	7682	male
-28.9	1238	female
-30.6	473	female
-24.4	12779	female
-23.5	1383	female
-26.4	10850	female
-16.1	5934	female
-20.2	5097	male
-17	11432	female
-20.5	6663	female
-19.5	10667	female
-21	7209	female
-29.8	11323	male
-30	5934	male
-24.4	5971	male
-27.9	5680	male
-17.4	12306	female
-28	6262	female
-28.3	7864	male
-17	12015	male
-15.7	8738	male
-17.6	7245	female
-16.1	8956	female
-28.1	8847	female
-29.2	3095	female
-24.9	6408	male
-17.1	14126	female
-30.1	10340	male
-29.4	11468	female
-31.6	6553	male
-17.8	9284	male
-31.4	510	female
-29.8	10158	male
-26.8	2658	female
-29.2	9502	male
-18.4	6335	female
-17.1	4223	female
-30.2	6189	female
-31.8	8629	male
-26.1	9102	female
-17.7	9211	female
-30.3	7464	male
-31.7	9066	male
-26.1	3641	male
-26.8	10303	male
-29.6	3859	male
-28.2	510	female
-26.6	9721	female
-24.4	12706	male
-18	5170	female
-25.1	8774	female
-19.8	10340	male
-27.9	8483	male
-29.4	11468	female
-28.1	6335	female
-20.6	6990	female
-23.9	12743	male
-29.7	8410	male
-29.4	6917	male
-24.4	5898	female
-26.2	5243	female
-23.6	1566	female
-30.1	10886	female
-31.3	2476	female
-19.1	10231	female
-21	14199	female
-29.2	7354	female
-22	11869	male
-26.1	9430	male
-29.4	8665	male
-29	6845	female
-27	6226	female
-30.6	5971	female
-18.7	14272	male
-16.9	8847	male
-26	10667	male
-30.4	7136	female
-27.2	364	female
-28.9	9757	female
-25.4	12197	male
-27.9	10740	female
-17.6	7245	male
-29.4	9211	female
-15.6	6153	female
-26.4	10158	male
-26.7	8993	male
-28.2	5461	male
-29.4	10194	male
-31.7	7136	male
-25.3	6735	male
-27.6	7646	female
-25.1	7791	female
-28.4	6044	female
-31.4	6371	male
-17.2	12706	male
-27.1	328	female
-17.4	12415	male
-28.8	2803	female
-15.8	8811	female
-28.8	8847	female
-28.3	8119	female
-31.4	7864	male
-28.2	2367	male
-18	5133	male
-17.9	9539	male
-31.9	8010	female
-21.9	5752	male
-28.9	546	female
-27.5	9102	female
-27.4	5971	male
-17.3	7609	male
-21	10813	male
-28.7	5243	female
-25.2	6663	male
-22.5	12379	female
-19	6481	male
-29.4	8701	female
-18.8	6371	male
-30.1	9066	male
-29.2	9466	male
-28.4	8374	female
-29.3	3277	male
-29.6	2767	female
-29.7	5170	female
-26.2	9721	female
-26	2585	male
-29.7	5789	female
-17.1	11687	male
-22.3	5461	male
-29	7027	male
-26.7	218	female
-32	7755	female
-32	7864	male
-26.6	9684	male
-25.7	12051	female
-16.6	14891	female
-17	4697	female
-31.4	10413	female
-21.9	11687	male
-31.7	7172	female
-27.3	10485	male
-29.2	10667	male
-23.5	2512	female
-21.7	13325	male
-26.3	6262	male
-29.5	7755	male
-16.1	5898	female
-22	12961	male
-31.3	9430	female
-29.3	9466	male
-28.9	11833	male
-27.6	5825	female
-17	11942	male
-16.6	13107	male
-22.6	8920	male
-17.2	13726	female
-31.1	6699	female
-17.5	12961	female
-26.6	7755	female
-31.1	6663	male
-23.5	1820	female
-31.9	7136	female
-21.1	10922	male
-31.5	692	female
-29.2	9248	female
-31.2	1311	female
-17.4	4624	female
-28.7	4587	male
-19.3	14490	female
-30.3	6553	female
-25.6	2330	female
-28.2	6189	male
-31.5	6408	male
-23.3	5316	female
-25.7	36	female
-23.6	1493	female
-25.6	10194	male
-24	12743	male
-28.4	11505	male
-28.4	1784	female
-29.3	9248	female
-29.4	8847	female
-31.4	837	female
-26.1	8629	female
-30.4	2148	female
-22.4	8629	male
-20.1	10449	female
-18.2	9721	female
-16.9	4587	female
-29.1	6444	male
-16	8774	female
-25.4	6408	female
-29.5	4733	male
-16.8	4442	female
-29	9175	female
-30.3	7427	male
-28.1	8920	female
-26.1	5716	male
-30.3	1383	female
-28.8	583	female
-24.2	364	female
-22	8301	female
-28.3	2403	male
-31.4	692	male
-17.3	3568	female
-30	10995	female
-26.1	9248	female
-19.5	14563	female
-20.1	14600	male
-31.6	1420	female
-25.3	109	female
-16.8	3604	female
-25.5	10194	male
-28.3	8083	female
-28.3	2330	female
-28.4	11541	male
-26	8556	male
-17.6	9211	male
-27.9	7973	female
-30.3	5716	female
-29.3	7136	male
-15	8447	male
-16.7	5206	female
-29.5	2112	female
-30	5461	male
-26.2	6590	female
-30.2	8410	female
-27.7	6845	female
-17.1	3022	male
-30	5971	male
-27.6	8883	male
-30.6	6044	male
-31	2803	female
-26.7	6735	male
-17.1	3532	male
-31.4	765	female
-21.9	11760	female
-31.3	6990	female
-15.2	8774	male
-31.5	8010	male
-31.5	9684	female
-31.5	9248	female
-29.2	8592	male
-26.6	6699	female
-28	8519	female
-24.6	12706	male
-23.9	9502	female
-27	10231	female
-17.6	6117	female
-28.7	11723	female
-18.4	5206	male
-16.6	14891	female
-17	14818	male
-25.7	2439	female
-21	7282	male
-17.5	13471	male
-17.2	12743	male
-31.5	9867	female
-27.7	9320	male
-29.1	9138	female
-17.4	5752	female
-17.4	12197	female
-29.8	11286	female
-20.7	5425	female
-16.9	13180	female
-22.8	12379	male
-23.1	7900	female
-19.4	10813	male
-21.2	6189	male
-30.3	6808	male
-15.3	8883	female
-31.4	7245	female
-15.2	8811	male
-28.3	6153	male
-21.3	6189	female
-27	328	female
-31.1	6226	female
-31.6	2002	female
-28.1	8956	male
-29.3	3350	male
-21.5	6080	female
-30.3	9502	male
-27.9	7900	male
-28	9248	male
-16.5	14199	female
-30.1	8956	male
-20.4	6917	female
-29.4	11432	female
-26.3	2621	female
-28.7	5243	male
-26	5789	male
-28.5	11177	female
-30.3	10667	male
-31.3	10340	female
-29.8	3167	female
-27.7	2512	male
-29.6	11796	female
-29.4	10231	male
-29.1	9357	male
-16.5	3932	male
-27.1	10158	female
-27.9	7864	female
-27.4	2549	male
-29	10595	female
-19.3	6481	female
-20.1	5061	male
-30.1	8701	male
-30.2	7937	female
-29.5	11468	male
-29.3	3240	female
-27.7	8811	female
-16.5	14163	female
-24.8	12597	male
-16.7	4187	female
-26.7	2621	male
-29.1	8920	female
-16.9	4405	male
-29.5	10012	male
-29.3	7318	female
-27.9	6845	female
-31.6	6553	male
-28.7	5170	female
-25	9102	male
-16.5	4296	male
-28.3	2549	female
-28.6	364	female
-31.5	9903	male
-30.8	2767	male
-22.5	12233	male
-22.1	5570	male
-17	14272	female
-19.2	5170	female
-29.3	11869	female
-21.5	5971	female
-28.8	8774	female
-31.4	2621	male
-30	874	female
-19.8	14563	male
-29.5	11614	female
-19.3	14527	male
-17.5	13689	male
-29.5	11687	female
-30.7	6007	female
-28.3	2476	male
-23.4	12597	male
-23.5	3859	female
-26.5	5534	female
-28.9	1493	female
-26.1	4988	female
-15	8192	female
-28.4	11541	female
-29.3	437	female
-28.7	11177	female
-18.4	14017	female
-16.7	4114	male
-27	6262	female
-31.8	7136	male
-29.5	10704	male
-30.1	5971	male
-21.6	7718	male
-22.5	5425	female
-18.4	5279	female
-31.3	9466	male
-20.5	14490	female
-28.7	7391	male
-30.2	9029	male
-28.9	8738	male
-23.3	7973	male
-30.8	2184	female
-30.1	6007	male
-30.5	36	female
-30.4	5752	female
-30.9	1201	female
-29.5	11833	male
-26	7718	male
-15.7	9102	female
-16.5	14672	male
-26.4	9757	female
-19.7	5097	female
-25.6	12015	female
-24.7	9320	female
-20.9	6408	female
-17.4	7755	male
-16.1	5934	male
-22.2	12670	male
-30.5	10522	male
-31.9	8337	female
-28.5	1675	female
-26.1	4405	male
-19.7	5061	female
-31.4	2767	female
-30.6	73	female
-27	5570	male
-28.7	1092	female
-23.5	3568	male
-28.6	11650	female
-26.1	11068	female
-30	146	female
-22	12888	female
-18.9	5206	female
-28.7	10485	female
-16	8774	female
-24.4	12743	male
-30.9	400	female
-29.4	6990	female
-25.9	5789	female
-19.6	6517	male
-26.6	7318	female
-27.2	6153	female
-29.2	5170	female
-21.3	7464	female
-17	3277	male
-17.2	8993	female
-30.6	10413	male
-30.1	9466	female
-29.1	5752	male
-29.6	11869	male
-21.5	13653	female
-28.7	5206	female
-29.8	11614	male
-26.7	10850	female
-24	546	female
-29.7	11068	female
-16.8	3022	male
-29	6444	male
-17	11650	male
-20.6	6553	female
-30.3	9976	female
-29.6	3859	female
-26.8	5570	male
-22.1	11869	male
-23	12488	male
-30.3	9539	female
-30.7	1238	female
-27.7	8811	male
-31.4	7500	female
-17.6	13398	female
-31.4	9175	female
-25.9	10558	male
-29.6	3896	female
-27.8	6044	female
-20	10376	female
-17.7	9284	female
-26.6	7209	male
-16.9	11141	male
-16.4	8701	male
-26.6	8738	male
-29.4	3677	male
-31.2	2112	female
-29.1	7172	female
-24.6	9502	male
-27.4	10631	male
-16.8	5570	male
-22.9	9102	female
-29.8	4915	male
-31.3	947	female
-23.8	9502	male
-28.1	2840	female
-29.9	8410	male
-26.6	7136	female
-29.3	11250	male
-29.8	4988	male
-28.8	9466	female
-20.8	10631	female
-23.5	3823	female
-29.6	9430	female
-31.4	10231	female
-19.2	10231	male
-16.9	3641	female
-17.1	3604	female
-27.7	7464	male
-22.6	7900	female
-17.4	11068	male
-21.9	11760	male
-18.1	6371	male
-29.3	9248	female
-29.6	400	female
-29.5	9102	male
-29.2	364	female
-25.9	36	female
-17.1	14636	female
-17.4	13871	female
-17	8811	male
-19.4	5133	female
-15.1	8374	female
-17	3459	female
-18.5	14163	female
-21.7	13434	male
-28.4	5352	female
-28.8	4587	female
-25.6	36	female
-26.5	9721	female
-29.1	7354	female
-29.3	3313	female
-21.9	8010	female
-16.6	3350	male
-29.2	11250	male
-19	11541	female
-17.1	12743	female
-23.1	5388	male
-27	6335	female
-19.6	6517	male
-26.7	6044	female
-28	5570	male
-29.5	5680	female
-30.6	10376	male
-20.4	5170	male
-17.9	11468	female
-26.6	2621	female
-16.5	12816	male
-29.5	6117	female
-26.1	4587	female
-26.7	5607	male
-29.4	11541	male
-17.4	7937	female
-18	6262	female
-17.5	12888	female
-23.2	12524	male
-16.9	5971	male
-24.1	5716	male
-22	11833	female
-29.3	6189	female
-29	11833	female
-29.6	437	female
-31.6	9211	female
-18.6	9939	female
-24.3	5789	male
-20.9	7209	female
-18.8	11687	male
-28.7	9393	female
-25.4	6371	male
-17.2	3240	female
-30.4	5789	female
-28.3	10340	male
-29	8665	male
-21.3	6153	male
-27.7	5825	male
-27.9	8447	male
-16.5	13507	male
-17.1	14527	male
-25.8	36	female
-16.7	3240	male
-28.3	4879	male
-23.5	4478	male
-26.6	5534	male
-30.2	9066	female
-28.6	8337	male
-16.7	14417	male
-31.2	9539	female
-31.4	9102	female
-26.9	291	female
-17.5	13544	female
-28.5	1966	female
-29.2	9211	female
-29.8	3313	female
-29.9	7682	male
-20.5	6881	female
-26.2	4806	female
-16.6	4915	female
-17.6	13034	female
-17.7	6153	male
-17.1	11760	male
-22	12998	male
-31.3	400	female
-25.2	6808	male
-31.4	874	male
-18.1	11796	male
-31	1165	male
-29	7172	female
-21.3	6117	male
-17	11687	female
-17.6	13799	male
-23.8	874	male
-29.3	6153	female
-29.4	11177	male
-29.2	9903	female
-19.4	11032	female
-31.1	9757	male
-27.4	6226	male
-29.8	8447	female
-18.3	5243	female
-31.3	7027	male
-17.4	13871	male
-18.9	10121	male
-28.6	7755	female
-16.5	4478	female
-29.6	2512	male
-30	6699	female
-17.9	13762	male
-28.9	7245	male
-17.4	4442	male
-29.1	11833	male
-26.8	6735	female
-17.9	11650	male
-17.6	7282	female
-26.7	6117	female
-27.1	5680	female
-29.8	10558	male
-18.9	10085	female
-21.4	6044	female
-22.4	12488	male
-28.9	1420	female
-15.4	6299	female
-30.1	9502	male
-23.9	546	female
-29.3	5061	male
-29.8	3641	female
-26.3	6189	female
-28	7646	female
-25	8265	female
-30	9466	female
-19.7	14600	female
-20.6	5352	female
-23.4	4879	female
-28	10850	male
-28.9	1383	female
-17.8	11505	female
-26.9	2658	male
-23.3	5425	male
-26.1	7646	male
-29.2	9066	male
-23.6	1711	female
-28.9	9684	female
-28.1	11068	female
-29.7	11214	male
-29.8	11068	female
-28.5	4733	male
-17.6	5206	male
-23.5	2184	male
-23	7864	female
-16.7	14417	female
-17.1	8701	female
-26	7937	female
-21.8	13252	female
-17.1	3641	male
-17.5	4697	male
-23.5	2367	male
-17.3	6117	male
-16.8	14964	male
-26.5	6626	male
-16.9	3786	female
-31	6117	female
-27.6	6845	male
-26.2	6663	male
-28.9	546	female
-29.9	5789	female
-30.6	0	female
-29.1	11905	male
-17.5	5279	male
-21.1	6007	male
-26.5	146	female
-29.3	7209	female
-29.9	8483	male
-28.6	6990	female
-17.6	11760	male
-31.4	8920	female
-30.6	2767	female
-17	12051	male
-22.7	7937	male
-25.2	73	female
-29.3	7354	male
-23.7	1019	female
-24.5	12743	female
-16.5	4296	male
-29.3	9867	male
-17.7	9211	female
-25.9	11687	male
-31.2	9393	female
-30.4	1347	male
-17.6	13107	male
-17.1	8228	female
-19.2	6444	male
-25.2	36	female
-16.9	8956	male
-26.2	6299	female
-28.1	6408	male
-27.8	10777	female
-30.5	10558	female
-29.4	11359	male
-29.1	7063	female
-23.3	5425	female
-29.6	5206	male
-30	801	male
-31.5	7755	female
-26.3	7682	male
-17	8738	male
-29.3	5170	female
-17.7	13726	male
-16.5	4515	female
-27.3	10704	male
-28	7682	male
-29.1	7391	female
-17.2	13944	male
-28.1	10049	female
-17.3	14126	female
-16.9	14308	female
-16.5	14600	female
-24.2	5825	female
-18.3	6371	female
-31.7	8629	female
-26.5	10850	male
-17.2	13762	female
-21.5	6189	male
-28.3	7900	female
-31.4	2731	male
-17	11177	female
-30	10012	female
-28.5	2621	male
-18.7	9976	female
-29.1	400	female
-18.2	5243	female
-29.1	9248	female
-16	8993	male
-22	8010	male
-30.3	73	female
-20.4	14490	female
-15.1	7755	male
-23	9102	female
-31.7	9066	male
-29.4	10085	female
-28.7	7209	female
-26.1	2585	male
-19.3	11250	male
-17.4	6080	female
-21.7	11541	female
-29.5	8701	female
-26.1	8556	male
-21.1	14017	male
-28.3	11032	female
-17.3	3568	female
-24.2	5825	female
-25.3	9612	male
-28.4	11141	female
-16.6	14782	male
-17	11760	male
-30.8	437	female
-28.4	2476	female
-17.1	3896	female
-23.4	2767	female
-31	437	female
-27.8	10704	female
-28.7	7027	male
-29.8	5752	male
-29.2	8847	male
-29.4	9320	male
-29.2	7245	male
-27.6	510	female
-26.7	5570	female
-17.6	5133	male
-17.5	11796	male
-26.6	7573	female
-25.7	2403	female
-22.4	12197	male
-17.3	8046	female
-29.6	7828	male
-29.6	10667	male
-17.7	6699	male
-17.5	7828	female
-17	8701	female
-22.5	5461	male
-28.1	9211	female
-26.2	2585	female
-26.1	10704	female
-23.3	9248	male
-17	12925	male
-22.4	7937	female
-26.1	7609	female
-26.1	4624	female
-28.1	7354	male
-30.8	2112	male
-21.1	7318	male
-29.4	6299	male
-17.4	6808	female
-17.1	4296	female
-28.3	510	female
-29.3	8774	male
-30.3	9175	female
-20.5	10558	male
-29.7	4587	male
-27	10813	male
-23.4	2731	female
-29.1	8993	male
-31.2	2330	female
-29.6	9939	male
-27.8	7318	female
-30.5	2112	female
-26.1	73	female
-24.9	6444	female
-17	11141	female
-29.5	8993	female
-23.4	9284	male
-29.2	1820	male
-31.1	6772	female
-21.8	11650	male
-26.1	9248	female
-30	10959	female
-29.4	4988	male
-29.2	1784	female
-30	6626	female
-28.5	8046	male
-26.1	6735	female
-27	5570	male
-31	400	female
-27.5	10485	female
-28.2	5388	female
-28.5	6044	female
-27	2621	male
-17.6	5061	male
-29.5	3859	male
-26.1	4915	female
-17.2	3095	female
-15.1	7354	female
-15	7900	female
-19.1	11468	female
-16.7	5316	female
-28.7	6954	female
-29.4	7609	female
-30	8665	female
-17	4114	female
-18.2	11833	female
-19.7	14563	female
-27.8	7245	male
-17	11068	male
-26.4	10813	male
-17.3	4078	male
-28.1	7136	female
-29.3	6117	male
-26	2549	female
-25.7	2367	male
-29.8	11323	male
-31.8	7282	male
-31.3	7136	female
-24.3	12743	female
-29.4	4842	male
-21.7	13362	female
-30.3	9102	male
-29.5	11614	female
-17.9	5133	female
-25.5	10231	male
-26.6	5570	female
-15.7	5971	male
-22.8	12415	female
-31.7	1602	female
-23.6	1493	female
-25.8	2476	female
-28.4	437	female
-31.1	6262	male
-26.9	10777	male
-27.6	10631	male
-18.3	13908	female
-28.9	473	female
-16.9	8811	male
-23.5	2731	male
-31.1	2294	male
-29.4	7500	male
-26.1	73	female
-23.3	5133	male
-17.4	12633	male
-31.8	7245	female
-22.6	8811	female
-29.7	10158	male
-23.7	12670	male
-26.5	7682	female
-29.1	7209	male
-29.9	5825	female
-23.6	1493	female
-28.2	546	female
-31.3	7209	female
-21	5716	male
-20.5	5279	male
-16.3	5934	male
-28.6	2585	female
-17.1	11723	female
-31.9	8337	female
-28.1	7318	female
-28.4	437	female
-31.5	692	female
-30.3	9867	male
-21.4	7536	male
-17.9	5024	male
-27.7	10449	male
-25	109	female
-29.6	11104	female
-16.6	3532	male
-16.6	12925	female
-24.3	5862	female
-30.8	2803	female
-27.6	8847	male
-16.5	4150	male
-23.5	1930	female
-20.1	14563	male
-29.1	9138	male
-17.2	8592	female
-24.6	12670	male
-29.4	3568	male
-17.4	4369	female
-27.9	7791	female
-31.4	7900	male
-30.8	6153	female
-16.8	5898	male
-22.2	12670	female
-29.3	6262	male
-24	9539	male
-21	6444	male
-21.6	6117	female
-18.3	11869	female
-29.5	8629	female
-28.5	1966	male
-17.7	5206	female
-24.8	182	female
-22.6	8847	male
-31.6	6699	female
-25.4	9976	female
-29.4	6990	male
-28.3	4879	female
-17.4	12342	male
-17.2	7500	female
-30.6	2075	male
-25.1	6735	male
-25.4	6408	male
-25.7	36	female
-18.8	14345	female
-21.1	5862	female
-21.6	7718	female
-26.2	9502	female
-29.1	11250	female
-17	4806	female
-17.6	11796	female
-30.6	510	female
-25.1	8993	male
-16.5	13580	male
-17.4	4660	male
-28.6	2221	male
-26.6	7609	male
-22.9	8993	male
-29.1	11869	male
-30.1	6044	female
-28.5	10340	male
-29.8	8374	male
-22.5	5461	male
-19.4	6517	female
-21.9	13107	female
-16.5	3823	female
-17.8	11541	female
-21.5	6153	male
-31.3	7209	male
-25	12488	male
-23.5	1529	male
-25	8592	female
-30.4	10667	male
-18.6	6444	female
-20.9	7136	female
-20.9	7209	female
-23.1	12524	male
-16.5	4369	female
-16	8993	female
-26.1	8738	male
-27.7	7464	male
-28.6	2621	female
-17.2	9066	female
-23.5	2803	female
-29.5	6444	male
-29.3	6080	female
-29.1	1784	female
-30.3	10012	male
-25.9	10595	female
-25.2	6735	male
-17.4	6881	male
-29.2	8920	male
-17.7	4879	female
-30.3	692	female
-31.5	9248	female
-21.8	11650	male
-26.6	6626	female
-22.1	8046	female
-15	8155	female
-26.6	8410	male
-17	8738	female
-16.9	13143	male
-27.4	6044	female
-28.5	473	female
-16.9	8847	female
-21.7	11541	female
-18.1	6299	female
-29.3	11869	male
-28.3	11468	female
-19	11650	male
-16	5971	female
-27.8	5716	female
-30.1	5534	female
-30.1	765	female
-30.3	7536	female
-29.5	6954	male
-21.7	13398	male
-28.7	1638	male
-25.7	2367	female
-29.6	10231	female
-18.3	11905	male
-29.7	5243	male
-31.2	6371	male
-29.6	5206	male
-20.9	5534	male
-31.1	2803	female
-29.4	7318	male
-31.1	1056	male
-28.9	9648	male
-23.5	1420	female
-30.2	8155	male
-17	5934	female
-25	8228	female
-26.6	6080	female
-30.4	36	female
-26.8	6699	male
-28.3	5388	female
-26.1	10704	male
-16.5	13252	male
-17.8	9466	male
-29.5	4769	female
-31.7	8993	female
-24.4	12706	female
-17.1	4333	female
-27.6	2549	male
-19.2	11177	male
-17.4	7973	female
-26.2	6626	female
-29.7	6189	female
-29	4551	male
-27.9	6153	male
-20.2	6772	female
-23.9	546	female
-25.1	7937	female
-30.1	6044	female
-29.5	6444	female
-30	8774	male
-26.6	8592	male
-26.4	5570	female
-16.6	12670	male
-19.7	14600	male
-23.4	4915	female
-29.5	11505	female
-28.5	11650	female
-28.8	9357	male
-29.6	5752	male
-30.4	5752	male
-27.6	5789	female
-28.7	6772	female
-26.7	9393	female
-28.6	2294	female
-26.6	8556	male
-18.4	9830	male
-22.3	5534	male
-27.5	473	female
-26.8	9794	male
-32	7937	male
-29.4	7464	female
-18.1	11833	female
-26.6	7973	female
-26.2	2840	female
-30.2	8920	female
-17.1	8665	male
-28.4	7573	male
-18.9	6408	male
-30	10413	female
-25	7682	female
-30.1	5461	male
-28.5	2039	female
-31.5	9648	female
-18.9	14308	female
-29.8	3240	male
-29.9	10995	male
-24.6	9466	male
-31.5	9539	female
-28.9	8738	male
-28.5	7937	female
-23.4	3386	female
-25	8265	female
-31.3	2039	female
-21.6	6007	female
-27.7	583	female
-26.6	7864	female
-21.5	6299	male
-17.4	4442	female
-28.3	10194	female
-17	8993	female
-26.1	4114	male
-24.5	255	female
-15.1	8592	female
-16.7	5243	female
-17.1	14017	male
-29.2	10667	female
-16.8	9029	male
-31.3	2112	male
-30.8	2075	female
-18.7	11760	male
-29.5	3786	female
-19.5	10777	male
-20	5061	female
-15	8556	male
-26.4	2621	female
-30.5	2148	female
-29.2	7100	male
-19.6	10267	male
-17.6	11359	male
-21.5	7027	female
-28.7	11177	female
-17	3131	female
-25.6	2330	male
-26.9	2658	female
-29.5	9430	male
-17.4	7718	male
-17.3	3313	male
-31.7	1930	male
-27.5	5789	female
-15.7	8738	female
-31	6444	male
-19.4	6553	female
-31	1274	female
-29.7	10595	male
-17.5	11323	female
-29.6	9721	male
-17.6	7172	female
-22.5	5425	female
-27.4	10267	male
-30.9	400	female
-27.9	9357	female
-17.5	13762	male
-30.9	10085	female
-31	6481	male
-16.8	12269	female
-26.6	8738	female
-26.1	3058	male
-16.8	3131	female
-18.7	14199	female
-30.5	2112	female
-27.5	10522	male
-25.7	6007	male
-16.9	4478	male
-25.3	73	female
-26.6	7646	male
-31	9830	male
-23.4	5061	female
-22.3	12597	male
-17.3	8010	female
-29.3	1930	male
-30.9	6226	female
-18.3	11905	male
-24.1	437	female
-29.3	7646	male
-29.4	8993	male
-19.5	6553	female
-19.1	11359	female
-28.7	2694	female
-31.1	1274	female
-27.5	9029	female
-20.6	5279	female
-17.4	12233	female
-24.4	12706	male
-17.4	4660	male
-29.5	10267	male
-26.2	5352	male
-29.2	5752	female
-21.8	11723	male
-23.5	3313	female
-26	7573	female
-28.7	5206	male
-29.6	2694	female
-28.9	218	female
-22.9	5352	male
-28.5	4697	female
-25.9	11614	male
-29.1	9393	male
-31.1	1274	female
-30	9830	male
-29.8	7864	male
-26.6	8701	male
-29.5	437	female
-29.7	2840	male
-30.1	8374	female
-30.2	109	female
-26.1	6772	male
-22.6	12269	male
-26.2	6517	male
-21.8	5825	female
-26.7	9612	male
-24.9	6444	female
-27.1	6153	male
-17	2985	female
-29.2	6808	male
-17.1	11978	male
-26.7	10303	female
-29.3	8665	female
-17.6	13762	male
-27.3	10631	female
-31.3	10303	male
-31.2	10121	female
-21.5	6845	male
-23.5	3714	female
-29.4	2112	female
-29.1	7209	female
-28.7	874	male
-17.4	6917	male
-28.8	11250	male
-29.4	11177	male
-28.5	8119	male
-29.5	11869	female
-16.7	8629	female
-29.4	7063	female
-26.1	3422	male
-31.9	8701	male
-17.2	8337	female
-21.5	13617	male
-17.2	8629	female
-26.1	4879	male
-29.3	6044	male
-30.2	8556	male
-15.1	7282	female
-15.9	8811	male
-16.9	11250	male
-17.3	8447	male
-31.4	6262	female
-24.7	12706	female
-23.2	7937	female
-32	7354	male
-23.1	5388	female
-30.1	728	female
-31.1	400	female
-17.6	6262	male
-21.8	7973	female
-25.7	10413	female
-16.6	3495	female
-20.9	14199	female
-28.7	4697	female
-27.8	5716	male
-28.4	11104	female
-22.9	9029	male
-15.9	5898	male
-31.1	2148	female
-25.7	2403	female
-22.2	12633	male
-21.6	13580	male
-23.8	5570	female
-17.4	6189	male
-17	11905	female
-30.2	6189	female
-17.1	3459	female
-28.9	2803	male
-28.2	10158	female
-21.3	6189	male
-23.6	1238	female
-24.2	12779	male
-16.7	14927	female
-25.1	7718	male
-30.2	2694	female
-26.5	7718	male
-28.9	10558	female
-26.7	7464	female
-26.4	5570	female
-22.8	9029	female
-17.9	6299	male
-26.2	5498	female
-28.5	2039	female
-22.9	12488	female
-28.3	10267	male
-16.8	4260	male
-30.4	6699	female
-26.1	7209	male
-21.4	6044	female
-23.7	983	male
-17.1	3859	male
-29.5	4733	female
-16.2	8665	female
-30.1	9430	male
-28.6	1675	male
-31.4	10121	male
-30.1	9430	female
-29.4	364	female
-29.2	6481	male
-26.6	6117	male
-28.3	3058	male
-31.3	10340	male
-27	10158	male
-29.4	11869	male
-20.9	14235	female
-30.3	7318	male
-17.6	13799	female
-29.4	4478	female
-27	10121	female
-21.9	13107	female
-20	6735	female
-26.1	4842	male
-30.3	5643	female
-18	6262	female
-29.5	11578	female
-29.4	8847	male
-25.4	12342	female
-19.9	6699	male
-19.3	5133	male
-23.1	5461	female
-22.1	8410	male
-29.8	6335	male
-28.5	364	female
-28	2767	female
-30.3	7100	male
-17.1	3823	male
-31	2112	male
-26.6	8228	female
-29.9	9976	male
-29	9867	male
-21	10813	male
-25.4	6371	male
-16.5	13434	female
-29.9	8483	female
-22.9	9066	female
-31.4	7536	male
-27.8	10413	male
-30.6	10413	male
-16.5	5934	female
-17.3	6117	female
-23.5	4187	male
-23.9	583	female
-26.2	2621	male
-23.2	9248	male
-29.5	10667	male
-25.6	6189	female
-29.3	7318	female
-29.8	6262	male
-22.2	8483	female
-25.5	6189	male
-28.3	2694	female
-15.3	6408	female
-20.6	14417	male
-28.8	291	female
-28.5	11614	male
-30	109	female
-15.2	6845	female
-23.5	1529	female
-16.7	3095	female
-29.2	11833	female
-25.7	11942	female
-28.3	10194	male
-17.2	8374	female
-26.8	9612	male
-25.1	6772	female
-31.3	983	female
-29.1	6917	male
-26.6	8701	female
-28.3	11396	female
-30.7	473	female
-16.9	13216	female
-15.1	8701	male
-17.9	5097	male
-17.2	13835	female
-31.6	9175	male
-17.1	3677	male
-21	6371	female
-23.5	3422	male
-17.4	11032	female
-28.6	400	female
-27.7	5934	female
-22.7	5425	male
-31.9	8192	female
-16.8	2985	female
-22.4	12124	male
-29.8	5352	female
-16.4	5934	female
-29.8	3495	female
-24.6	9648	male
-17.6	13835	male
-28.9	10631	male
-30.7	36	female
-16.6	3240	female
-16.5	13762	male
-23.5	1966	male
-20.3	10485	male
-27.3	10449	male
-17	4223	female
-30.6	473	female
-18.1	9648	male
-26.6	182	female
-27.1	10231	male
-28.3	8083	female
-17.6	7136	male
-26.1	4405	female
-30.6	5898	female
-30.1	10340	male
-25.4	10121	female
-22.2	8010	female
-29.3	6299	female
-27	2621	female
-26.3	5570	female
-17.5	5607	male
-16.5	14782	male
-24.2	364	female
-30.7	2767	male
-27.2	437	female
-23.5	2221	female
-21.9	11723	female
-15.6	6080	female
-21	5825	female
-23.5	2403	male
-16.7	12342	male
-15.4	6299	male
-26.2	7682	male
-26.4	2621	male
-28.4	8301	female
-23.2	5425	male
-21.2	14053	male
-30.2	7682	male
-30	9721	female
-29.5	6517	female
-16.9	8847	male
-29.8	11505	female
-23.2	9211	male
-30.1	8774	male
-31	2148	female
-31.6	1966	female
-26.2	2876	male
-29.3	5024	female
-26.2	10704	male
-30.5	10558	female
-31.5	2039	female
-21.5	13689	male
-24.7	6226	male
-29.2	4478	female
-15.6	9066	female
-22	11833	male
-25.9	2512	female
-26.1	8410	female
-25.2	6808	female
-28.8	510	female
-17.5	4769	male
-31.3	7282	male
-29.6	9575	male
-17.6	4915	male
-18.2	5170	female
-25.2	9612	female
-27.5	10558	male
-31.2	1311	female
-26.6	7755	female
-16.5	13289	female
-31.3	2767	male
-29.3	9320	male
-23.5	5425	female
-29.2	7646	male
-30.2	8629	male
-16.6	4842	male
-29.4	8629	female
-30.8	255	female
-31.9	8592	male
-16.7	5934	female
-17.5	13507	female
-22	5680	female
-17	11104	male
-29.5	9867	male
-29	7646	female
-30.6	10376	female
-31.2	6772	female
-17.5	5534	female
-30	9648	female
-17.4	13981	female
-26.6	8592	female
-29.1	4551	female
-17	11541	female
-28.5	7718	female
-26.7	7354	female
-15.1	7464	male
-28.8	5789	female
-27.6	510	female
-28.8	6626	female
-29.5	11687	female
-24	12779	female
-27.1	5680	male
-26.1	2658	male
-26.4	7646	female
-16.9	3095	male
-28.7	4660	male
-20.3	14563	female
-25.1	12488	male
-23.2	5352	female
-17.1	8665	female
-17.2	3313	female
-28.3	546	female
-28.3	8010	female
-26.2	9757	female
-26.6	9684	female
-28.9	1456	female
-29.6	4587	male
-17	11396	female
-30.3	6335	female
-25.3	73	female
-18.8	6444	male
-16.5	14636	male
-30.7	510	female
-26.8	6772	female
-29.7	6262	male
-20.5	5316	female
-31.2	2876	female
-25.7	11942	male
-16.7	5279	female
-26.1	8811	female
-29.2	11869	female
-30.3	10704	male
-29.3	11323	male
-27.3	6117	male
-30	5898	male
-16.5	3714	male
-26.3	2658	female
-26.6	10850	female
-22.2	12706	female
-29.5	10667	male
-17.7	9175	female
-21.2	7354	male
-22.7	5388	male
-31.3	2476	female
-17.1	13908	male
-16.5	13398	female
-16	8847	female
-30.4	6990	male
-29.5	6663	male
-22.5	12269	male
-28.1	8883	male
-26	2512	female
-27.6	7536	male
-29.2	364	female
-22.6	5425	female
-22.4	12451	female
-24.9	9211	female
-16.5	4223	female
-16.5	13981	male
-25.6	2294	female
-31.3	9357	female
-31.4	7500	female
-31.6	6735	female
-17.2	13689	male
-28.3	5352	female
-30.9	2112	female
-15.2	6772	male
-31.2	1092	female
-16.7	3095	male
-16.4	8665	female
-24.1	12743	female
-32	8629	male
-17	8701	male
-29	9138	female
-18	6335	female
-15.3	8920	male
-27.4	6189	male
-31	1165	male
-17.6	11250	male
-30.3	6917	female
-25.7	10340	female
-31.4	2075	male
-20	14600	male
-26.1	7646	female
-24.5	6007	female
-20.6	6553	female
-31.5	8119	female
-26.1	3750	female
-28	5498	female
-26.5	5570	female
-17.5	5643	female
-31.3	2403	female
-28.5	1930	male
-22.9	5352	female
-31.5	9830	female
-29	9284	female
-30.6	2731	female
-30.3	1383	female
-25.1	6663	female
-31.3	9102	male
-23.6	874	female
-27.2	10704	female
-25.1	7282	female
-21.9	13143	male
-26.7	9539	female
-31.3	10194	male
-30.9	6335	female
-16.6	12816	male
-20.8	14308	female
-26.6	8738	male
-17.5	5316	female
-16.8	5388	female
-26.3	6153	female
-20.9	5680	male
-23.1	7900	male
-18.7	5206	male
-27.3	10485	male
-19.6	14563	female
-23.5	9284	female
-30	7718	female
-19	10085	male
-29.6	11869	male
-31.5	9211	male
-31.7	7209	female
-21.3	10995	female
-25.1	7391	female
-21.2	10922	male
-17.4	12561	male
-30.5	510	male
-27.9	10886	female
-29.8	3277	male
-18.6	9939	female
-16.6	12524	female
-29.4	10704	female
-29.8	3532	female
-16.8	5680	female
-17.5	5461	female
-28.1	9903	female
-16.5	4260	female
-29.4	10121	female
-25.3	9867	male
-29.4	6044	female
-28.5	2585	male
-19.2	11323	female
-24.4	5934	female
-18.5	11833	female
-22	5680	male
-26.1	4041	male
-17.4	9029	male
-15.7	6044	male
-18	13762	male
-28	2731	male
-26.8	6517	female
-17.2	14454	male
-30.7	1238	female
-25.2	9757	female
-26.6	8774	male
-28.2	10158	female
-17.2	13981	female
-25	109	female
-23	9102	female
-17	14053	male
-24	5680	male
-29	5789	male
-20	5024	male
-29.9	8447	male
-30.9	10158	female
-20.5	6590	female
-18.8	14308	female
-31.7	7427	male
-29	4515	male
-17	12051	male
-31.2	9466	female
-24.8	6408	male
-27.6	10667	female
-30.5	5862	male
-28.7	801	female
-28.8	4587	male
-16.8	3568	female
-16.8	4333	female
-28.9	6954	female
-26.9	6481	female
-29.5	6917	female
-23.2	7937	male
-31.1	9939	male
-15.1	7791	female
-17.4	5680	male
-22.7	5388	female
-17.6	13252	male
-27.5	9138	female
-30.7	10231	female
-27.3	10449	male
-27.4	10558	female
-30.8	182	female
-18.2	9757	female
-17.7	6590	male
-28.4	10267	female
-28.4	8155	male
-25.5	2294	female
-27.7	8920	male
-23.4	837	female
-16.5	14490	male
-29.8	3386	female
-28.2	473	female
-17	14163	male
-29.2	6845	male
-17.6	11796	female
-31.5	9393	female
-29	1711	male
-18	9612	male
-28.3	2731	female
-20	14563	female
-26.9	9939	female
-17.4	11104	female
-29.6	2585	male
-23.4	5425	female
-17.1	2985	female
-26.1	7682	male
-17.4	5716	female
-29.7	8374	male
-30.6	1274	male
-28.7	4624	male
-28.2	5279	female
-30.9	2112	female
-21.5	6262	female
-25	73	female
-28.9	5789	female
-25.8	10558	female
-20	6699	male
-23.3	8010	male
-29.1	6517	female
-19.6	6553	female
-17.4	12597	male
-29.2	9393	female
-25	7718	male
-26.7	7100	male
-19.2	11323	female
-26.9	6153	female
-26.6	8738	male
-28.4	2330	male
-23	7937	male
-31.1	6189	male
-26.1	2621	male
-18.1	13799	female
-17.8	13689	female
+bmi,steps,gender
+20,10413,male
+21.3,13944,female
+17.2,12670,female
+17.5,4879,male
+29,4587,female
+27.6,8883,female
+30.1,8155,male
+26.2,2767,female
+31.2,6335,male
+26,7755,female
+29.4,7136,female
+31,9830,female
+30,8519,male
+17,11578,male
+29.2,9284,male
+28.5,2439,female
+28.2,10959,male
+28.5,7828,female
+17.4,4478,male
+21.5,6990,female
+31.3,983,male
+17.5,12925,female
+29.8,10558,male
+25,8374,female
+30,182,female
+29.1,6990,female
+29.7,7864,male
+16.8,8665,male
+27.8,6881,male
+19.1,5170,male
+28.7,5898,female
+29.8,11432,female
+29.1,7318,female
+23.1,12524,female
+17.4,12451,female
+29.2,5170,male
+26.1,9066,male
+27,2621,male
+19.1,14417,female
+16.5,8701,female
+31.5,8337,female
+27.3,5680,male
+28.7,8956,male
+31.6,1347,female
+21.9,11796,female
+31.4,7536,male
+24.8,182,female
+25,8192,female
+28.8,5133,male
+16.5,13726,male
+16.5,4442,female
+23.2,5316,female
+26.1,4114,male
+30.2,6153,male
+17.6,5206,male
+19.1,14417,male
+28.2,510,female
+31.4,2476,female
+29.5,4842,female
+17,8956,male
+29.8,3095,male
+27.8,10303,female
+20.9,10740,male
+27.4,6189,male
+29.9,5862,female
+17.8,6663,male
+26.1,4733,female
+23,12451,male
+27.9,9357,female
+28.2,2221,female
+25.5,2294,male
+26.3,7682,male
+28.9,1238,female
+30.6,473,female
+24.4,12779,female
+23.5,1383,female
+26.4,10850,female
+16.1,5934,female
+20.2,5097,male
+17,11432,female
+20.5,6663,female
+19.5,10667,female
+21,7209,female
+29.8,11323,male
+30,5934,male
+24.4,5971,male
+27.9,5680,male
+17.4,12306,female
+28,6262,female
+28.3,7864,male
+17,12015,male
+15.7,8738,male
+17.6,7245,female
+16.1,8956,female
+28.1,8847,female
+29.2,3095,female
+24.9,6408,male
+17.1,14126,female
+30.1,10340,male
+29.4,11468,female
+31.6,6553,male
+17.8,9284,male
+31.4,510,female
+29.8,10158,male
+26.8,2658,female
+29.2,9502,male
+18.4,6335,female
+17.1,4223,female
+30.2,6189,female
+31.8,8629,male
+26.1,9102,female
+17.7,9211,female
+30.3,7464,male
+31.7,9066,male
+26.1,3641,male
+26.8,10303,male
+29.6,3859,male
+28.2,510,female
+26.6,9721,female
+24.4,12706,male
+18,5170,female
+25.1,8774,female
+19.8,10340,male
+27.9,8483,male
+29.4,11468,female
+28.1,6335,female
+20.6,6990,female
+23.9,12743,male
+29.7,8410,male
+29.4,6917,male
+24.4,5898,female
+26.2,5243,female
+23.6,1566,female
+30.1,10886,female
+31.3,2476,female
+19.1,10231,female
+21,14199,female
+29.2,7354,female
+22,11869,male
+26.1,9430,male
+29.4,8665,male
+29,6845,female
+27,6226,female
+30.6,5971,female
+18.7,14272,male
+16.9,8847,male
+26,10667,male
+30.4,7136,female
+27.2,364,female
+28.9,9757,female
+25.4,12197,male
+27.9,10740,female
+17.6,7245,male
+29.4,9211,female
+15.6,6153,female
+26.4,10158,male
+26.7,8993,male
+28.2,5461,male
+29.4,10194,male
+31.7,7136,male
+25.3,6735,male
+27.6,7646,female
+25.1,7791,female
+28.4,6044,female
+31.4,6371,male
+17.2,12706,male
+27.1,328,female
+17.4,12415,male
+28.8,2803,female
+15.8,8811,female
+28.8,8847,female
+28.3,8119,female
+31.4,7864,male
+28.2,2367,male
+18,5133,male
+17.9,9539,male
+31.9,8010,female
+21.9,5752,male
+28.9,546,female
+27.5,9102,female
+27.4,5971,male
+17.3,7609,male
+21,10813,male
+28.7,5243,female
+25.2,6663,male
+22.5,12379,female
+19,6481,male
+29.4,8701,female
+18.8,6371,male
+30.1,9066,male
+29.2,9466,male
+28.4,8374,female
+29.3,3277,male
+29.6,2767,female
+29.7,5170,female
+26.2,9721,female
+26,2585,male
+29.7,5789,female
+17.1,11687,male
+22.3,5461,male
+29,7027,male
+26.7,218,female
+32,7755,female
+32,7864,male
+26.6,9684,male
+25.7,12051,female
+16.6,14891,female
+17,4697,female
+31.4,10413,female
+21.9,11687,male
+31.7,7172,female
+27.3,10485,male
+29.2,10667,male
+23.5,2512,female
+21.7,13325,male
+26.3,6262,male
+29.5,7755,male
+16.1,5898,female
+22,12961,male
+31.3,9430,female
+29.3,9466,male
+28.9,11833,male
+27.6,5825,female
+17,11942,male
+16.6,13107,male
+22.6,8920,male
+17.2,13726,female
+31.1,6699,female
+17.5,12961,female
+26.6,7755,female
+31.1,6663,male
+23.5,1820,female
+31.9,7136,female
+21.1,10922,male
+31.5,692,female
+29.2,9248,female
+31.2,1311,female
+17.4,4624,female
+28.7,4587,male
+19.3,14490,female
+30.3,6553,female
+25.6,2330,female
+28.2,6189,male
+31.5,6408,male
+23.3,5316,female
+25.7,36,female
+23.6,1493,female
+25.6,10194,male
+24,12743,male
+28.4,11505,male
+28.4,1784,female
+29.3,9248,female
+29.4,8847,female
+31.4,837,female
+26.1,8629,female
+30.4,2148,female
+22.4,8629,male
+20.1,10449,female
+18.2,9721,female
+16.9,4587,female
+29.1,6444,male
+16,8774,female
+25.4,6408,female
+29.5,4733,male
+16.8,4442,female
+29,9175,female
+30.3,7427,male
+28.1,8920,female
+26.1,5716,male
+30.3,1383,female
+28.8,583,female
+24.2,364,female
+22,8301,female
+28.3,2403,male
+31.4,692,male
+17.3,3568,female
+30,10995,female
+26.1,9248,female
+19.5,14563,female
+20.1,14600,male
+31.6,1420,female
+25.3,109,female
+16.8,3604,female
+25.5,10194,male
+28.3,8083,female
+28.3,2330,female
+28.4,11541,male
+26,8556,male
+17.6,9211,male
+27.9,7973,female
+30.3,5716,female
+29.3,7136,male
+15,8447,male
+16.7,5206,female
+29.5,2112,female
+30,5461,male
+26.2,6590,female
+30.2,8410,female
+27.7,6845,female
+17.1,3022,male
+30,5971,male
+27.6,8883,male
+30.6,6044,male
+31,2803,female
+26.7,6735,male
+17.1,3532,male
+31.4,765,female
+21.9,11760,female
+31.3,6990,female
+15.2,8774,male
+31.5,8010,male
+31.5,9684,female
+31.5,9248,female
+29.2,8592,male
+26.6,6699,female
+28,8519,female
+24.6,12706,male
+23.9,9502,female
+27,10231,female
+17.6,6117,female
+28.7,11723,female
+18.4,5206,male
+16.6,14891,female
+17,14818,male
+25.7,2439,female
+21,7282,male
+17.5,13471,male
+17.2,12743,male
+31.5,9867,female
+27.7,9320,male
+29.1,9138,female
+17.4,5752,female
+17.4,12197,female
+29.8,11286,female
+20.7,5425,female
+16.9,13180,female
+22.8,12379,male
+23.1,7900,female
+19.4,10813,male
+21.2,6189,male
+30.3,6808,male
+15.3,8883,female
+31.4,7245,female
+15.2,8811,male
+28.3,6153,male
+21.3,6189,female
+27,328,female
+31.1,6226,female
+31.6,2002,female
+28.1,8956,male
+29.3,3350,male
+21.5,6080,female
+30.3,9502,male
+27.9,7900,male
+28,9248,male
+16.5,14199,female
+30.1,8956,male
+20.4,6917,female
+29.4,11432,female
+26.3,2621,female
+28.7,5243,male
+26,5789,male
+28.5,11177,female
+30.3,10667,male
+31.3,10340,female
+29.8,3167,female
+27.7,2512,male
+29.6,11796,female
+29.4,10231,male
+29.1,9357,male
+16.5,3932,male
+27.1,10158,female
+27.9,7864,female
+27.4,2549,male
+29,10595,female
+19.3,6481,female
+20.1,5061,male
+30.1,8701,male
+30.2,7937,female
+29.5,11468,male
+29.3,3240,female
+27.7,8811,female
+16.5,14163,female
+24.8,12597,male
+16.7,4187,female
+26.7,2621,male
+29.1,8920,female
+16.9,4405,male
+29.5,10012,male
+29.3,7318,female
+27.9,6845,female
+31.6,6553,male
+28.7,5170,female
+25,9102,male
+16.5,4296,male
+28.3,2549,female
+28.6,364,female
+31.5,9903,male
+30.8,2767,male
+22.5,12233,male
+22.1,5570,male
+17,14272,female
+19.2,5170,female
+29.3,11869,female
+21.5,5971,female
+28.8,8774,female
+31.4,2621,male
+30,874,female
+19.8,14563,male
+29.5,11614,female
+19.3,14527,male
+17.5,13689,male
+29.5,11687,female
+30.7,6007,female
+28.3,2476,male
+23.4,12597,male
+23.5,3859,female
+26.5,5534,female
+28.9,1493,female
+26.1,4988,female
+15,8192,female
+28.4,11541,female
+29.3,437,female
+28.7,11177,female
+18.4,14017,female
+16.7,4114,male
+27,6262,female
+31.8,7136,male
+29.5,10704,male
+30.1,5971,male
+21.6,7718,male
+22.5,5425,female
+18.4,5279,female
+31.3,9466,male
+20.5,14490,female
+28.7,7391,male
+30.2,9029,male
+28.9,8738,male
+23.3,7973,male
+30.8,2184,female
+30.1,6007,male
+30.5,36,female
+30.4,5752,female
+30.9,1201,female
+29.5,11833,male
+26,7718,male
+15.7,9102,female
+16.5,14672,male
+26.4,9757,female
+19.7,5097,female
+25.6,12015,female
+24.7,9320,female
+20.9,6408,female
+17.4,7755,male
+16.1,5934,male
+22.2,12670,male
+30.5,10522,male
+31.9,8337,female
+28.5,1675,female
+26.1,4405,male
+19.7,5061,female
+31.4,2767,female
+30.6,73,female
+27,5570,male
+28.7,1092,female
+23.5,3568,male
+28.6,11650,female
+26.1,11068,female
+30,146,female
+22,12888,female
+18.9,5206,female
+28.7,10485,female
+16,8774,female
+24.4,12743,male
+30.9,400,female
+29.4,6990,female
+25.9,5789,female
+19.6,6517,male
+26.6,7318,female
+27.2,6153,female
+29.2,5170,female
+21.3,7464,female
+17,3277,male
+17.2,8993,female
+30.6,10413,male
+30.1,9466,female
+29.1,5752,male
+29.6,11869,male
+21.5,13653,female
+28.7,5206,female
+29.8,11614,male
+26.7,10850,female
+24,546,female
+29.7,11068,female
+16.8,3022,male
+29,6444,male
+17,11650,male
+20.6,6553,female
+30.3,9976,female
+29.6,3859,female
+26.8,5570,male
+22.1,11869,male
+23,12488,male
+30.3,9539,female
+30.7,1238,female
+27.7,8811,male
+31.4,7500,female
+17.6,13398,female
+31.4,9175,female
+25.9,10558,male
+29.6,3896,female
+27.8,6044,female
+20,10376,female
+17.7,9284,female
+26.6,7209,male
+16.9,11141,male
+16.4,8701,male
+26.6,8738,male
+29.4,3677,male
+31.2,2112,female
+29.1,7172,female
+24.6,9502,male
+27.4,10631,male
+16.8,5570,male
+22.9,9102,female
+29.8,4915,male
+31.3,947,female
+23.8,9502,male
+28.1,2840,female
+29.9,8410,male
+26.6,7136,female
+29.3,11250,male
+29.8,4988,male
+28.8,9466,female
+20.8,10631,female
+23.5,3823,female
+29.6,9430,female
+31.4,10231,female
+19.2,10231,male
+16.9,3641,female
+17.1,3604,female
+27.7,7464,male
+22.6,7900,female
+17.4,11068,male
+21.9,11760,male
+18.1,6371,male
+29.3,9248,female
+29.6,400,female
+29.5,9102,male
+29.2,364,female
+25.9,36,female
+17.1,14636,female
+17.4,13871,female
+17,8811,male
+19.4,5133,female
+15.1,8374,female
+17,3459,female
+18.5,14163,female
+21.7,13434,male
+28.4,5352,female
+28.8,4587,female
+25.6,36,female
+26.5,9721,female
+29.1,7354,female
+29.3,3313,female
+21.9,8010,female
+16.6,3350,male
+29.2,11250,male
+19,11541,female
+17.1,12743,female
+23.1,5388,male
+27,6335,female
+19.6,6517,male
+26.7,6044,female
+28,5570,male
+29.5,5680,female
+30.6,10376,male
+20.4,5170,male
+17.9,11468,female
+26.6,2621,female
+16.5,12816,male
+29.5,6117,female
+26.1,4587,female
+26.7,5607,male
+29.4,11541,male
+17.4,7937,female
+18,6262,female
+17.5,12888,female
+23.2,12524,male
+16.9,5971,male
+24.1,5716,male
+22,11833,female
+29.3,6189,female
+29,11833,female
+29.6,437,female
+31.6,9211,female
+18.6,9939,female
+24.3,5789,male
+20.9,7209,female
+18.8,11687,male
+28.7,9393,female
+25.4,6371,male
+17.2,3240,female
+30.4,5789,female
+28.3,10340,male
+29,8665,male
+21.3,6153,male
+27.7,5825,male
+27.9,8447,male
+16.5,13507,male
+17.1,14527,male
+25.8,36,female
+16.7,3240,male
+28.3,4879,male
+23.5,4478,male
+26.6,5534,male
+30.2,9066,female
+28.6,8337,male
+16.7,14417,male
+31.2,9539,female
+31.4,9102,female
+26.9,291,female
+17.5,13544,female
+28.5,1966,female
+29.2,9211,female
+29.8,3313,female
+29.9,7682,male
+20.5,6881,female
+26.2,4806,female
+16.6,4915,female
+17.6,13034,female
+17.7,6153,male
+17.1,11760,male
+22,12998,male
+31.3,400,female
+25.2,6808,male
+31.4,874,male
+18.1,11796,male
+31,1165,male
+29,7172,female
+21.3,6117,male
+17,11687,female
+17.6,13799,male
+23.8,874,male
+29.3,6153,female
+29.4,11177,male
+29.2,9903,female
+19.4,11032,female
+31.1,9757,male
+27.4,6226,male
+29.8,8447,female
+18.3,5243,female
+31.3,7027,male
+17.4,13871,male
+18.9,10121,male
+28.6,7755,female
+16.5,4478,female
+29.6,2512,male
+30,6699,female
+17.9,13762,male
+28.9,7245,male
+17.4,4442,male
+29.1,11833,male
+26.8,6735,female
+17.9,11650,male
+17.6,7282,female
+26.7,6117,female
+27.1,5680,female
+29.8,10558,male
+18.9,10085,female
+21.4,6044,female
+22.4,12488,male
+28.9,1420,female
+15.4,6299,female
+30.1,9502,male
+23.9,546,female
+29.3,5061,male
+29.8,3641,female
+26.3,6189,female
+28,7646,female
+25,8265,female
+30,9466,female
+19.7,14600,female
+20.6,5352,female
+23.4,4879,female
+28,10850,male
+28.9,1383,female
+17.8,11505,female
+26.9,2658,male
+23.3,5425,male
+26.1,7646,male
+29.2,9066,male
+23.6,1711,female
+28.9,9684,female
+28.1,11068,female
+29.7,11214,male
+29.8,11068,female
+28.5,4733,male
+17.6,5206,male
+23.5,2184,male
+23,7864,female
+16.7,14417,female
+17.1,8701,female
+26,7937,female
+21.8,13252,female
+17.1,3641,male
+17.5,4697,male
+23.5,2367,male
+17.3,6117,male
+16.8,14964,male
+26.5,6626,male
+16.9,3786,female
+31,6117,female
+27.6,6845,male
+26.2,6663,male
+28.9,546,female
+29.9,5789,female
+30.6,0,female
+29.1,11905,male
+17.5,5279,male
+21.1,6007,male
+26.5,146,female
+29.3,7209,female
+29.9,8483,male
+28.6,6990,female
+17.6,11760,male
+31.4,8920,female
+30.6,2767,female
+17,12051,male
+22.7,7937,male
+25.2,73,female
+29.3,7354,male
+23.7,1019,female
+24.5,12743,female
+16.5,4296,male
+29.3,9867,male
+17.7,9211,female
+25.9,11687,male
+31.2,9393,female
+30.4,1347,male
+17.6,13107,male
+17.1,8228,female
+19.2,6444,male
+25.2,36,female
+16.9,8956,male
+26.2,6299,female
+28.1,6408,male
+27.8,10777,female
+30.5,10558,female
+29.4,11359,male
+29.1,7063,female
+23.3,5425,female
+29.6,5206,male
+30,801,male
+31.5,7755,female
+26.3,7682,male
+17,8738,male
+29.3,5170,female
+17.7,13726,male
+16.5,4515,female
+27.3,10704,male
+28,7682,male
+29.1,7391,female
+17.2,13944,male
+28.1,10049,female
+17.3,14126,female
+16.9,14308,female
+16.5,14600,female
+24.2,5825,female
+18.3,6371,female
+31.7,8629,female
+26.5,10850,male
+17.2,13762,female
+21.5,6189,male
+28.3,7900,female
+31.4,2731,male
+17,11177,female
+30,10012,female
+28.5,2621,male
+18.7,9976,female
+29.1,400,female
+18.2,5243,female
+29.1,9248,female
+16,8993,male
+22,8010,male
+30.3,73,female
+20.4,14490,female
+15.1,7755,male
+23,9102,female
+31.7,9066,male
+29.4,10085,female
+28.7,7209,female
+26.1,2585,male
+19.3,11250,male
+17.4,6080,female
+21.7,11541,female
+29.5,8701,female
+26.1,8556,male
+21.1,14017,male
+28.3,11032,female
+17.3,3568,female
+24.2,5825,female
+25.3,9612,male
+28.4,11141,female
+16.6,14782,male
+17,11760,male
+30.8,437,female
+28.4,2476,female
+17.1,3896,female
+23.4,2767,female
+31,437,female
+27.8,10704,female
+28.7,7027,male
+29.8,5752,male
+29.2,8847,male
+29.4,9320,male
+29.2,7245,male
+27.6,510,female
+26.7,5570,female
+17.6,5133,male
+17.5,11796,male
+26.6,7573,female
+25.7,2403,female
+22.4,12197,male
+17.3,8046,female
+29.6,7828,male
+29.6,10667,male
+17.7,6699,male
+17.5,7828,female
+17,8701,female
+22.5,5461,male
+28.1,9211,female
+26.2,2585,female
+26.1,10704,female
+23.3,9248,male
+17,12925,male
+22.4,7937,female
+26.1,7609,female
+26.1,4624,female
+28.1,7354,male
+30.8,2112,male
+21.1,7318,male
+29.4,6299,male
+17.4,6808,female
+17.1,4296,female
+28.3,510,female
+29.3,8774,male
+30.3,9175,female
+20.5,10558,male
+29.7,4587,male
+27,10813,male
+23.4,2731,female
+29.1,8993,male
+31.2,2330,female
+29.6,9939,male
+27.8,7318,female
+30.5,2112,female
+26.1,73,female
+24.9,6444,female
+17,11141,female
+29.5,8993,female
+23.4,9284,male
+29.2,1820,male
+31.1,6772,female
+21.8,11650,male
+26.1,9248,female
+30,10959,female
+29.4,4988,male
+29.2,1784,female
+30,6626,female
+28.5,8046,male
+26.1,6735,female
+27,5570,male
+31,400,female
+27.5,10485,female
+28.2,5388,female
+28.5,6044,female
+27,2621,male
+17.6,5061,male
+29.5,3859,male
+26.1,4915,female
+17.2,3095,female
+15.1,7354,female
+15,7900,female
+19.1,11468,female
+16.7,5316,female
+28.7,6954,female
+29.4,7609,female
+30,8665,female
+17,4114,female
+18.2,11833,female
+19.7,14563,female
+27.8,7245,male
+17,11068,male
+26.4,10813,male
+17.3,4078,male
+28.1,7136,female
+29.3,6117,male
+26,2549,female
+25.7,2367,male
+29.8,11323,male
+31.8,7282,male
+31.3,7136,female
+24.3,12743,female
+29.4,4842,male
+21.7,13362,female
+30.3,9102,male
+29.5,11614,female
+17.9,5133,female
+25.5,10231,male
+26.6,5570,female
+15.7,5971,male
+22.8,12415,female
+31.7,1602,female
+23.6,1493,female
+25.8,2476,female
+28.4,437,female
+31.1,6262,male
+26.9,10777,male
+27.6,10631,male
+18.3,13908,female
+28.9,473,female
+16.9,8811,male
+23.5,2731,male
+31.1,2294,male
+29.4,7500,male
+26.1,73,female
+23.3,5133,male
+17.4,12633,male
+31.8,7245,female
+22.6,8811,female
+29.7,10158,male
+23.7,12670,male
+26.5,7682,female
+29.1,7209,male
+29.9,5825,female
+23.6,1493,female
+28.2,546,female
+31.3,7209,female
+21,5716,male
+20.5,5279,male
+16.3,5934,male
+28.6,2585,female
+17.1,11723,female
+31.9,8337,female
+28.1,7318,female
+28.4,437,female
+31.5,692,female
+30.3,9867,male
+21.4,7536,male
+17.9,5024,male
+27.7,10449,male
+25,109,female
+29.6,11104,female
+16.6,3532,male
+16.6,12925,female
+24.3,5862,female
+30.8,2803,female
+27.6,8847,male
+16.5,4150,male
+23.5,1930,female
+20.1,14563,male
+29.1,9138,male
+17.2,8592,female
+24.6,12670,male
+29.4,3568,male
+17.4,4369,female
+27.9,7791,female
+31.4,7900,male
+30.8,6153,female
+16.8,5898,male
+22.2,12670,female
+29.3,6262,male
+24,9539,male
+21,6444,male
+21.6,6117,female
+18.3,11869,female
+29.5,8629,female
+28.5,1966,male
+17.7,5206,female
+24.8,182,female
+22.6,8847,male
+31.6,6699,female
+25.4,9976,female
+29.4,6990,male
+28.3,4879,female
+17.4,12342,male
+17.2,7500,female
+30.6,2075,male
+25.1,6735,male
+25.4,6408,male
+25.7,36,female
+18.8,14345,female
+21.1,5862,female
+21.6,7718,female
+26.2,9502,female
+29.1,11250,female
+17,4806,female
+17.6,11796,female
+30.6,510,female
+25.1,8993,male
+16.5,13580,male
+17.4,4660,male
+28.6,2221,male
+26.6,7609,male
+22.9,8993,male
+29.1,11869,male
+30.1,6044,female
+28.5,10340,male
+29.8,8374,male
+22.5,5461,male
+19.4,6517,female
+21.9,13107,female
+16.5,3823,female
+17.8,11541,female
+21.5,6153,male
+31.3,7209,male
+25,12488,male
+23.5,1529,male
+25,8592,female
+30.4,10667,male
+18.6,6444,female
+20.9,7136,female
+20.9,7209,female
+23.1,12524,male
+16.5,4369,female
+16,8993,female
+26.1,8738,male
+27.7,7464,male
+28.6,2621,female
+17.2,9066,female
+23.5,2803,female
+29.5,6444,male
+29.3,6080,female
+29.1,1784,female
+30.3,10012,male
+25.9,10595,female
+25.2,6735,male
+17.4,6881,male
+29.2,8920,male
+17.7,4879,female
+30.3,692,female
+31.5,9248,female
+21.8,11650,male
+26.6,6626,female
+22.1,8046,female
+15,8155,female
+26.6,8410,male
+17,8738,female
+16.9,13143,male
+27.4,6044,female
+28.5,473,female
+16.9,8847,female
+21.7,11541,female
+18.1,6299,female
+29.3,11869,male
+28.3,11468,female
+19,11650,male
+16,5971,female
+27.8,5716,female
+30.1,5534,female
+30.1,765,female
+30.3,7536,female
+29.5,6954,male
+21.7,13398,male
+28.7,1638,male
+25.7,2367,female
+29.6,10231,female
+18.3,11905,male
+29.7,5243,male
+31.2,6371,male
+29.6,5206,male
+20.9,5534,male
+31.1,2803,female
+29.4,7318,male
+31.1,1056,male
+28.9,9648,male
+23.5,1420,female
+30.2,8155,male
+17,5934,female
+25,8228,female
+26.6,6080,female
+30.4,36,female
+26.8,6699,male
+28.3,5388,female
+26.1,10704,male
+16.5,13252,male
+17.8,9466,male
+29.5,4769,female
+31.7,8993,female
+24.4,12706,female
+17.1,4333,female
+27.6,2549,male
+19.2,11177,male
+17.4,7973,female
+26.2,6626,female
+29.7,6189,female
+29,4551,male
+27.9,6153,male
+20.2,6772,female
+23.9,546,female
+25.1,7937,female
+30.1,6044,female
+29.5,6444,female
+30,8774,male
+26.6,8592,male
+26.4,5570,female
+16.6,12670,male
+19.7,14600,male
+23.4,4915,female
+29.5,11505,female
+28.5,11650,female
+28.8,9357,male
+29.6,5752,male
+30.4,5752,male
+27.6,5789,female
+28.7,6772,female
+26.7,9393,female
+28.6,2294,female
+26.6,8556,male
+18.4,9830,male
+22.3,5534,male
+27.5,473,female
+26.8,9794,male
+32,7937,male
+29.4,7464,female
+18.1,11833,female
+26.6,7973,female
+26.2,2840,female
+30.2,8920,female
+17.1,8665,male
+28.4,7573,male
+18.9,6408,male
+30,10413,female
+25,7682,female
+30.1,5461,male
+28.5,2039,female
+31.5,9648,female
+18.9,14308,female
+29.8,3240,male
+29.9,10995,male
+24.6,9466,male
+31.5,9539,female
+28.9,8738,male
+28.5,7937,female
+23.4,3386,female
+25,8265,female
+31.3,2039,female
+21.6,6007,female
+27.7,583,female
+26.6,7864,female
+21.5,6299,male
+17.4,4442,female
+28.3,10194,female
+17,8993,female
+26.1,4114,male
+24.5,255,female
+15.1,8592,female
+16.7,5243,female
+17.1,14017,male
+29.2,10667,female
+16.8,9029,male
+31.3,2112,male
+30.8,2075,female
+18.7,11760,male
+29.5,3786,female
+19.5,10777,male
+20,5061,female
+15,8556,male
+26.4,2621,female
+30.5,2148,female
+29.2,7100,male
+19.6,10267,male
+17.6,11359,male
+21.5,7027,female
+28.7,11177,female
+17,3131,female
+25.6,2330,male
+26.9,2658,female
+29.5,9430,male
+17.4,7718,male
+17.3,3313,male
+31.7,1930,male
+27.5,5789,female
+15.7,8738,female
+31,6444,male
+19.4,6553,female
+31,1274,female
+29.7,10595,male
+17.5,11323,female
+29.6,9721,male
+17.6,7172,female
+22.5,5425,female
+27.4,10267,male
+30.9,400,female
+27.9,9357,female
+17.5,13762,male
+30.9,10085,female
+31,6481,male
+16.8,12269,female
+26.6,8738,female
+26.1,3058,male
+16.8,3131,female
+18.7,14199,female
+30.5,2112,female
+27.5,10522,male
+25.7,6007,male
+16.9,4478,male
+25.3,73,female
+26.6,7646,male
+31,9830,male
+23.4,5061,female
+22.3,12597,male
+17.3,8010,female
+29.3,1930,male
+30.9,6226,female
+18.3,11905,male
+24.1,437,female
+29.3,7646,male
+29.4,8993,male
+19.5,6553,female
+19.1,11359,female
+28.7,2694,female
+31.1,1274,female
+27.5,9029,female
+20.6,5279,female
+17.4,12233,female
+24.4,12706,male
+17.4,4660,male
+29.5,10267,male
+26.2,5352,male
+29.2,5752,female
+21.8,11723,male
+23.5,3313,female
+26,7573,female
+28.7,5206,male
+29.6,2694,female
+28.9,218,female
+22.9,5352,male
+28.5,4697,female
+25.9,11614,male
+29.1,9393,male
+31.1,1274,female
+30,9830,male
+29.8,7864,male
+26.6,8701,male
+29.5,437,female
+29.7,2840,male
+30.1,8374,female
+30.2,109,female
+26.1,6772,male
+22.6,12269,male
+26.2,6517,male
+21.8,5825,female
+26.7,9612,male
+24.9,6444,female
+27.1,6153,male
+17,2985,female
+29.2,6808,male
+17.1,11978,male
+26.7,10303,female
+29.3,8665,female
+17.6,13762,male
+27.3,10631,female
+31.3,10303,male
+31.2,10121,female
+21.5,6845,male
+23.5,3714,female
+29.4,2112,female
+29.1,7209,female
+28.7,874,male
+17.4,6917,male
+28.8,11250,male
+29.4,11177,male
+28.5,8119,male
+29.5,11869,female
+16.7,8629,female
+29.4,7063,female
+26.1,3422,male
+31.9,8701,male
+17.2,8337,female
+21.5,13617,male
+17.2,8629,female
+26.1,4879,male
+29.3,6044,male
+30.2,8556,male
+15.1,7282,female
+15.9,8811,male
+16.9,11250,male
+17.3,8447,male
+31.4,6262,female
+24.7,12706,female
+23.2,7937,female
+32,7354,male
+23.1,5388,female
+30.1,728,female
+31.1,400,female
+17.6,6262,male
+21.8,7973,female
+25.7,10413,female
+16.6,3495,female
+20.9,14199,female
+28.7,4697,female
+27.8,5716,male
+28.4,11104,female
+22.9,9029,male
+15.9,5898,male
+31.1,2148,female
+25.7,2403,female
+22.2,12633,male
+21.6,13580,male
+23.8,5570,female
+17.4,6189,male
+17,11905,female
+30.2,6189,female
+17.1,3459,female
+28.9,2803,male
+28.2,10158,female
+21.3,6189,male
+23.6,1238,female
+24.2,12779,male
+16.7,14927,female
+25.1,7718,male
+30.2,2694,female
+26.5,7718,male
+28.9,10558,female
+26.7,7464,female
+26.4,5570,female
+22.8,9029,female
+17.9,6299,male
+26.2,5498,female
+28.5,2039,female
+22.9,12488,female
+28.3,10267,male
+16.8,4260,male
+30.4,6699,female
+26.1,7209,male
+21.4,6044,female
+23.7,983,male
+17.1,3859,male
+29.5,4733,female
+16.2,8665,female
+30.1,9430,male
+28.6,1675,male
+31.4,10121,male
+30.1,9430,female
+29.4,364,female
+29.2,6481,male
+26.6,6117,male
+28.3,3058,male
+31.3,10340,male
+27,10158,male
+29.4,11869,male
+20.9,14235,female
+30.3,7318,male
+17.6,13799,female
+29.4,4478,female
+27,10121,female
+21.9,13107,female
+20,6735,female
+26.1,4842,male
+30.3,5643,female
+18,6262,female
+29.5,11578,female
+29.4,8847,male
+25.4,12342,female
+19.9,6699,male
+19.3,5133,male
+23.1,5461,female
+22.1,8410,male
+29.8,6335,male
+28.5,364,female
+28,2767,female
+30.3,7100,male
+17.1,3823,male
+31,2112,male
+26.6,8228,female
+29.9,9976,male
+29,9867,male
+21,10813,male
+25.4,6371,male
+16.5,13434,female
+29.9,8483,female
+22.9,9066,female
+31.4,7536,male
+27.8,10413,male
+30.6,10413,male
+16.5,5934,female
+17.3,6117,female
+23.5,4187,male
+23.9,583,female
+26.2,2621,male
+23.2,9248,male
+29.5,10667,male
+25.6,6189,female
+29.3,7318,female
+29.8,6262,male
+22.2,8483,female
+25.5,6189,male
+28.3,2694,female
+15.3,6408,female
+20.6,14417,male
+28.8,291,female
+28.5,11614,male
+30,109,female
+15.2,6845,female
+23.5,1529,female
+16.7,3095,female
+29.2,11833,female
+25.7,11942,female
+28.3,10194,male
+17.2,8374,female
+26.8,9612,male
+25.1,6772,female
+31.3,983,female
+29.1,6917,male
+26.6,8701,female
+28.3,11396,female
+30.7,473,female
+16.9,13216,female
+15.1,8701,male
+17.9,5097,male
+17.2,13835,female
+31.6,9175,male
+17.1,3677,male
+21,6371,female
+23.5,3422,male
+17.4,11032,female
+28.6,400,female
+27.7,5934,female
+22.7,5425,male
+31.9,8192,female
+16.8,2985,female
+22.4,12124,male
+29.8,5352,female
+16.4,5934,female
+29.8,3495,female
+24.6,9648,male
+17.6,13835,male
+28.9,10631,male
+30.7,36,female
+16.6,3240,female
+16.5,13762,male
+23.5,1966,male
+20.3,10485,male
+27.3,10449,male
+17,4223,female
+30.6,473,female
+18.1,9648,male
+26.6,182,female
+27.1,10231,male
+28.3,8083,female
+17.6,7136,male
+26.1,4405,female
+30.6,5898,female
+30.1,10340,male
+25.4,10121,female
+22.2,8010,female
+29.3,6299,female
+27,2621,female
+26.3,5570,female
+17.5,5607,male
+16.5,14782,male
+24.2,364,female
+30.7,2767,male
+27.2,437,female
+23.5,2221,female
+21.9,11723,female
+15.6,6080,female
+21,5825,female
+23.5,2403,male
+16.7,12342,male
+15.4,6299,male
+26.2,7682,male
+26.4,2621,male
+28.4,8301,female
+23.2,5425,male
+21.2,14053,male
+30.2,7682,male
+30,9721,female
+29.5,6517,female
+16.9,8847,male
+29.8,11505,female
+23.2,9211,male
+30.1,8774,male
+31,2148,female
+31.6,1966,female
+26.2,2876,male
+29.3,5024,female
+26.2,10704,male
+30.5,10558,female
+31.5,2039,female
+21.5,13689,male
+24.7,6226,male
+29.2,4478,female
+15.6,9066,female
+22,11833,male
+25.9,2512,female
+26.1,8410,female
+25.2,6808,female
+28.8,510,female
+17.5,4769,male
+31.3,7282,male
+29.6,9575,male
+17.6,4915,male
+18.2,5170,female
+25.2,9612,female
+27.5,10558,male
+31.2,1311,female
+26.6,7755,female
+16.5,13289,female
+31.3,2767,male
+29.3,9320,male
+23.5,5425,female
+29.2,7646,male
+30.2,8629,male
+16.6,4842,male
+29.4,8629,female
+30.8,255,female
+31.9,8592,male
+16.7,5934,female
+17.5,13507,female
+22,5680,female
+17,11104,male
+29.5,9867,male
+29,7646,female
+30.6,10376,female
+31.2,6772,female
+17.5,5534,female
+30,9648,female
+17.4,13981,female
+26.6,8592,female
+29.1,4551,female
+17,11541,female
+28.5,7718,female
+26.7,7354,female
+15.1,7464,male
+28.8,5789,female
+27.6,510,female
+28.8,6626,female
+29.5,11687,female
+24,12779,female
+27.1,5680,male
+26.1,2658,male
+26.4,7646,female
+16.9,3095,male
+28.7,4660,male
+20.3,14563,female
+25.1,12488,male
+23.2,5352,female
+17.1,8665,female
+17.2,3313,female
+28.3,546,female
+28.3,8010,female
+26.2,9757,female
+26.6,9684,female
+28.9,1456,female
+29.6,4587,male
+17,11396,female
+30.3,6335,female
+25.3,73,female
+18.8,6444,male
+16.5,14636,male
+30.7,510,female
+26.8,6772,female
+29.7,6262,male
+20.5,5316,female
+31.2,2876,female
+25.7,11942,male
+16.7,5279,female
+26.1,8811,female
+29.2,11869,female
+30.3,10704,male
+29.3,11323,male
+27.3,6117,male
+30,5898,male
+16.5,3714,male
+26.3,2658,female
+26.6,10850,female
+22.2,12706,female
+29.5,10667,male
+17.7,9175,female
+21.2,7354,male
+22.7,5388,male
+31.3,2476,female
+17.1,13908,male
+16.5,13398,female
+16,8847,female
+30.4,6990,male
+29.5,6663,male
+22.5,12269,male
+28.1,8883,male
+26,2512,female
+27.6,7536,male
+29.2,364,female
+22.6,5425,female
+22.4,12451,female
+24.9,9211,female
+16.5,4223,female
+16.5,13981,male
+25.6,2294,female
+31.3,9357,female
+31.4,7500,female
+31.6,6735,female
+17.2,13689,male
+28.3,5352,female
+30.9,2112,female
+15.2,6772,male
+31.2,1092,female
+16.7,3095,male
+16.4,8665,female
+24.1,12743,female
+32,8629,male
+17,8701,male
+29,9138,female
+18,6335,female
+15.3,8920,male
+27.4,6189,male
+31,1165,male
+17.6,11250,male
+30.3,6917,female
+25.7,10340,female
+31.4,2075,male
+20,14600,male
+26.1,7646,female
+24.5,6007,female
+20.6,6553,female
+31.5,8119,female
+26.1,3750,female
+28,5498,female
+26.5,5570,female
+17.5,5643,female
+31.3,2403,female
+28.5,1930,male
+22.9,5352,female
+31.5,9830,female
+29,9284,female
+30.6,2731,female
+30.3,1383,female
+25.1,6663,female
+31.3,9102,male
+23.6,874,female
+27.2,10704,female
+25.1,7282,female
+21.9,13143,male
+26.7,9539,female
+31.3,10194,male
+30.9,6335,female
+16.6,12816,male
+20.8,14308,female
+26.6,8738,male
+17.5,5316,female
+16.8,5388,female
+26.3,6153,female
+20.9,5680,male
+23.1,7900,male
+18.7,5206,male
+27.3,10485,male
+19.6,14563,female
+23.5,9284,female
+30,7718,female
+19,10085,male
+29.6,11869,male
+31.5,9211,male
+31.7,7209,female
+21.3,10995,female
+25.1,7391,female
+21.2,10922,male
+17.4,12561,male
+30.5,510,male
+27.9,10886,female
+29.8,3277,male
+18.6,9939,female
+16.6,12524,female
+29.4,10704,female
+29.8,3532,female
+16.8,5680,female
+17.5,5461,female
+28.1,9903,female
+16.5,4260,female
+29.4,10121,female
+25.3,9867,male
+29.4,6044,female
+28.5,2585,male
+19.2,11323,female
+24.4,5934,female
+18.5,11833,female
+22,5680,male
+26.1,4041,male
+17.4,9029,male
+15.7,6044,male
+18,13762,male
+28,2731,male
+26.8,6517,female
+17.2,14454,male
+30.7,1238,female
+25.2,9757,female
+26.6,8774,male
+28.2,10158,female
+17.2,13981,female
+25,109,female
+23,9102,female
+17,14053,male
+24,5680,male
+29,5789,male
+20,5024,male
+29.9,8447,male
+30.9,10158,female
+20.5,6590,female
+18.8,14308,female
+31.7,7427,male
+29,4515,male
+17,12051,male
+31.2,9466,female
+24.8,6408,male
+27.6,10667,female
+30.5,5862,male
+28.7,801,female
+28.8,4587,male
+16.8,3568,female
+16.8,4333,female
+28.9,6954,female
+26.9,6481,female
+29.5,6917,female
+23.2,7937,male
+31.1,9939,male
+15.1,7791,female
+17.4,5680,male
+22.7,5388,female
+17.6,13252,male
+27.5,9138,female
+30.7,10231,female
+27.3,10449,male
+27.4,10558,female
+30.8,182,female
+18.2,9757,female
+17.7,6590,male
+28.4,10267,female
+28.4,8155,male
+25.5,2294,female
+27.7,8920,male
+23.4,837,female
+16.5,14490,male
+29.8,3386,female
+28.2,473,female
+17,14163,male
+29.2,6845,male
+17.6,11796,female
+31.5,9393,female
+29,1711,male
+18,9612,male
+28.3,2731,female
+20,14563,female
+26.9,9939,female
+17.4,11104,female
+29.6,2585,male
+23.4,5425,female
+17.1,2985,female
+26.1,7682,male
+17.4,5716,female
+29.7,8374,male
+30.6,1274,male
+28.7,4624,male
+28.2,5279,female
+30.9,2112,female
+21.5,6262,female
+25,73,female
+28.9,5789,female
+25.8,10558,female
+20,6699,male
+23.3,8010,male
+29.1,6517,female
+19.6,6553,female
+17.4,12597,male
+29.2,9393,female
+25,7718,male
+26.7,7100,male
+19.2,11323,female
+26.9,6153,female
+26.6,8738,male
+28.4,2330,male
+23,7937,male
+31.1,6189,male
+26.1,2621,male
+18.1,13799,female
+17.8,13689,female
