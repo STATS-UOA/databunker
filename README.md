@@ -242,6 +242,15 @@ Daily 'non-accidental' deaths in Chicago, together with temperature and air poll
 
 Bird abundance data (97 species) for each olive farm (plot). Each farm is catalogued according to the level of landscape complexity (high; intermediate; low) and the type of management of the ground cover (extensive or intensive).
 
+## [`amazon_top_50_books.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/amazon_top_50_books.csv)
+
+[Source](https://www.kaggle.com/datasets/chriskachmar/amazon-top-50-bestselling-books-2009-2022?resource=download)
+
+**Summary**
+
+Used dataset from Amazon Top 50 Bestselling Books 2009 - 2019 for Coursera Google Data Analytics Certificate capstone case study project, scraping Amazon with R to add data from 2020, 2021, and 2022 (January 1 to March 26, 2022)
+
+
 ### [`bacteria.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/bacteria.csv)
 
 [Gottenbos, B., van der Mei, H. C., & Busscher, H. J. (2000). Initial adhesion and surface growth of Staphylococcus epidermidis and Pseudomonas aeruginosa on biomedical polymers. Journal of Biomedical Materials Research: An Official Journal of The Society for Biomaterials, The Japanese Society for Biomaterials, and The Australian Society for Biomaterials and the Korean Society for Biomaterials, 50(2), 208-214.](https://doi.org/10.1002/(SICI)1097-4636(200005)50:2%3C208::AID-JBM16%3E3.0.CO;2-D)
