@@ -259,6 +259,14 @@ Used dataset from Amazon Top 50 Bestselling Books 2009 - 2019 for Coursera Googl
 
 The infection risk of biomaterials implants varies between different materials and is determined by an interplay of adhesion and surface growth of the infecting organisms. The authors compare initial adhesion and surface growth of Staphylococcus epidermidis HBH2 102 and Pseudomonas aeruginosa AK1 on poly(dimethylsiloxane), Teflon, polyethylene, polypropylene, polyurethane, poly(ethylene terephthalate), poly(methyl methacrylate), and glass.
 
+### [`open_access.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/open_access.csv)
+
+[Mekonnen, A., Downs, C., Effiom, E.O., Kibaja, M., Lawes, M.J., Omeja, P., et al. (2022) Can I afford to publish? A dilemma for African scholars. Ecology Letters, 25, 711– 715. Available from: https://doi.org/10.1111/ele.13949](https://onlinelibrary.wiley.com/doi/10.1111/ele.13949)
+
+**Summary**
+
+Investigating the costs of publishing and the ability of African scholars to afford to publish via open access in top journals. Journal metric data from 169 ecology journals considered by Journal Citation Reports.
+
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
 Simple CRD experimental data used for BIOSCI738 course notes.
