@@ -267,6 +267,14 @@ The infection risk of biomaterials implants varies between different materials a
 
 Investigating the costs of publishing and the ability of African scholars to afford to publish via open access in top journals. Journal metric data from 169 ecology journals considered by Journal Citation Reports.
 
+### [`fries.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/fries.csv)
+
+[N. Abdul Hamid, S. Omar, M. Sanny. (2019) Effect of thawing conditions and corresponding frying temperature profiles on the formation of acrylamide in French fries, Journal of the Saudi Society of Agricultural Sciences, 18(4), 396--400](https://www.sciencedirect.com/science/article/pii/S1658077X17302655?via%3Dihub#t0005)
+
+**Summary**
+
+Data scraped from Figure 1 of the paper using [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
+
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
 Simple CRD experimental data used for BIOSCI738 course notes.
