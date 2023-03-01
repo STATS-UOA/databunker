@@ -275,6 +275,15 @@ Investigating the costs of publishing and the ability of African scholars to aff
 
 Data scraped from Figure 1 of the paper using [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 
+
+### [`amylase.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/amylase.csv)
+
+[Abaz, J., Walsh, S.J., Curran, J.M., Moss, D.S., Cullen, J., Bright, J.A., Crowe, G.A., Cockerton, S.L. and Power, T.E. Comparison of the variables affecting the recovery of DNA from common drinking containers. Forensic Sci Int. 2002 May 23;126(3):233-40.](https://www.sciencedirect.com/science/article/pii/S0379073802000890?via%3Dihub)
+
+**Summary**
+
+Subset of `data(abaz.df, package = "dafs")`
+
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
 Simple CRD experimental data used for BIOSCI738 course notes.
