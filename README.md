@@ -320,3 +320,7 @@ Eckmans colour perception used for BIOSCI738 course notes.
 
 Data used for BIOSCI738 course notes.
 
+### [`pumpkins.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/pumpkins.csv)
+
+Homegrown (mine) pumpkin data used for BIOSCI738 course notes.
+
