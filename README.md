@@ -284,6 +284,17 @@ Data scraped from Figure 1 of the paper using [WebPlotDigitizer](https://automer
 
 Subset of `data(abaz.df, package = "dafs")`
 
+### [`monkey.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/monkey.csv)
+
+[Laura Almeling, Kurt Hammerschmidt, Holger Sennhenn-Reulen, Alexandra M. Freund, and Julia Fischer. (2016) Motivational Shifts in Aging Monkeys and the Origins of Social Selectivity, Current Biology, 26(13), 1744--1749,]( https://royalsocietypublishing.org/doi/full/10.1098/rsos.182237)
+
+(Semi) related blog [Un garçon pas comme les autres (Bayes)]( https://dansblog.netlify.app/posts/2022-09-04-everybodys-got-something-to-hide-except-me-and-my-monkey/everybodys-got-something-to-hide-except-me-and-my-monkey.html)
+
+**Summary**
+
+To assess potential age-related changes in Barbary macaques’ interest to engage with the nonsocial environment, the authord presented male and female subjects with three different types of novel objects: animal toys, a cube filled with colorful plastic pieces in a viscose liquid, and an opaque tube closed with soft tissue at both ends and baited with a food reward.
+
+
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
 Simple CRD experimental data used for BIOSCI738 course notes.
