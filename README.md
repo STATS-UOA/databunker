@@ -294,6 +294,13 @@ Subset of `data(abaz.df, package = "dafs")`
 
 To assess potential age-related changes in Barbary macaques’ interest to engage with the nonsocial environment, the authord presented male and female subjects with three different types of novel objects: animal toys, a cube filled with colorful plastic pieces in a viscose liquid, and an opaque tube closed with soft tissue at both ends and baited with a food reward.
 
+### [`teddys.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/teddys.csv)
+
+[Anne-Sophie Tribot, Nathalie Blanc, Thierry Brassac, François Guilhaumon, Nicolas Casajus & Nicolas Mouquet (2023) What makes a teddy bear comforting? A participatory study reveals the prevalence of sensory characteristics and emotional bonds in the perception of comforting teddy bears, The Journal of Positive Psychology, DOI: 10.1080/17439760.2023.2170273](https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2170273?scroll=top&needAccess=true&role=tab)
+
+**Summary**
+
+Paper investigating which, if any, characteristics of teddy bears influence their comforting power, including visual, olfactory and kinesthetic properties.
 
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
