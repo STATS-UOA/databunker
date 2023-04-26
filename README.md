@@ -276,7 +276,7 @@ Investigating the costs of publishing and the ability of African scholars to aff
 Data scraped from Figure 1 of the paper using [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 
 
-### [`amylase.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/amylase.csv)
+### [`amylase.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/amylase.csv)
 
 [Abaz, J., Walsh, S.J., Curran, J.M., Moss, D.S., Cullen, J., Bright, J.A., Crowe, G.A., Cockerton, S.L. and Power, T.E. Comparison of the variables affecting the recovery of DNA from common drinking containers. Forensic Sci Int. 2002 May 23;126(3):233-40.](https://www.sciencedirect.com/science/article/pii/S0379073802000890?via%3Dihub)
 
@@ -284,7 +284,7 @@ Data scraped from Figure 1 of the paper using [WebPlotDigitizer](https://automer
 
 Subset of `data(abaz.df, package = "dafs")`
 
-### [`monkey.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/monkey.csv)
+### [`monkey.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/monkey.csv)
 
 [Laura Almeling, Kurt Hammerschmidt, Holger Sennhenn-Reulen, Alexandra M. Freund, and Julia Fischer. (2016) Motivational Shifts in Aging Monkeys and the Origins of Social Selectivity, Current Biology, 26(13), 1744--1749,]( https://royalsocietypublishing.org/doi/full/10.1098/rsos.182237)
 
@@ -294,7 +294,7 @@ Subset of `data(abaz.df, package = "dafs")`
 
 To assess potential age-related changes in Barbary macaques’ interest to engage with the nonsocial environment, the authord presented male and female subjects with three different types of novel objects: animal toys, a cube filled with colorful plastic pieces in a viscose liquid, and an opaque tube closed with soft tissue at both ends and baited with a food reward.
 
-### [`teddys.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/teddys.csv)
+### [`teddys.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/teddys.csv)
 
 [Anne-Sophie Tribot, Nathalie Blanc, Thierry Brassac, François Guilhaumon, Nicolas Casajus & Nicolas Mouquet (2023) What makes a teddy bear comforting? A participatory study reveals the prevalence of sensory characteristics and emotional bonds in the perception of comforting teddy bears, The Journal of Positive Psychology, DOI: 10.1080/17439760.2023.2170273](https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2170273?scroll=top&needAccess=true&role=tab)
 
@@ -302,7 +302,7 @@ To assess potential age-related changes in Barbary macaques’ interest to engag
 
 Paper investigating which, if any, characteristics of teddy bears influence their comforting power, including visual, olfactory and kinesthetic properties.
 
-### [`thc.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/thc.csv)
+### [`thc.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/thc.csv)
 
 [Schwabe, A. L., Johnson, V., Harrelson, J., & McGlaughlin, M. E. (2023). Uncomfortably high: Testing reveals inflated THC potency on retail Cannabis labels. PLoS one, 18(4), e0282396](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282396)
 
