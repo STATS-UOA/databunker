@@ -1,0 +1,85 @@
+"strain","dispensary","abb","id","run","sat.ind.pct","dom.strain","total","low","high","mid"
+"Afghani","The Kind Room","Afgh_1",296,1,"0/100","Indica",9.704809,16.4,NA,16.4
+"Afghani","The Kind Room","Afgh_1",296,2,"0/100","Indica",11.36848,16.4,NA,16.4
+"Afghani","The Kind Room","Afgh_1",296,3,"0/100","Indica",10.40858,16.4,NA,16.4
+"Afghani","The Kind Room","Afgh_1",296,4,"0/100","Indica",12.074,16.4,NA,16.4
+"Afghani","The Kind Room","Afgh_1",296,5,"0/100","Indica",11.39194,16.4,NA,16.4
+"Afghani","The Kind Room","Afgh_1",296,6,"0/100","Indica",12.70905,16.4,NA,16.4
+"Blue Dream","Good Chemistry","BlDr_1SN",609,2,"50/50","Hybrid",14.4044,17.33,33,25.165
+"Blue Dream","Good Chemistry","BlDr_1SN",609,3,"50/50","Hybrid",15.42772,17.33,33,25.165
+"Blue Dream","Lucy Sky","BlDr_3SN",409,1,"50/50","Hybrid",17.9296,17.87,NA,17.87
+"Blue Dream","Lucy Sky","BlDr_3SN",409,2,"50/50","Hybrid",18.17833,17.87,NA,17.87
+"Blue Dream","Lucy Sky","BlDr_3SN",409,3,"50/50","Hybrid",18.5671,17.87,NA,17.87
+"Blue Dream","Peak","BlDr_4SN",445,1,"50/50","Hybrid",12.36896,14.41,25.18,19.795
+"Blue Dream","Peak","BlDr_4SN",445,2,"50/50","Hybrid",11.94951,14.41,25.18,19.795
+"Blue Dream","Peak","BlDr_4SN",445,3,"50/50","Hybrid",11.30749,14.41,25.18,19.795
+"Blue Dream 5","Alternatives","BlDr_5_2",367,1,"50/50","Hybrid",10.84693,16.64,NA,16.64
+"Blue Dream 5","Alternatives","BlDr_5_2",367,2,"50/50","Hybrid",10.31057,16.64,NA,16.64
+"Blue Dream 5","Alternatives","BlDr_5_2",367,3,"50/50","Hybrid",10.24767,16.64,NA,16.64
+"Blue Dream","Wellness","BlDr_6SN",738,1,"50/50","Hybrid",15.34735,26.65,28.23,27.44
+"Blue Dream","Wellness","BlDr_6SN",738,2,"50/50","Hybrid",14.06532,26.65,28.23,27.44
+"Blue Dream","Wellness","BlDr_6SN",738,3,"50/50","Hybrid",16.09956,26.65,28.23,27.44
+"Bubba 98","The Kind Room","Bu98_1",372,1,"20/80","Indica",12.64704,24.38,NA,24.38
+"Bubba 98","The Kind Room","Bu98_1",372,2,"20/80","Indica",13.01693,24.38,NA,24.38
+"Bubba 98","The Kind Room","Bu98_1",372,3,"20/80","Indica",18.20762,24.38,NA,24.38
+"Bubba 98","The Kind Room","Bu98_1",372,4,"20/80","Indica",19.26065,24.38,NA,24.38
+"Bubba 98","The Kind Room","Bu98_1",372,5,"20/80","Indica",18.84645,24.38,NA,24.38
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,1,"100/0","Sativa",16.52793,19.2,NA,19.2
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,2,"100/0","Sativa",13.71213,19.2,NA,19.2
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,3,"100/0","Sativa",12.87807,19.2,NA,19.2
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,4,"100/0","Sativa",11.48882,19.2,NA,19.2
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,5,"100/0","Sativa",11.61032,19.2,NA,19.2
+"Colombian Gold '72","Good Chemistry","CoGo72_1",714,6,"100/0","Sativa",11.65468,19.2,NA,19.2
+"Dankey Kong","Walking Raven","DaKo_1",178,1,"10/90","Indica",19.67159,26.58,27.73,27.155
+"Dankey Kong","Walking Raven","DaKo_1",178,2,"10/90","Indica",17.59522,26.58,27.73,27.155
+"Dankey Kong","Walking Raven","DaKo_1",178,3,"10/90","Indica",17.31888,26.58,27.73,27.155
+"Dankey Kong","Walking Raven","DaKo_1",178,4,"10/90","Indica",21.0015,26.58,27.73,27.155
+"Dankey Kong","Walking Raven","DaKo_1",178,5,"10/90","Indica",22.29269,26.58,27.73,27.155
+"Dankey Kong","Walking Raven","DaKo_1",178,6,"10/90","Indica",19.62409,26.58,27.73,27.155
+"Durban Poison","The Kind Room","DuPo_1SN",918,1,"100/0","Sativa",10.47948,17.4,NA,17.4
+"Durban Poison","The Kind Room","DuPo_1SN",918,2,"100/0","Sativa",11.03936,17.4,NA,17.4
+"Durban Poison","The Kind Room","DuPo_1SN",918,3,"100/0","Sativa",13.10719,17.4,NA,17.4
+"Durban Poison","Walking Raven","DuPo_4Sn",492,1,NA,"Sativa",11.97292,20.88,NA,20.88
+"Durban Poison","Walking Raven","DuPo_4Sn",492,2,NA,"Sativa",13.23904,20.88,NA,20.88
+"Durban Poison","Walking Raven","DuPo_4Sn",492,3,NA,"Sativa",15.94241,20.88,NA,20.88
+"Durban Poison","Infinate Wellness","DuPo_5SN",487,1,NA,"Sativa",12.8844,21.5,NA,21.5
+"Durban Poison","Infinate Wellness","DuPo_5SN",487,2,NA,"Sativa",13.62467,21.5,NA,21.5
+"Durban Poison","Infinate Wellness","DuPo_5SN",487,3,NA,"Sativa",14.01654,21.5,NA,21.5
+"Gorilla Glue","Walking Raven","GG#4_2",189,1,"65/35","Sativa",14.63741,25.41,30.88,28.145
+"Gorilla Glue","Walking Raven","GG#4_2",189,2,"65/35","Sativa",14.94816,25.41,30.88,28.145
+"Gorilla Glue","Walking Raven","GG#4_2",189,3,"65/35","Sativa",15.59013,25.41,30.88,28.145
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,1,"65/35","Sativa",14.62499,12.8,19.3,16.05
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,2,"65/35","Sativa",14.15312,12.8,19.3,16.05
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,3,"65/35","Sativa",14.69547,12.8,19.3,16.05
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,4,"65/35","Sativa",15.34685,12.8,19.3,16.05
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,5,"65/35","Sativa",15.68819,12.8,19.3,16.05
+"Green Crunch (Green Crack)","Good Chemistry","GrCr_1",500,6,"65/35","Sativa",14.91633,12.8,19.3,16.05
+"Lemon Skunk","Good Chemistry","LeSk_2",188,1,"60/40","Sativa",15.98159,16.9,17.4,17.15
+"Lemon Skunk","Good Chemistry","LeSk_2",188,2,"60/40","Sativa",15.77992,16.9,17.4,17.15
+"Lemon Skunk","Good Chemistry","LeSk_2",188,3,"60/40","Sativa",16.29176,16.9,17.4,17.15
+"Mob Boss","Good Chemistry","MoBo_1SN",649,1,"50/50","Hybrid",16.45245,19,31,25
+"Mob Boss","Good Chemistry","MoBo_1SN",649,2,"50/50","Hybrid",16.55793,19,31,25
+"Mob Boss","Good Chemistry","MoBo_1SN",649,3,"50/50","Hybrid",16.11255,19,31,25
+"Mob Boss","Peak","MoBo_3SN",877,1,NA,"Hybrid",14.22108,22.12,24.87,23.495
+"Mob Boss","Peak","MoBo_3SN",877,2,NA,"Hybrid",13.64287,22.12,24.87,23.495
+"Mob Boss","Peak","MoBo_3SN",877,3,NA,"Hybrid",15.10335,22.12,24.87,23.495
+"Mob Boss","Wellness","MoBo_5SN",531,1,NA,"Hybrid",16.04941,25.2,28.9,27.05
+"Mob Boss","Wellness","MoBo_5SN",531,2,NA,"Hybrid",15.2305,25.2,28.9,27.05
+"Mob Boss","Wellness","MoBo_5SN",531,3,NA,"Hybrid",15.34296,25.2,28.9,27.05
+"OG Kush","Diego Pellicer","OGKu_1SN",794,1,"55/45","Hybrid",15.78267,15.2,26.14,20.67
+"OG Kush","Diego Pellicer","OGKu_1SN",794,2,"55/45","Hybrid",16.09804,15.2,26.14,20.67
+"OG Kush","Diego Pellicer","OGKu_1SN",794,3,"55/45","Hybrid",15.39886,15.2,26.14,20.67
+"OG Kush","The Kind Room","OGKu_2SN",368,1,NA,"Hybrid",15.52311,28.07,31.28,29.675
+"OG Kush","The Kind Room","OGKu_2SN",368,2,NA,"Hybrid",15.89916,28.07,31.28,29.675
+"OG Kush","Infinate Wellness","OGKu_3SN",707,1,NA,"Hybrid",16.90008,24.2,NA,24.2
+"OG Kush","Infinate Wellness","OGKu_3SN",707,2,NA,"Hybrid",16.91754,24.2,NA,24.2
+"OG Kush","Infinate Wellness","OGKu_3SN",707,3,NA,"Hybrid",16.77292,24.2,NA,24.2
+"OG Kush","Company","OGKu_4SN",399,1,NA,"Hybrid",16.41026,15,25.01,20.005
+"OG Kush","Company","OGKu_4SN",399,2,NA,"Hybrid",16.65653,15,25.01,20.005
+"OG Kush","Company","OGKu_4SN",399,3,NA,"Hybrid",16.95999,15,25.01,20.005
+"Sour Amnesia","Good Chemistry","SoAm_1",279,1,"75/25","Sativa",13.33669,23.1,26.8,24.95
+"Sour Amnesia","Good Chemistry","SoAm_1",279,2,"75/25","Sativa",12.66957,23.1,26.8,24.95
+"Sour Amnesia","Good Chemistry","SoAm_1",279,3,"75/25","Sativa",15.41629,23.1,26.8,24.95
+"Sour Amnesia","Good Chemistry","SoAm_1",279,4,"75/25","Sativa",16.68735,23.1,26.8,24.95
+"Sour Amnesia","Good Chemistry","SoAm_1",279,5,"75/25","Sativa",16.98411,23.1,26.8,24.95
+"Sour Amnesia","Good Chemistry","SoAm_1",279,6,"75/25","Sativa",16.02771,23.1,26.8,24.95

@@ -302,6 +302,19 @@ To assess potential age-related changes in Barbary macaques’ interest to engag
 
 Paper investigating which, if any, characteristics of teddy bears influence their comforting power, including visual, olfactory and kinesthetic properties.
 
+### [`thc.csv'](https://github.com/STATS-UOA/databunker/blob/master/data/thc.csv)
+
+[Schwabe, A. L., Johnson, V., Harrelson, J., & McGlaughlin, M. E. (2023). Uncomfortably high: Testing reveals inflated THC potency on retail Cannabis labels. PLoS one, 18(4), e0282396](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282396)
+
+**Notes**
+
+Data scraped from paper by [@jmcurran](https://github.com/orgs/STATS-UOA/people/jmcurran)
+
+**Summary**
+
+Comparison of reported and observed THC in publically available Cannabis.
+
+
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
 Simple CRD experimental data used for BIOSCI738 course notes.
