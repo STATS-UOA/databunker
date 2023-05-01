@@ -314,6 +314,15 @@ Data scraped from paper by [@jmcurran](https://github.com/orgs/STATS-UOA/people/
 
 Comparison of reported and observed THC in publically available Cannabis.
 
+### [`bats.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/bats.csv)
+
+[K.E. Barlow, P.A. Briggs, K.A. Haysom, A.M. Hutson, N.L. Lechiara, P.A. Racey, A.L. Walsh, S.D. Langton. (2015) Citizen science reveals trends in bat populations: The National Bat Monitoring Programme in Great Britain,
+Biological Conservation. 182](https://www.sciencedirect.com/science/article/abs/pii/S0006320714004479?via%3Dihub)
+
+**Notes**
+
+Subset of the full data available frim [DRYAD](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.1vhhmgqr0). Observations from 2017 and of surveyed *Pipistrellus pygmaeus* and *Rhinolophus hipposideros*.
+
 
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
