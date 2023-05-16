@@ -323,6 +323,33 @@ Biological Conservation. 182](https://www.sciencedirect.com/science/article/abs/
 
 Subset of the full data available frim [DRYAD](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.1vhhmgqr0). Observations from 2017 and of surveyed *Pipistrellus pygmaeus* and *Rhinolophus hipposideros*.
 
+### [`glass.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/glass.csv)
+
+**Summary**
+
+Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type(discrete 7 values).
+
+`RI`: refractive index
+`Na`: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
+`Mg`: Magnesium
+`Al`: Aluminum
+`Si`: Silicon
+`K`: Potassium
+`Ca`: Calcium
+`Ba`: Barium
+`Fe`: Iron
+`Type` of glass: (class attribute)
+-- 1 building_windows_float_processed
+-- 2 building_windows_non_float_processed
+-- 3 vehicle_windows_float_processed
+-- 4 vehicle_windows_non_float_processed (none in this database)
+-- 5 containers
+-- 6 tableware
+-- 7 headlamps
+
+[**Source**](https://www.kaggle.com/datasets/uciml/glass)
+
+
 
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
 
