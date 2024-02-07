@@ -1,8 +1,10 @@
 ## Overview
 
-[A collection of `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data). For a simple codebook overview of the data follow [this link](https://stats-uoa.github.io/databunker/).
+[A collection of `.csv` data files](https://github.com/STATS-UOA/databunker/tree/master/data).
 
-## Reading in data directly from the URL.
+### For a codebook overview of the data follow [this link](https://stats-uoa.github.io/databunker/).
+
+### Reading in data directly from the URL.
 
 To read in a `.csv` file (here `howls.csv`) into `R` run
 
@@ -349,6 +351,13 @@ Glass Identification Data Set from UCI. It contains 10 attributes including id. 
 
 [**Source**](https://www.kaggle.com/datasets/uciml/glass)
 
+### [`swift_kelce.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/swift_kelce.csv)
+
+[**Source:**Travis Kelce stats with and without Taylor Swift: How much better is Chiefs star with his girlfriend in attendance?](https://www.sportingnews.com/us/nfl/news/travis-kelce-stats-taylor-swift-chiefs-games/ebc0a5f22eed44a5107d31f5)
+
+**Summary**
+
+Article comparing Travis Kelce's (NFL) stats at games when Taylor Swift has been cheering him on in person against when she wasn't.
 
 
 ### [`crd_rats_data.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/crd_rats_data.csv)
