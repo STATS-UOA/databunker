@@ -400,3 +400,6 @@ Data used for BIOSCI738 course notes.
 
 Homegrown (mine) pumpkin data used for BIOSCI738 course notes.
 
+### [`manta_data.xlsx`](https://github.com/STATS-UOA/databunker/blob/master/data/manta_data.xlsx)
+
+Data from supplementary materials of [Setyawan E, Stevenson BC, Izuan M, Constantine R, Erdmann MV. How Big Is That Manta Ray? A Novel and Non-Invasive Method for Measuring Reef Manta Rays Using Small Drones. Drones. 2022; 6(3):63](https://doi.org/10.3390/drones6030063)
