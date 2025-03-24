@@ -403,3 +403,11 @@ Homegrown (mine) pumpkin data used for BIOSCI738 course notes.
 ### [`manta_data.xlsx`](https://github.com/STATS-UOA/databunker/blob/master/data/manta_data.xlsx)
 
 Data from supplementary materials of [Setyawan E, Stevenson BC, Izuan M, Constantine R, Erdmann MV. How Big Is That Manta Ray? A Novel and Non-Invasive Method for Measuring Reef Manta Rays Using Small Drones. Drones. 2022; 6(3):63](https://doi.org/10.3390/drones6030063)
+
+### [`marvel_movies.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/marvel_movies.xlsx)
+
+[Source](https://docs.google.com/spreadsheets/d/1YSJ4ypkYLq6j1mIBJCgUHhHjJZQ0Rkfe1qW2WC5HLiw/edit#gid=748627588)
+
+### [`retracted-honesty-study_week-02.csv`](https://github.com/STATS-UOA/databunker/blob/master/data/retracted-honesty-study_week-02.csv)
+
+[Source](https://datacolada.org/109)
